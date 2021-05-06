@@ -1,0 +1,48 @@
+{% extends "layouts/simple.njk" %}
+
+
+{% block postContent %}
+
+                <ul class="no-bullets">
+                    {%- for key in levities %}
+                        <li><a href="{{ key.url | url}}"><h5>{{ key.data.title }}</a> 
+                        <small class="text-muted">
+                       {% for tag in  key.data.tags -%}
+                    {% if tag !== 'levity' %}
+                        <span class="tag">[{{ tag }}]</span>
+                    {% endif %}
+                    {%- endfor %}
+                  </small>
+                        
+                        </h5></li>
+                            
+               
+                 
+                  <p class="text-muted">{{ key.data.date }}</p>
+
+
+                {%- endfor %}
+
+                </ul>
+
+
+
+
+
+                </br>
+            {% if pagination.href.previous %}
+                <a href="{{pagination.href.previous}}">Neuere Levities</a>
+            {% endif %}
+            {% if pagination.href.next %}
+                <a href="{{pagination.href.next}}">Ältere Levities</a>
+            {% endif %}
+              </br> </br> 
+               
+
+     
+{% endblock postContent%}
+
+
+
+
+    

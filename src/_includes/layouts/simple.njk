@@ -1,0 +1,33 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+        <div class="row">
+       <div class="col-8">
+            <h2>{{ title }}</h2>
+             </div>
+               <div style="line-height: 100%"; class="col-4 text-right">
+                    <p>{{ motto }}</p>
+                     <p><em>{{ source }} </em></p>
+              </div>
+              
+                 
+                
+                   
+         </div>
+       
+          
+       
+        
+
+        <div>
+         <p class="text-muted">{{ date }}</p>
+        </div>
+
+         <div>
+         {{ content | safe }}
+         </div>
+
+
+
+{% endblock content %}

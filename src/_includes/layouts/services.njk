@@ -1,0 +1,32 @@
+{% extends "layouts/simple.njk" %}
+
+BLOCK CONTENT
+{% block postContent %}
+
+<div class="service-area sp">
+        <div class="container">
+           
+            <div class="row">
+               {% for key in collections.services %}
+                    <div class="col-lg-4 col-md-6 single-service-2">
+                    <div class="inner">
+                        <div class="title">
+                            <div class="icon">
+                                <i class="fa fa-{{ key.data.faIcon }}"></i>
+                            </div>
+                            <h4>{{ key.data.title }}</h4>
+                        </div>
+                        <div class="content">
+                            <p>{{ key.data.description }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+               
+          
+               
+             </div>
+            </div>
+        </div>
+     
+{% endblock postContent%}
