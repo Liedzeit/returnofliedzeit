@@ -5,11 +5,11 @@ date: "2021-04-25"
 tags: ["levity","pol"]
 ---
 
-Mehr als 50 Schauspieler haben eine kleine Aktion gestartet. In kurzen eiträgen schildern sie wie sie die Corona-Zeit erleben. Und zwar ironisch oder satirisch, auf jeden Fall witzig. So nach dem Motto, macht noch mehr dicht. Ich habe noch nicht genug Angst. Macht mir mehr Angst. 
+Mehr als 50 Schauspieler haben eine kleine Aktion gestartet. In kurzen Beiträgen schildern sie wie sie die Corona-Zeit erleben. Und zwar ironisch oder satirisch, auf jeden Fall witzig. So nach dem Motto, macht noch mehr dicht. Ich habe noch nicht genug Angst. Macht mir mehr Angst. 
 
 Das ging natürlich nach hintern los. Wer versteht schon Satire?
 
-Icke. Also ich fand es wirklich gut. Fast alle, und mich würde am meisten interessieren, ob die sich die Texte wirklich selbst geschrieben haben. Dafür war die eigentlich zu gut. Mal ganz abgesehen vom Inhalt, formal, als Kunstwerk, war das grandios.
+Icke. Also ich fand es wirklich gut. Fast alle, und mich würde am meisten interessieren, ob die sich die Texte wirklich selbst geschrieben haben. Dafür waren die eigentlich zu gut. Mal ganz abgesehen vom Inhalt, formal, als Kunstwerk, war das grandios.
 
 Einsame Klasse der Herr Tukur, der es als einziger für nicht nötig erachtete, sich vorzustellen. Ein ganz Großer.
 
