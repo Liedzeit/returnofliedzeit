@@ -1,11 +1,17 @@
 ---
 layout: "layouts/simple.njk"
-title:  "Wittgenstein Zeitzeichen"
+title:  "Wittgenstein-Zeitzeichen"
 description: "Kurze Biographie Wittgensteins"
 faIcon: "film"
 tags: "philosophy"
 backgroundImage: "/assets/img/kirchberg.png"
 ---
+
+Dieser Text entstand 1989 und war von mir als WDR-Zeitzeichen gedacht. Ob ich das Manussript damals allerdings tatsächlich eingereicht habe, weiß ich nich mehr. Wenn, dann wurde es jedenfalls nicht gesendet. Vielleicht versuche ich mein Glück 2039 noch einmal.
+
+Inhaltlich würde ich das heute ein wenig anders darstellen. Aber ich lasse das hier so als historisches Zeugnis.
+
+<br>
 
 ## Ludwig Wittgenstein
 
@@ -16,7 +22,7 @@ Lieber Russell!
 
 Ich habe ein Buch mit dem Titel 'Logisch-Philosophische Abhandlungen' geschrieben, das meine gesamte Arbeit der letzten sechs Jahre enthält. Ich glaube, ich habe unsere Probleme endgültig gelöst. Dies klingt vielleicht hochmütig, aber ich kann nicht umhin es zu glauben.
 
-Das Manuscript ... würdest Du ohne vonagehende Erklärung nicht verstehen, da es in ziemlich kurzen Bemerkungen geschrieben ist. (Dies bedeutet natürlich, dass es <u>keiner</u> verstehen wird, obwohl ih glaube, dass alles kristallklar ist.) Es wirft unsere ganze Theorie der Wahrheit der Klassen, der Zahlen und den ganzen Rest um.
+Das Manuskript ... würdest Du ohne vorangehende Erklärung nicht verstehen, da es in ziemlich kurzen Bemerkungen geschrieben ist. (Dies bedeutet natürlich, dass es <u>keiner</u> verstehen wird, obwohl ih glaube, dass alles kristallklar ist.) Es wirft unsere ganze Theorie der Wahrheit der Klassen, der Zahlen und den ganzen Rest um.
 </div>
 
 Das Buch, von dem die Rede ist, erschien zwei Jahre später unter dem latainisierten Titel "Tratatus-Logico-Philosophicus". Ein Büchlein eigentlich, es umfaßt nicht einmal 89 Seiten, aber ein Standardwerk der Philosophie. Sein Autor, Ludwig Wittgesntein, gilt vielen, zumindest in der angelsächsischen Welt, als der bedeutendste Philosoph des 20. Jahrhunderts.
@@ -59,7 +65,7 @@ Wittgenstein betrachtet in den Tagebüchern das Beispile *die Uhr liegt auf dem 
 
 Die Forderung der einfachen Dinge, so fasst Wittgenstein diesen Gedanken zusammen, ist die Forderung nach der Bestimmtheit des Sinnes. Wenn also unsere Sätze einen festen Sinn haben, dass muss die Welt aus einfachen Gegenständen bestehen. Der Gegenstand darf keinerlei Eigenschaften haben. Alle Eigenschaften sollen sich erst aus der Kombination der einfachen Gegenstände ergeben.
 
-Theoretisch müsste nun jeder sinnvolle Satz in seine Urbestandteile, die einfachen Namen zergliedern lassen. Andererseits muss jeder Satz, bei dem eine solche Analyse prinzipiell unmöglich ist, unsinnig sein. Zu dieser Kategorie von Sätzen zählen alle, die sich mit Phänomenen bbeschäftigen, die nicht Bestandteil der Welt sind und sich nicht naturwissenschaftlich fassen lassen. Alle Sätze über Gott zum Beispiel, über das Selbst oder auch über das Verhältnis von Sprache und Welt nennt Wittgenstein unsinnig. Die Sätze des Tractatus nimmt er dabei nicht aus. Wie alle philosophischen Sätze sind sie unsinnig.
+Theoretisch müsste nun jeder sinnvolle Satz in seine Urbestandteile, die einfachen Namen zergliedern lassen. Andererseits muss jeder Satz, bei dem eine solche Analyse prinzipiell unmöglich ist, unsinnig sein. Zu dieser Kategorie von Sätzen zählen alle, die sich mit Phänomenen beschäftigen, die nicht Bestandteil der Welt sind und sich nicht naturwissenschaftlich fassen lassen. Alle Sätze über Gott zum Beispiel, über das Selbst oder auch über das Verhältnis von Sprache und Welt nennt Wittgenstein unsinnig. Die Sätze des Tractatus nimmt er dabei nicht aus. Wie alle philosophischen Sätze sind sie unsinnig.
 
 Das heißt nicht, das die Probleme der Philosophie unwichtig sind, im Gegenteil. Sie lassen sich nur nicht in sinnvollen Sätzen behandeln. Darum lautet die oft missverstandene Forderung: "Wovon man nicht sprechen kann, darüber muss man schweigen." Dieses Unsagbare soll sich nach Wittgenstein vielmehr zeigen. Zum Beispiel lässt sich nichts über das Verhältnis von Sprache und Welt sagen, da jeder sinnvolle Satz nach Definition einen Teil der Welt abbildet, die Abbildung selbst aber keine Abbildung ist. Dass jeder Satz abbildet, zeigt sich. Es zeigt sich jedem, der die Gedanken des Tractatus selbst schon einmal gedacht hat.
 
@@ -68,6 +74,14 @@ Wittgenstein glaubte alle Probleme der Philosophie im Wesentlichen gelöst zu ha
 Erst 1929, nachdem er in einem Zwischenspiel fpr eine seiner Schwestern in Wien ein Haus gebaut hatte, liess er sich dazu bewegen, nach Cambridge zurückzukehren.
 
 Es begann eine erstaunlich zweite Karriere. Denn Wittgenstein verfiel nicht darauf, die Philososphie seiner Jugend zu vertiefen oder zu popularisieren, vielmehr glaubrte er nu *schwere Irrtümer* in dem Tractatus zu erkennen, und er suchte und fand einen ganz neuen Zugang zu philosophischen Fragen. Er begann mit der Arbeit an einem zweiten Buch, den *Philosophischen Untersuchungen*. Auch für dieses zweite Werk nahm er an, dass es wohl kaum verstanden würde.
+
+<div style="padding-left: 30px;">
+Dass es dieser Arbeit in ihrer Dürftigkeit und der Finsternis dieser Zeit beschieden sein sollte, Licht in ein oder das andere Gehirn zu werfen ist nicht unmöglich; aber freilich nicht wahrscheinlich.
+</div>
+
+<br>
+
+Die Mischung aus Arroganz und Bescheidenheit war typisch für Wittgenstein. Sie machte einen Teil seiner Faszination aus. Wittgenstein war von dem Wert seiner Arbeit überzeugt, glaubte andererseits aber nicht an eine positive Wirkung. Er glaubte, alle philosophischen Probleme lösen zu können, war aber anderseits davon überzeugt, keine origionellen Gedanken fassen zu können, wofür er erstaunlibcherweise seine jüdische Herkunft verantwortlich machte. Seine Tagebücher sind voller Selbstzweifel, und Selbstanklagen. Er wollte in die Sowjetunion auswandern, zu einem anderen Zeitpunkt Medizin studieren, und er hat häufig an Selbstmord gedacht. Drei seiner Brüder hatten sich umgebracht. Professionell betreibene Philosophie war ihm ein Greuel, und er riet seinen Schülern, einen anderen Beruf zu ergreifen.
 
 
 
