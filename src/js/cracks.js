@@ -217,7 +217,7 @@ const cracks = [
       "language": "English"
     },
     {
-      "cracking": "Indocti discant, et ament meminisse pereti.",
+      "cracking": "Indocti discant, et ament meminisse periti.",
       "cracker": "Alexander Pope",
       "language": "other"
     },
@@ -314,7 +314,7 @@ const cracks = [
     {
       "cracking": "Tis better to have loved and lost than never to have lost at all. ",
       "cracker": "Alfred Tennyson",
-      "language": "German"
+      "language": "English"
     },
     {
       "cracking": "Die Leute, die heute gegen die Erzeugung der Bombe reden, sind freilich der Auswurf der Intelligenz, aber auch das beweist nicht unbedingt, daß das zu preisen ist, was sie verabscheuen.",

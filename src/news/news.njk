@@ -1,0 +1,29 @@
+---
+title: News
+layout: layouts/simple.njk
+backgroundImage: "/assets/img/default.png"
+---
+
+<div class="container">
+
+
+
+  <div id="weather" class="hidden">
+    <h2>Weather near you</h2>
+    <p id="city">x</p>
+    <p id="temp">temp</p>
+    <p id="main"></p>
+    <p id="desc"></p>
+  </div>
+
+
+  <ul class="no-bullets">
+  {% for article in news.articles %}
+  <li>
+  <h6><a  href="{{article.url }}">{{article.title }}</a></h6>
+  <span>{{ article.source.name}} - <time>{{ article.publishedAt }}</time></span>
+  </li>
+  {% endfor %}
+  </ul>
+  <br>
+    <br>
