@@ -1,6 +1,6 @@
 ---
 title: "Dept. Platten"
-date: "2021-02-01"
+date: "2021-02-27"
 tags: ["levity","lps"]
 backgroundImage: "/assets/img/lps.png"
 ---
