@@ -10,7 +10,7 @@ Aber, höre ich mich einwenden, ist die Äußerung nicht durch die Meinungsfreih
 
 Und äh, was ist mit den Fakten? Ist der Dennis denn ein Quotenschwarzer? 
 
-Das tut nun wirklich nichts zur Sache, aber da mir zufällig das Gewprächsprotokoll von Sky vorliegt, soll das hier öffentlich gemacht werden.
+Das tut nun wirklich nichts zur Sache, aber da mir zufällig das Gesprächsprotokoll von Sky vorliegt, soll das hier öffentlich gemacht werden.
 
 
 <div style="padding-left: 30px;">
@@ -33,7 +33,7 @@ Zweiter Vorsitzender: Kommt nicht in Frage. Dem Nepotismus keine Chance. Wir sin
 
 PR-Mensch: Vielleicht sollten wir diesmal jemanden nehmen, der die moderne Gesellschaft widerspiegelt.
 
-Zweiter Vorsitzender: Ja, so wie die Kollegen von RTL gerade etwas für die Resozilation von Straffälligen getan haben.
+Zweiter Vorsitzender: Ja, so wie die Kollegen von RTL gerade etwas für die Resozialisation von Straffälligen getan haben.
 
 Erste Vorsitzende: Das ist aber schief gegangen.
 
@@ -47,7 +47,7 @@ Erste  Vorsitzende: Lassen wir die Scherze. Ernsthafte Vorschläge?
 
 PR-Mensch: Vielleicht sollten wir jemanden nehmen, der, wie sagt man...? Was die Amerikaner früher Afro-American genannt haben?
 
-Sportchefredakteur*: Wir wen Sie meinen.
+Sportchefredakteur*: Wir wissen wen Sie meinen.
 
 Erste  Vorsitzende: Ein PoC.
 

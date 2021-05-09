@@ -88,7 +88,7 @@ Die Mischung aus Arroganz und Bescheidenheit war typisch für Wittgenstein. Sie 
 
 Wittgenstein starb 1951, ohne sein zweites Buch vollendet zu haben. Es wurde posthum 1956 veröffentlicht. Die Philosophischen Untersuchungen stehen nicht nur inhaltlich, sondern auch formal im Gegensatz zum Tractatus. Während der Tractatus in einer technischen Sprache geschrieben ist, die ohne Logikkentnisse kaum zu bewältigen ist, scheinen in den Untersuchungen im lockeren Plauderton Belanglosigkeiten aneinandergereiht zu sein. Was müssen Spiele gemeinsam haben, um Spiel zu sein? Gibt es überhaupt etwas Gemeinsames? Was passiert, wenn jemand einen roten Apfel kaufen will? Wie würde eine Sprache aussehen, die nur aus vier Wörtern bestünde?
 
-Russell schimpfte über die neue Philosophie Wittgensteins, er habe sich eine Methode ausgedacht, die es erlaube zu philospphieren, ohne denken zu müssen.
+Russell schimpfte über die neue Philosophie Wittgensteins, er habe sich eine Methode ausgedacht, die es erlaube zu philosophieren, ohne denken zu müssen.
 
 Das wesentlich Neue war, dass Wittgenstein die Forderung nach der Bestimmtheit des Sinnes aufgab mit allen daraus resultierenden Konsequenzen. Ohne die Forderung nach der Bestimmtheit des des Sinns entfiel die Notwendigkeit der einfachen Dinge und damit die Grundlage der ganzen Frühphilosophie.
 
