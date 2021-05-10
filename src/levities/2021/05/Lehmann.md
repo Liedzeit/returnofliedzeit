@@ -27,7 +27,7 @@ PR-Mensch: Schon, aber die Menschen wollen Experten.
 
 Erste Vorsitzende: Also gut, wen nehmen wir?
 
-Gleichstellungsbeauftragte: Also mein Schwager meinte neulich, er würde gerne...
+Gleichstellungsbeauftragt*: Also mein Schwager meinte neulich, er würde gerne...
 
 Zweiter Vorsitzender: Kommt nicht in Frage. Dem Nepotismus keine Chance. Wir sind ein seriöses Unternehmen.
 
@@ -37,7 +37,7 @@ Zweiter Vorsitzender: Ja, so wie die Kollegen von RTL gerade etwas für die Reso
 
 Erste Vorsitzende: Das ist aber schief gegangen.
 
-Gleichstellungsbeauftragte: Schon, aber es geht ums Prinzip!
+Gleichstellungsbeauftragt*: Schon, aber es geht ums Prinzip!
 
 Sportchefredakteur*: Eine Frau?
 
@@ -51,7 +51,7 @@ Sportchefredakteur*: Wir wissen wen Sie meinen.
 
 Erste  Vorsitzende: Ein PoC.
 
-Gleichstellungsbeauftragte: Wie wär es mit Mustafi?
+Gleichstellungsbeauftragt*: Wie wär es mit Mustafi?
 
 Erste  Vorsitzende: Doch nicht verstanden.
 
@@ -77,11 +77,11 @@ Sportchefredakteur*: Ach ja.
 
 Zweiter Vorsitzender: Rudy?
 
-Erste  Vorsitzende:: Sie meinen Rüdiger. Der ist auch noch aktiv.
+Erste  Vorsitzende: Sie meinen Rüdiger. Der ist auch noch aktiv.
 
 Sportchefredakteur*: Ich hab’s. Dennis Aogo?
 
-Gleichstellungsbeauftragte: Wer ist das denn?
+Gleichstellungsbeauftragt*: Wer ist das denn?
 
 PR-Mensch: Der ist perfekt. Sympathisch, gut aussehend, eloquent. Ein echter Quotenbringer!
 
