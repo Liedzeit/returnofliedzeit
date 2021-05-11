@@ -9,7 +9,7 @@ backgroundImage: "/assets/img/school.jpg"
 
 <br>
 
-Wie sagt JC so schön: Willkommen, Bienvenue, Welcome!
+Wie sagt JG so schön: Willkommen, Bienvenue, Welcome!
 
 Vor fast zwanzig Jahren gab es schon einmal eine Liedzeit Homepage. 
 Aber für eine Privatperson, die nichts zu verkaufen hat, weder materiell, noch irgendwie ideell ist sowas ja irgendwie albern. 

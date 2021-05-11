@@ -1,5 +1,13 @@
+const { config } = require("dotenv");
+
 module.exports = function (eleventyConfig) {
     
+    eleventyConfig.setBrowserSyncConfig({
+        https: {
+            key: '/etc/localhost.key',
+            cert: '/etc/localhost.crt'
+        }
+    });
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("services");
     eleventyConfig.addPassthroughCopy("testimonials");
