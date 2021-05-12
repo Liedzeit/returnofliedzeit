@@ -14,9 +14,9 @@ var options = {
 
     let lat = crd.latitude;
     let lon = crd.longitude;
-    const wkey  = "12ade889ac57240102f7d2709c9a3d38"
+    
     //const { lat, lon } = event.queryStringParameters;
-    const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${wkey}&units=metric`;
+    const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${process.env.WEATHER_API_KEY}&units=metric`;
 
     fetch(url)
     .then((response) => {
