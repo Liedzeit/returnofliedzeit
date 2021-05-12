@@ -16,8 +16,9 @@ var options = {
     let lon = crd.longitude;
     
     //const { lat, lon } = event.queryStringParameters;
-    //const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${process.env.WEATHER_API_KEY}&units=metric`;
-
+    //const apikey = "43b8ea4c04fa407433a74cb5b1468e78";
+    //const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apikey}&units=metric`;
+    console.log(url);
     const url = `/.netlify/functions/weatherapi?lat=${pos.coords.latitude}&lon=${pos.coords.longitude}&units=metric`;
 
     fetch(url)
@@ -26,18 +27,22 @@ var options = {
     })
     .then((data)=>{
       console.log('data:', data)
-      document.querySelector('#userloc').textContent = data.name;
+      let city = data.name;
+      city = city.replace("Eppendorf","Eimsbüttel");
+      document.querySelector('#userloc').textContent = city;
       document.querySelector('#temperature').textContent = data.main.temp +" °C";
       console.log(data.weather[0]);
       let w = data.weather[0].main;
-      console.log(w);
+  
       document.querySelector('#sky').textContent = w;
     });
   }
   
   function error(err) {
+    console.log("Fehler " + err.code)
     console.warn(`ERROR(${err.code}): ${err.message}`);
   }
+
   
 
 
