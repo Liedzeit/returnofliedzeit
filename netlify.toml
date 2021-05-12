@@ -1,7 +1,7 @@
 [build]
   command = "npm run build"
   publish = "_site"
-  functions = "src/data/_functions"
+  functions = "src/_data/_functions"
 
 [template.environment]
   NEWS_API_KEY = "free API key from https://newsapi.org"
