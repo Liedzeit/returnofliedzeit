@@ -18,7 +18,7 @@ var options = {
     //const { lat, lon } = event.queryStringParameters;
     //const apikey = "43b8ea4c04fa407433a74cb5b1468e78";
     //const url = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apikey}&units=metric`;
-    console.log(url);
+ 
     const url = `/.netlify/functions/weatherapi?lat=${pos.coords.latitude}&lon=${pos.coords.longitude}&units=metric`;
 
     fetch(url)
