@@ -9,6 +9,6 @@ eleventyExcludeFromCollections: true
 pagination:
   data: collections.levity
   reverse: true
-  size: 10
+  size: 15
   alias: levities
 ---

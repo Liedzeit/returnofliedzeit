@@ -29,6 +29,7 @@ var options = {
       console.log('data:', data)
       let city = data.name;
       city = city.replace("Eppendorf","Eimsbüttel");
+      city = city.replace("Göttin","Güster");
       document.querySelector('#userloc').textContent = city;
       document.querySelector('#temperature').textContent = data.main.temp +" °C";
       console.log(data.weather[0]);

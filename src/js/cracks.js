@@ -1,5 +1,3 @@
-console.log("getting crack");
-
 const cracks = [
     {
       "cracking": "Hann tekr sverthit Gram ok leggr i methal theira bert. ",
