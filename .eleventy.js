@@ -8,6 +8,16 @@ module.exports = function (eleventyConfig) {
             cert: '/etc/localhost.crt'
         }
     });
+
+
+    eleventyConfig.addCollection("characters", function(collection) {
+		return collection.getFilteredByGlob("characters/*.md").sort((a,b) => {
+			if(a.data.title < b.data.title) return -1;
+			if(a.data.title > b.date.title) return 1;
+			return 0;
+		});
+	});
+
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("services");
     eleventyConfig.addPassthroughCopy("testimonials");
