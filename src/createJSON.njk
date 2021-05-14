@@ -1,0 +1,15 @@
+---
+permalink: /api/posts.json
+eleventyExcludeFromCollections: true
+---
+[
+    {%- for key in collections.levity %}
+    {% set data = key.data %}
+    {
+      "title": "{{ data.title }}",
+      "url": "{{ key.url }}",
+      "keywords": "{{ data.keywords }}",
+      "content": "{% excerpt key %}"
+    }{{ '' if loop.last else ',' }}
+  {% endfor  %}
+]

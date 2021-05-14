@@ -4,7 +4,7 @@ title: "Mein Freund Lehmann"
 tags: ["levity","pol"]
 ---
 <!-- Excerpt Start -->
-Man tritt dem Jens vermutlich nicht zu nahe, wenn man sagt, dass er nicht das hellste Licht auf der Torte ist. Und so äußerte in aller Unschuld den Verdacht, dass es sich bei Dennis Aogo um einen Quotenschwarzen handeln könne. Das ist natürlich ein Gedanke<!-- Excerpt End -->, der sich bei von Geburt an Anständigen oder mit antrainierten Zeitgeist-Check Begabten gar nicht erst im Kopf einnisten kann. Der Lehmann hat immerhin noch einen Smiley vorangeschickt, was ihn aber vor dem gerechten Zorn nicht schützen konnte, und so verlor er ser zurecht alle Ämter und Würden, und sein Heimatverein der ruhmreiche Heisinger SV belegte ihn mit lebenslangem Stadionverbot.
+Man tritt dem Jens vermutlich nicht zu nahe, wenn man sagt, dass er nicht das hellste Licht auf der Torte ist. Und so äußerte er in aller Unschuld den Verdacht, dass es sich bei Dennis Aogo um einen Quotenschwarzen handeln könne. Das ist natürlich ein Gedanke<!-- Excerpt End -->, der sich bei von Geburt an Anständigen oder mit antrainiertem Zeitgeist-Check Begabten gar nicht erst im Kopf einnisten kann. Der Lehmann hat immerhin noch einen Smiley vorangeschickt, was ihn aber vor dem gerechten Zorn nicht schützen konnte, und so verlor er sehr zurecht alle Ämter und Würden, und sein Heimatverein, der ruhmreiche Heisinger SV, belegte ihn mit lebenslangem Stadionverbot.
 
 Aber, höre ich mich einwenden, ist die Äußerung nicht durch die Meinungsfreiheit gedeckt? Nun ja, selbstverständlich... Er darf das sagen, nur darf er nicht hoffen, dass rassistische Äußerungen ohne Konsequenzen bleiben, und das Recht auf Empörung und Abgrenzung ist noch heiliger als die Meinungsfreiheit.
 

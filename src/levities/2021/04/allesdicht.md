@@ -13,9 +13,9 @@ Icke. Also ich fand es wirklich gut. Fast alle, und mich würde am meisten inter
 
 Einsame Klasse der Herr Tukur, der es als einziger für nicht nötig erachtete, sich vorzustellen. Ein ganz Großer.
 
-Und ja, man darf über die Corona-Politik schimpfen. Und man darf zwei Minuten über Corona sprechen, und wie es einen persönlich - oder in der Eigenschaft als Schauspieler begtrifft, ohne lobend die aufopferungsvolle Arbeit unseres Medizinpersonals erwähnen zu müssen.
+Und ja, man darf über die Corona-Politik schimpfen. Und man darf zwei Minuten über Corona sprechen, und wie es einen persönlich - oder in der Eigenschaft als Schauspieler -  betrifft, ohne lobend die aufopferungsvolle Arbeit unseres Medizinpersonals erwähnen zu müssen.
 
-Applaus von der falschen Seite? Zum Totlachen. Wenn wir das nicht aushalten, dann ist eh schon alles verloren. Alle müssen in diesen schwierigen Zeiten zusammenstehen? Nee, müssen wir nicht. Queerdenker? Ja, bitte. Auch gerne Flat-Earthler. There is not much room. But room enough!
+Applaus von der falschen Seite? Zum Totlachen. Wenn wir das nicht aushalten, dann ist eh schon alles verloren. Alle müssen in diesen schwierigen Zeiten zusammenstehen? Nee, müssen wir nicht. Querdenker? Ja, bitte. Auch gerne Flat-Earthler. There is not much room. But room enough!
 
 Und es ist wirklich tragisch, dass in der heutigen Cancel- und Selbstgerechten-Culture 
 die Leute so unter Druck gesetzt werden, dass sie sich von ihrer eigenen Aktion distanzieren. Oder, sie waren zu blöd ihre eigenen Texte zu verstehen. Siehe oben, und waren daher ernsthaft von der Reaktion überrascht.
