@@ -108,7 +108,7 @@ Auch dazu hat Wittgenstein eine Antwort:
 
 <div style="padding-left: 30px;">
 
-Wenn Weiß zu Schwarz wird, sagen manche Menschen, es ist im Wesentlichen noch immer dasselbe. Und andere, wenn die Farbe um einen Grad dunkler wird, sagen „Es hast sich ganz verändert”.
+Wenn Weiß zu Schwarz wird, sagen manche Menschen, es ist im Wesentlichen noch immer dasselbe. Und andere, wenn die Farbe um einen Grad dunkler wird, sagen „Es hat sich ganz verändert”.
 
 </div>
 
