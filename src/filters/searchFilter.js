@@ -4,8 +4,7 @@ module.exports = function (collection) {
   // what fields we'd like our index to consist of
   var index = elasticlunr(function () {
     this.addField("title");
-    this.addField("excerpt");
-    this.addField("tags");
+    this.addField("keywords");
     this.setRef("id");
   });
 
@@ -14,8 +13,7 @@ module.exports = function (collection) {
     index.addDoc({
       id: page.url,
       title: page.template.frontMatter.data.title,
-      excerpt: page.template.frontMatter.data.excerpt,
-      genres: page.template.frontMatter.data.genres,
+      keywords: page.template.frontMatter.data.keywords,
     });
   });
 

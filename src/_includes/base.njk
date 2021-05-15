@@ -42,23 +42,45 @@
                          <div class="right-nav">
                             <span class="search-icon fa fa-search"></span>
                             <form action="#" class="search-form">
-                                <input type="search" placeholder="search now">
+                                <input type="search" id="searchField" placeholder="suchen">
                                 <button type="submit"><i class="fa fa-search"></i></button>
                             </form>
+                             
+                           
+
                             <!--<form action="https://www.google.co.uk/search" method="get" class="search">
                             <input type="hidden" name="q" id="q" value="site:https://liedzeit.com">
                             <label for="search-str">Search <small></label>
                             <input type="text" name="q" id="search-str"></p>
                             <button type="submit" class="submit">Search with Google</button>
                             </form>-->
+
+                           <!--<div class="field">
+                                <label for="searchField" style= "Color: white">Search</label>
+                                <input type="search" placeholder="Search..." id="searchField" />
+                             </div>
+                             <ol  id="searchResults"/>
+                            <div id="noResultsFound" style="display: block;color: white">
+                                <p>No results found.</p>
+                            </div>-->
+                                <!--Only 5.7kb GZipped. You may want to bundle this with your application code. -->
+                                
+
                             <div class="header-social">
                                 <a href="https://www.goodreads.com/user/show/70907778-liedzeit"><img src="/assets/img/gr.png" alt="goodreads" style="width:18px;height:18px;margin-bottom:2px;"></a>
-                                <a href="https://www.besteveralbums.com/phpBB2/profile.php?mode=viewprofile&u=30382"><img src="/assets/img/bestever.png" alt="goodreads" style="width:18px;height:18px;margin-bottom:2px;"></a>
+                                <!--<a href="https://www.besteveralbums.com/phpBB2/profile.php?mode=viewprofile&u=30382"><img src="/assets/img/bestever.png" alt="goodreads" style="width:18px;height:18px;margin-bottom:2px;"></a>-->
                                 
                                 <!--<a href="#" class="fa fa-facebook"></a>
                                 <a href="#" class="fa fa-twitter"></a>
                                 <a href="#" class="fa fa-github"></a>-->
                             </div>
+                             <div>
+                             <ol  id="searchResults"/>
+                            <div id="noResultsFound" style="display:none;color:white">
+                                <p>No results found.</p>
+                            </div>
+                             </div>
+
                         </div>
                         <nav id="menu" class="d-none d-lg-block">
                              <ul>
@@ -159,5 +181,8 @@
 
 <script src="/js/cracks.js"></script>
 <script src="/js/weather.js"></script>
+<script src="/js/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
+
 
 </html>

@@ -2,6 +2,7 @@
 date: "2021-05-06"
 title: "Mein Freund Lehmann"
 tags: ["levity","pol"]
+keywords: ["fußball","Aogo"]
 ---
 <!-- Excerpt Start -->
 Man tritt dem Jens vermutlich nicht zu nahe, wenn man sagt, dass er nicht das hellste Licht auf der Torte ist. Und so äußerte er in aller Unschuld den Verdacht, dass es sich bei Dennis Aogo um einen Quotenschwarzen handeln könne. Das ist natürlich ein Gedanke<!-- Excerpt End -->, der sich bei von Geburt an Anständigen oder mit antrainiertem Zeitgeist-Check Begabten gar nicht erst im Kopf einnisten kann. Der Lehmann hat immerhin noch einen Smiley vorangeschickt, was ihn aber vor dem gerechten Zorn nicht schützen konnte, und so verlor er sehr zurecht alle Ämter und Würden, und sein Heimatverein, der ruhmreiche Heisinger SV, belegte ihn mit lebenslangem Stadionverbot.

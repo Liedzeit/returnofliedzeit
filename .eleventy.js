@@ -1,5 +1,9 @@
 const { config } = require("dotenv");
 
+const searchFilter = require("./src/filters/searchFilter");
+
+
+
 module.exports = function (eleventyConfig) {
     
     eleventyConfig.setBrowserSyncConfig({
@@ -9,14 +13,11 @@ module.exports = function (eleventyConfig) {
         }
     });
 
+    eleventyConfig.addFilter("search", searchFilter);
+    eleventyConfig.addCollection("levity", collection => {
+      return [...collection.getFilteredByGlob("./src/levities/**/*.md")];
+    });
 
-    eleventyConfig.addCollection("characters", function(collection) {
-		return collection.getFilteredByGlob("characters/*.md").sort((a,b) => {
-			if(a.data.title < b.data.title) return -1;
-			if(a.data.title > b.date.title) return 1;
-			return 0;
-		});
-	});
 
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("services");

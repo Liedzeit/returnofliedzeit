@@ -3,6 +3,7 @@ title: "Bye, bye Baby"
 description: "Bay City Roller dead."
 date: "2021-04-22"
 tags: ["levity","obi"]
+keywords: ["Les","McKevon","Bay City"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
 <!-- Excerpt Start -->
