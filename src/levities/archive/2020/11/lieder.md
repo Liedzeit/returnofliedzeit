@@ -1,6 +1,6 @@
 ---
 title: "Lieder aus Kunst und Honig"
-date: "2021-11-24"
+date: "2020-11-24"
 tags: ["levity","obi"]
 keywords: ["Karl Dall","Wandsbek"]
 backgroundImage: "/assets/img/grave.jpg"

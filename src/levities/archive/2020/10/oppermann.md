@@ -1,6 +1,6 @@
 ---
 title: "Mit 66"
-date: "2021-10-24"
+date: "2020-10-24"
 tags: ["levity","obi"]
 keywords: ["Thomas Oppermann","Lafontaine","Gabriel","Clement"]
 backgroundImage: "/assets/img/grave.jpg"
