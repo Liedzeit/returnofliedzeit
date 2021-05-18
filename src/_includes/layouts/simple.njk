@@ -27,7 +27,23 @@
          <div>
          {{ content | safe }}
          </div>
+           {% if prevPost.url %}
+                  
+                    <!--<a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>-->
+                    <a class="previous" href="{{ prevPost.url }}">Vorheriger</a>
+                    |
+                {% endif %} 
+                
+                 {% if nextPost.url %}
+                   
+                    
+                    <a class="next" href="{{ nextPost.url }}">Nächster</a>
+                   
+                {% endif %}
+                
 
 
 
 {% endblock content %}
+
+            

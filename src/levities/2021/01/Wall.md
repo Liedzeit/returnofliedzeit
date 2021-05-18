@@ -2,7 +2,7 @@
 title: "Wall of Voodoo"
 date: "2021-01-18"
 tags: ["levity","obi"]
-keywords: ["Phil Spector","John Lennon"]
+keywords: ["Phil Spector","John Lennon","Guy Pellaert"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
 
