@@ -1,7 +1,7 @@
 ---
 title: "Aus dem Fenster gelehnt"
 date: "2021-05-16"
-tags: ["levity","scir"]
+tags: ["levity","pol"]
 keywords: ["Fernsehen"]
 ---
 
@@ -10,7 +10,7 @@ Im Jahre 1959, lese ich, hatten die Deutschen folgende Lieblingsbeschäftigungen
 <ul class="no-bullets">
 
 <li>Zeitschrift/Zeitung lesen</li>
-<li>Gartenarbeit machen)</li>
+<li>Gartenarbeit machen</li>
 <li>Einkaufen gehen</li>
 <li>Heimwerken</li>
 <li>Mit Kindern spielen</li>
