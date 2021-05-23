@@ -8,7 +8,7 @@ source: "Spinoza"
 ---
 
 
-       
+       Einige philosophische Arbeiten.
 
 
 

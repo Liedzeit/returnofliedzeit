@@ -1,4 +1,8 @@
 const { config } = require("dotenv");
+const { DateTime } = require("luxon");
+const fs = require("fs");
+
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const searchFilter = require("./src/filters/searchFilter");
 
@@ -6,12 +10,65 @@ const searchFilter = require("./src/filters/searchFilter");
 
 module.exports = function (eleventyConfig) {
     
+    eleventyConfig.addPlugin(pluginRss);
     eleventyConfig.setBrowserSyncConfig({
         https: {
             key: '/etc/localhost.key',
             cert: '/etc/localhost.crt'
         }
     });
+
+    ////////////////////////////////////////////////////////////////
+    // Comments
+    ////////////////////////////////////////////////////////////////
+
+    eleventyConfig.addFilter("readableDate", dateObj => {
+      return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
+    });
+  
+    // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+    eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+      return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+    });
+
+
+    eleventyConfig.addCollection("postsWithComments", function(collection) {
+      const postsWithComments = new Set();
+  
+      collection.getFilteredByTag("levity").forEach(function(item) {
+        const comments = Object.values(item.data.comments)
+          .filter(comment => comment.post === item.fileSlug)
+          .map(comment => ({...comment, date: comment.date && new Date(comment.date)}));
+  
+        item.data.staticmanEntries = comments;
+  
+        postsWithComments.add(item);
+      });
+  
+      return [...postsWithComments];
+    });  
+
+      // Browsersync Overrides
+    /*eleventyConfig.setBrowserSyncConfig({
+      callbacks: {
+        ready: function(err, browserSync) {
+          const content_404 = fs.readFileSync('_site/404.html');
+
+          browserSync.addMiddleware("*", (req, res) => {
+            // Provides the 404 content without redirect.
+            res.write(content_404);
+            res.end();
+          });
+        },
+      },
+      ui: false,
+      ghostMode: false
+    });*/
+
+
+    eleventyConfig.addFilter('absoluteUrl', (url) => 
+    `https://liedzeit.com${url}`
+    );
 
     eleventyConfig.addCollection("levity2", function(collection) {
       const coll = collection.getFilteredByTag("levity");
@@ -33,6 +90,7 @@ module.exports = function (eleventyConfig) {
     });
 
 
+
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("services");
     eleventyConfig.addPassthroughCopy("testimonials");
@@ -42,9 +100,9 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode('excerpt', levity => extractExcerpt(levity));
     
       return {
-        passthroughFileCopy: true,
+      passthroughFileCopy: true,
        markdownTemplateEngine: "njk",
-       templateFormats: ["html", "njk", "md"],
+       templateFormats: ["html", "njk", "md", "liquid"],
       
         dir: {
             input: "src",

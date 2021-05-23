@@ -96,11 +96,11 @@ Die Philosophischen Untersuchungen bekämpfen die Ansicht, dass der Sinn eines S
 
 <div style="padding-left: 30px;">
 
-Wenn aber jemand sagt: „Wie soll ich wissen, was er meint, ich sehe ja nur seine Zeichen”, so sage ich: „Woher soll er wissen was er meint, er hat ja auch nur seine Zeichen.
+Wenn aber jemand sagt: „Wie soll ich wissen, was er meint, ich sehe ja nur seine Zeichen“, so sage ich: „Woher soll er wissen was er meint, er hat ja auch nur seine Zeichen.“
 
 </div>
 
-Entweder man versteht einen Satz, oder man versteht ihn nicht und zwar ohne Umweg. Es laufen keine unbewussten Prozesse ab, wo wir einen Satz in unsere private Sprache  oder unsere Gedanken in öffentliche Sprache übersetzen müssten. Es gibt keine Regeln, die unser Verständnis leiten. Wir sind so „abgerichtet”, dass wir Sprache verstehen. Die Sprache ist Voraussetzung für unsere Denkfähigkeit, nicht umgekehrt.
+Entweder man versteht einen Satz, oder man versteht ihn nicht und zwar ohne Umweg. Es laufen keine unbewussten Prozesse ab, wo wir einen Satz in unsere private Sprache  oder unsere Gedanken in öffentliche Sprache übersetzen müssten. Es gibt keine Regeln, die unser Verständnis leiten. Wir sind so „abgerichtet“, dass wir Sprache verstehen. Die Sprache ist Voraussetzung für unsere Denkfähigkeit, nicht umgekehrt.
 
 Wittgenstein wollte, dass seine beiden Philosophien nebeneinander veröffentlicht werden, weil er glaubte, dass sie sich gegenseitig erläutern. Wittgenstein ging von der Frage nach der Bestimmtheit des Sinnes aus und beantwortete sie jeweils verschieden. Hat er darum zwei ganz verschiedene Philosophien entwickelt wie oft gesagt wird?
 
@@ -108,7 +108,7 @@ Auch dazu hat Wittgenstein eine Antwort:
 
 <div style="padding-left: 30px;">
 
-Wenn Weiß zu Schwarz wird, sagen manche Menschen, es ist im Wesentlichen noch immer dasselbe. Und andere, wenn die Farbe um einen Grad dunkler wird, sagen „Es hat sich ganz verändert”.
+Wenn Weiß zu Schwarz wird, sagen manche Menschen, es ist im Wesentlichen noch immer dasselbe. Und andere, wenn die Farbe um einen Grad dunkler wird, sagen „Es hat sich ganz verändert“.
 
 </div>
 

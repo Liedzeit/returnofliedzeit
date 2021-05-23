@@ -1,7 +1,10 @@
-{% extends "layouts/simple.njk" %}
+{% extends "layouts/evensimpler.njk" %}
 
+    
 
 {% block postContent %}
+
+
 
                 <ul class="no-bullets">
                     {%- for key in levities %}
@@ -26,10 +29,11 @@
                 </ul>
 
 
+       <br>
+     
 
 
-
-                </br>
+            </br>
             {% if pagination.href.previous %}
                 <a href="{{pagination.href.previous}}">Neuere Levities</a>
             {% endif %}

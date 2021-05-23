@@ -23,23 +23,7 @@
          <div>
          {{ content | safe }}
          </div>
-
-
-          <br>
-            <h4>Kommentare</h4>
-            {%- if (staticmanEntries | length) > 0 %}
-            {%- for entry in staticmanEntries | reverse %}
-                <blockquote>{{ entry.message }} <small>({{ entry.name }}{%- if entry.date %}, {{ entry.date | htmlDateString }}{%- endif %})</small></blockquote>
-            {%- endfor %}
-            {%- else %}
-            <p>Keine Kommentare bisher.</p>
-            {%- endif %}
-
-            <h5>Kommentar hinzufügen</h5>
-            {% include "addcomment.njk" %}
    
-
-
 
            {% if prevPost.url %}
                   

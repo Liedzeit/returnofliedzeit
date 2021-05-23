@@ -5,7 +5,7 @@ tags: ["levity","pol"]
 keywords: ["Fernsehen"]
 ---
 
-Im Jahre 1959, lese ich, hatten die Deutschen folgende Lieblingsbeschäftigungen:
+Im Jahre 1957, lese ich, hatten die Deutschen folgende Lieblingsbeschäftigungen:
 
 <ul class="no-bullets">
 

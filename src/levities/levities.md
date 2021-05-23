@@ -1,7 +1,7 @@
 ---
 layout: "layouts/levities.njk"
 title: "Letzte Levities"
-description: "Angebotene Leistungen"
+description: "last posted levities"
 backgroundImage: "/assets/img/typewriter.png"
 motto: "This is no time for levity."
 source: "Oliver Hardy"

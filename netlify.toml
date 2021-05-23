@@ -6,3 +6,8 @@
 [template.environment]
   NEWS_API_KEY = "free API key from https://newsapi.org"
   WEATHER_API_KEY = "free API key from https://openweathermap.org"
+
+  GITHUB_TOKEN = "Insert a GitHub Personal Access Token"
+  REPO = "Insert the path to your repository (e.g. your-username/eleventy-blog-staticman)"
+  RECAPTCHA_SITE_KEY = "Insert the site key for reCaptcha (optional)"
+  RECAPTCHA_SITE_SECRET = "Insert the site secret for reCaptcha (optional)"
