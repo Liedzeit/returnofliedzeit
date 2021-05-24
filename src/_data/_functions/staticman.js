@@ -1,4 +1,4 @@
-/*const { processEntry } = require("@staticman/netlify-functions");
+const { processEntry } = require("@staticman/netlify-functions");
 const queryString = require("querystring");
 
 exports.handler = (event, context, callback) => {
@@ -28,11 +28,11 @@ exports.handler = (event, context, callback) => {
           },
         },
         moderation: false,
-        path: "_data/comments",
+        path: "scr/_data/comments",
         requiredFields: ["name", "message", "post","levity"],
       },
     },
   };
 
   return processEntry(event, context, callback, config);
-};*/
+};
