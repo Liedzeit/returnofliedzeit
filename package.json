@@ -15,6 +15,7 @@
     "elasticlunr": "^0.9.5"
   },
   "devDependencies": {
+    "@11ty/eleventy-navigation": "^0.2.0",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@staticman/core": "^1.7.1",
     "luxon": "^1.27.0"
