@@ -8,6 +8,7 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 
 const searchFilter = require("./src/filters/searchFilter");
 
+console.log("eleventy----")
 
 
 module.exports = function (eleventyConfig) {

@@ -18,5 +18,5 @@ Im Jahre 1957, lese ich, hatten die Deutschen folgende Lieblingsbeschäftigungen
 </ul>
 
 <br>
-Man wird sich denken können, was heute die Leiblingsbeschäftigunen sind. Aus dem Fenster sehen, gehört nicht dazu, außer im übertragenen Sinn. Tatsächlich hat keine der alten Lieblingsbeschäftigungen überlebt.
+Man wird sich denken können, was heute die Lieblingsbeschäftigunen sind. Aus dem Fenster sehen, gehört nicht dazu, außer im übertragenen Sinn. Tatsächlich hat keine der alten Lieblingsbeschäftigungen überlebt.
 
