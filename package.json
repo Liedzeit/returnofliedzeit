@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "@staticman/core": "^1.7.1",
     "@staticman/netlify-functions": "^1.1.2",
     "axios": "^0.21.1",
     "dotenv": "^9.0.0",
