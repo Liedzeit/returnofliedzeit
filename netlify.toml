@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build"
+  command = "yarn build"
   publish = "_site"
   functions = "src/_data/_functions"
 

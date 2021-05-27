@@ -1,6 +1,8 @@
 const qs = require('qs');
 const UrlPattern = require('url-pattern');
-const Staticman = require('staticman/lib/Staticman');
+//const Staticman = require('staticman/lib/Staticman');
+
+const Staticman = require='@staticman/netlify-functions';
 
 const pattern = new UrlPattern('/.netlify/functions/staticman/:username/:repository/:branch/:property(/)');
 
