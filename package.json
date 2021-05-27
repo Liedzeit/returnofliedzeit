@@ -5,8 +5,7 @@
   "main": "cracks.js",
   "scripts": {
     "build": "eleventy",
-    "start": "eleventy --serve",
-    "postinstall": "cd functions/staticman && yarn --production"
+    "start": "eleventy --serve"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
@@ -14,8 +13,7 @@
     "@staticman/netlify-functions": "^1.1.2",
     "axios": "^0.21.1",
     "dotenv": "^9.0.0",
-    "elasticlunr": "^0.9.5",
-    "url-pattern": "^1.0.3"
+    "elasticlunr": "^0.9.5"
   },
   "devDependencies": {
     "@11ty/eleventy-navigation": "^0.2.0",
