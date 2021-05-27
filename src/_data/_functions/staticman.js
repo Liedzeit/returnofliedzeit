@@ -1,7 +1,6 @@
 const { processEntry } = require("@staticman/netlify-functions");
 const queryString = require("querystring");
 
-
 exports.handler = (event, context, callback) => {
   const repo = process.env.REPO;
   const [username, repository] = repo.split("/");
