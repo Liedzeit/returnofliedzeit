@@ -6,7 +6,7 @@
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve",
-    "postinstall": "cd src/_data_/rfunctions/staticman && yarn --production"
+    "postinstall": "cd src/_data_/_functions/staticman && yarn --production"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
