@@ -1,3 +1,8 @@
-node_modules
-_site
+node_modules/
+_site/
 .env
+package-lock.json
+
+# Local Netlify folder
+.netlify
+.DS_Store
