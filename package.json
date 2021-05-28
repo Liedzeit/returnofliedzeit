@@ -14,7 +14,8 @@
     "axios": "^0.21.1",
     "dotenv": "^9.0.0",
     "elasticlunr": "^0.9.5",
-    "netmask": "^2.0.2"
+    "netmask": "^2.0.2",
+    "pac-resolver": "^4.2.0"
   },
   "devDependencies": {
     "@11ty/eleventy-navigation": "^0.2.0",
