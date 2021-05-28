@@ -28,7 +28,7 @@ exports.handler = (event, context, callback) => {
           },
         },
         moderation: false,
-        path: "scr/_data/comments",
+        path: "src/_data/comments",
         requiredFields: ["name", "message", "post"],
       },
     },
