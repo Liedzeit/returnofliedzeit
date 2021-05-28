@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="google-site-verification" content="9jLRs9YNshs-N0Ftxl-2InIiBOYUqwIhIHURlIag2vI" />
+    <title>{{ title }}</title>
+
+        <!-- Required CSS files -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="/assets/css/barfiller.css">
+    <link rel="stylesheet" href="/assets/css/animate.css">
+    <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/slicknav.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+
+<body>
+    <!--<div class="preloader">
+        <span class="preloader-spin"></span>
+    </div>-->
+    <div class="site">
+        
+    <header>
+            <div class="container">
+                    <div class="row">
+                        <div class="col-1 col-sm-1  logo-column">
+                            <a href="index.html" class="logo">
+                                <img style ="border-radius: 50%;" src="/assets/img/avatar.jpg" alt="logo">
+                            </a>
+                    </div>
+
+                     <div class="col-3 col-sm-3">
+                           <h1 class = "rfwhite">Liedzeit</h1>
+                    </div>
+                   
+                    <div class="col-8 col-sm-8 nav-column clearfix">
+                       <!-- SEARCH -->
+                         <div class="right-nav">
+                            <span class="search-icon fa fa-search"></span>
+                            <form action="#" class="search-form">
+                                <input type="search" id="searchField" placeholder="suchen">
+                                <button type="submit"><i class="fa fa-search"></i></button>
+                            </form>
+                             
+                           
+
+                            <!--<form action="https://www.google.co.uk/search" method="get" class="search">
+                            <input type="hidden" name="q" id="q" value="site:https://liedzeit.com">
+                            <label for="search-str">Search <small></label>
+                            <input type="text" name="q" id="search-str"></p>
+                            <button type="submit" class="submit">Search with Google</button>
+                            </form>-->
+
+                           <!--<div class="field">
+                                <label for="searchField" style= "Color: white">Search</label>
+                                <input type="search" placeholder="Search..." id="searchField" />
+                             </div>
+                             <ol  id="searchResults"/>
+                            <div id="noResultsFound" style="display: block;color: white">
+                                <p>No results found.</p>
+                            </div>-->
+                                <!--Only 5.7kb GZipped. You may want to bundle this with your application code. -->
+                                
+
+                            <div class="header-social">
+                                <a href="https://www.goodreads.com/user/show/70907778-liedzeit"><img src="/assets/img/gr.png" alt="goodreads" style="width:18px;height:18px;margin-bottom:2px;"></a>
+                                <!--<a href="https://www.besteveralbums.com/phpBB2/profile.php?mode=viewprofile&u=30382"><img src="/assets/img/bestever.png" alt="goodreads" style="width:18px;height:18px;margin-bottom:2px;"></a>-->
+                                
+                                <!--<a href="#" class="fa fa-facebook"></a>
+                                <a href="#" class="fa fa-twitter"></a>
+                                <a href="#" class="fa fa-github"></a>-->
+                            </div>
+                             <div>
+                             <ol  id="searchResults"/>
+                            <div id="noResultsFound" style="display:none;color:white">
+                                <p>No results found.</p>
+                            </div>
+                             </div>
+
+                        </div>
+                        <nav id="menu" class="d-none d-lg-block">
+                             <ul>
+                                <li class="current-menu-item">
+                                    <a href="/">Home</a>
+                                </li>
+                                <li><a href="/about">Über</a></li>
+                                <li><a href="/levities">Levities</a></li>
+                                <li><a href="/philosophy">Philosophie</a></li>
+                                <li><a href="/contact">Kontakt</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </header>    
+        <div class="page-title sp" style="background-image: url({{ backgroundImage }})">
+
+</div>  
+
+
+<div class="container sp">
+    <div class="row">
+        <div class="col-8">
+    {% block content %}
+        {{ content | safe }}
+    {% endblock content %}
+
+
+
+{% block postContent %}
+   
+{% endblock postContent %}
+</div>
+</div>
+</div>
+
+  <footer>
+   <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-lg-3 footer_widget">
+                    <div class="inner">
+                        <h4>About</h4>
+                        <p>Liedzeit is a philosopher turned software developer, plays Go, likes 1970s music, 1940s films, and 1890s literature.</p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 footer_widget">
+                     <div class="inner">
+                        <h4>Wetter in <span id="userloc" > </span></h4>
+                        <div id="temperature"></div>
+                        <div id="sky"></div>
+                        
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 footer_widget">
+                    <div class="inner">
+                        <h4>Quote of the day<span/></h4>
+                        <div id="wisecrack">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="copyright-txt">
+                       Thanks to 11ty, netlify, flat pro.
+                    </div>
+                </div>
+                <!--<div class="col-lg-6 text-right">
+                    <div class="footer-nav">
+                        <a href="#">Home</a>
+                        <a href="#">Portfolio</a>
+                        <a href="#">Pages</a>
+                        <a href="#">Shortcode</a>
+                        <a href="#">Blog</a>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="/assets/js/jquery-2.2.4.min.js"></script>
+<script src="/assets/js/vendor/popper.min.js"></script>
+<script src="/assets/js/vendor/bootstrap.min.js"></script>
+<script src="/assets/js/vendor/owl.carousel.min.js"></script>
+<script src="/assets/js/vendor/isotope.pkgd.min.js"></script>
+<script src="/assets/js/vendor/jquery.barfiller.js"></script>
+<script src="/assets/js/vendor/loopcounter.js"></script>
+<script src="/assets/js/vendor/slicknav.min.js"></script>
+<script src="/assets/js/active.js"></script>
+
+<script src="/js/cracks.js"></script>
+<script src="/js/weather.js"></script>
+<script src="/js/search.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
+
+
+</html>
