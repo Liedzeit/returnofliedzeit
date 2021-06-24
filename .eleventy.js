@@ -12,7 +12,15 @@ console.log("eleventy----")
 
 
 module.exports = function (eleventyConfig) {
-    
+  let markdownIt = require("markdown-it");
+  let markdownfootnote = require("markdown-it-footnote");
+  let options = {
+    html: true
+  };
+  let markdownLib = markdownIt(options).use(markdownfootnote);
+  
+  eleventyConfig.setLibrary("md", markdownLib);
+  
     eleventyConfig.addPlugin(pluginRss);
     eleventyConfig.addPlugin(pluginNavigation);
 

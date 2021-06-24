@@ -328,6 +328,116 @@ const cracks = [
       "cracking": "Wenn Weiß zu schwarz wird, sagen manche Menschen \u201EEs ist im wesentlichen immer noch dasselbe\u201D. Und andere, wenn die Farbe um einen grad dunkler wird, sagen \u201EEs hat sich ganz verändert\u201D. ",
       "cracker": "Ludwig Wittgenstein",
       "language": "German"
+    },
+    {
+      "cracking": "Death where is thy jolly sting?",
+      "cracker": "Bertram Wooster",
+      "language": "English"
+    },
+    {
+      "cracking": "Tell me not in mournful numbers, life is but an empty dream!",
+      "cracker": "William Wordsworth",
+      "language": "English"
+    },
+    {
+      "cracking": "How do people kiss on Pluto? They don\u2019t, they carry on a plutonic love affair.",
+      "cracker": "Isaac Asimov",
+      "language": "English"
+    },
+    {
+      "cracking": "Beneath self-contempt, I particularly scorn my fondness for paradox.",
+      "cracker": "John Barth",
+      "language": "English"
+    },
+    {
+      "cracking": "I despise pessimism, narcissism, solipsisim, truculence, word-play, and pusillanimity, my chiefer inclinations; loathe self-loathers ergo me; have no pity for self-pity and so am free of that sweet baseness. ",
+      "cracker": "John Barth",
+      "language": "English"
+    },
+    {
+      "cracking": "Being me\u2019s no joke.",
+      "cracker": "John Barth",
+      "language": "English"
+    },
+    {
+      "cracking": "Not only am I right and you are wrong, but the people who we both think are wrong are not as wrong as you are.",
+      "cracker": "Harlan Elison",
+      "language": "English"
+    },
+    {
+      "cracking": "Die Rufer in der Wüste hören einander nicht.",
+      "cracker": "Karol Irzykowski\u201AÄö",
+      "language": "German"
+    },
+    {
+      "cracking": "Ein wahrer Märthyrer ist der, dem man sogar diesen Titel verweigert.",
+      "cracker": "Stanislaw Jerzy Lec",
+      "language": "German"
+    },
+    {
+      "cracking": "Ich bin kein Frauenkenner, ich unterscheide sie lediglich am Geschlecht von den Männern.",
+      "cracker": "Stanislaw Jerzy Lec",
+      "language": "German"
+    },
+    {
+      "cracking": "Im Paradies sollte es alles geben: auch eine Hölle.",
+      "cracker": "Stanislaw Jerzy Lec",
+      "language": "German"
+    },
+    {
+      "cracking": "Unter den Blinden wird auch der Einäugige blind.",
+      "cracker": "Stanislaw Jerzy Lec",
+      "language": "German"
+    },
+    {
+      "cracking": "Wenn du willst, daß man deine Ausrufezeichen ernst nimmt, mußt du auch Fragezeichen verwenden.",
+      "cracker": "Antoni Marianowicz",
+      "language": "German"
+    },
+    {
+      "cracking": "Man sollte nicht stolz darauf sein, daß man etwas nicht versteht.",
+      "cracker": "Antoni Slonimski",
+      "language": "German"
+    },
+    {
+      "cracking": "Die Mücke: das Insekt, das zu dem Zweck geschaffen wurde, uns die Fliegen sympathischer zu machen.",
+      "cracker": "Julian Tuwim",
+      "language": "German"
+    },
+    {
+      "cracking": "Die Philosophie des einen Jahrhunderts ist der gesunde Menschenverstand des nächsten.",
+      "cracker": "Julian Tuwim",
+      "language": "German"
+    },
+    {
+      "cracking": "Dummheiten darf man sagen. Nur nicht in feierlichem Ton.",
+      "cracker": "Julian Tuwim",
+      "language": "German"
+    },
+    {
+      "cracking": "What object is served by this circle of misery and violence and fear? It must tend to some end, or else our universe is ruled by chance, which is unthinkable. But what end? There is the great standing perennial problem to which human reason is as far from an answer as ever.",
+      "cracker": "Sherlock Holmes",
+      "language": "English"
+    },
+    {
+      "cracking": "Ilum, New York, is divided into three Parts.",
+      "cracker": "Kurt Vonnegut",
+      "language": "English"
+    },
+    {
+      "cracking": "Er nahm vor einiger Zeit von Thomas Manns »Buddenbrooks« sorgfältig Kenntnis und wußte nun nicht recht, ob es ihm angenehm sei oder nicht, daß er sich genötigt sah, sich glauben zu machen, dieses Buch, das natürlich von hervorragender Kunstfertigkeit sei, mache als Ganzes nicht einen durchaus erfreulichen Eindruck auf ihn, beunruhige ihn sozusagen als Gesamtes ein bißchen, er müsse wünschen, es gefiele ihm denn doch noch viel besser, obgleich es ihm freilich Achtung in Menge entlocke.",
+      "cracker": "Robert Walser",
+      "language": "German"
+    },
+    {
+      "cracking": "tschuang ti kuang kiu wang hiang i schi to ming sse wang",
+      "cracker": "Robert Neuman",
+      "language": "German"
+    },
+    {
+      "cracking": "I have a higher and grander standard of principle than George Washington. He could not lie, I can, but I won\u2019t.",
+      "cracker": "Mark Twain",
+      "language": "English"
     }
   ];
     

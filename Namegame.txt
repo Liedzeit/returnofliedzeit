@@ -1,0 +1,68 @@
+The Names in a Game 
+RALF FUNKE
+Hamburg (Germany) 
+
+Of all the claims Wittgenstein makes in the Tractatus the one that a recent inter­preter has called the "myth of independence"1 is perhaps the most troubling. Witt­genstein holds that states of affairs are independent of one another (2.061) in the sense that "something can be the case or not the case and everything remains the same" (1.21) That means that "from the existence or non-existence of one state of affairs it is impossible to infer the existence or non-existence of another." (2.062) 
+Any attempt to come up with an example of what would count as elementary proposition (depicting a state of affairs) is likely to collide with this axiom. 
+Suppose "a is red" were an elementary proposition saying that some simple ob­ject has the property of being red. Then it would follow that it couldn't be blue, contrary to the axiom. But if "a is red" does not count as an elementary pro­position, so some argue, then what? Even more elementary perhaps would be a proposition that states that an object is at some specific point in space. Again, this can't be the picture of a state of affairs, because it would follow-i.a. that the object were not at another point in space (at the same time). lt seems then that any pro­position that says something about the world at all will be in conflict with some other proposition. 
+If the independence thesis should hold then a Wittgensteinian object can't be in space and time any more than it can be colored. On the other hand a state of af­fairs is defined as a configuration of objects and that seems to suggest that spatial relations are at the bottom of the analysis of complex situations. So the question to be answered is how do simple objects form a structured complex? What is struct­ure if it can't be something spatial (or temporal)? What concatenates objects? 
+Before trying to answer these questions with the help of a game model it is per­haps not superfluous to put the independence thesis into the context of the other thesis or axioms that form the foundation of the Tractatus. 
+All of the following theses are connected in the Tractatus and it is quite possible to interpret some of these claims as a direct result of the others. And maybe some readers would put other propositions of the Tractatus as central. 
+In any case, an interpretation of the Tractatus has to explain why Wittgenstein ever wanted to establish these claims and how the Tractatus can be read in a way that these claims make sense: 
+
+1.	Simplicity thesis
+2.	Bipolarity thesis
+3.	Independence thesis
+4.	No Nonsense thesis
+5.	Sole Representation thesis (Grundgedanke)
+
+
+
+
+
+
+
+
+[]
+
+The player with the crosses wins. Of course such a result is not very likely, since the game is so easy that nearly no one gets fooled. Most games end in a draw. 
+But because of its simplicity it is relatively easy to grasp the essence of the game. How many different ways are there to play the game? There are, quite surpris­ingly, 255,168 possible games, where a game is any sequence of moves that either fills the board, or where one player succeeds in placing three in a row. 
+Let us call this range of possible games the TicTacToe multiverse and any of the games a world (or universe) of the TTT multiverse. 
+A multiverse in general is any set of worlds containing the same objects, that is the same substance. The objects, remember, are what every imagined world has in common with the real world. (2.022) 
+Intuitively speaking, every TTT game has the objects in common with the one examplified above. lt certainly seems that only the temporal and spatial order of the x's and o's are different in any imagined TTT game. 
+We might call any move in the game a state of affairs and any temporal or spat­ial part of the world, that is any set of moves, a situation. 
+But what exactly is an object in TTT? How many objects are there to begin with? 
+Tue objects certainly do not have to be noughts and crosses. lt is not neccessary to have something spatial on the board. The players can just point at the squares and remember which squares are "occupied". The game above can be represented in this way. 
+
+[]
+
+The numbers simply indicate the sequence of the moves. lt is obvious that the player playing the odd moves wins. Tue "objects" moved in this game are ad­mittedly quite simple but not, as will become clear in a moment, likely candidates for Wittgensteinian objects. 
+If I want to describe a TTT world, it seems that I have to have a notation like this: 
+
+
+
+
+
+
+
+
+
+then the sense of the proposition would be different, and that means that the bi­polarity axiom could not be valid. The propositions in SPIT or TTI or M15 are to­tally independent. If "FOP' is true, it says nothing whatsoever about the truth of "FAT". 
+4. No Nonsense. Because of the limitation and independence of the elementary propositions, it is guaranteed that whatever judgements one makes, the propo­sition must depict a possible situation. lt is impossible to say something nonsensic­al (to point the arrow to nothing). If it were possible to freely arrange the names at random or to invent names with no object counterpart, there would be no such guarantee. 
+5. Sole Representation. The logical forms are in the objects. That "N" can form a propositon together with "O" and "T" is not stated by a logical propositon but is a property of the object (and the name) itself. The logical constants "emerge" when the combinations of the combinations of the state of affairs are built. If there are 9 elementary propositions, then there are 29 combinations of the state of affairs and 2fcombinations of combinations (4.42). Any of these combinations depicts a range of situations in the sum of all possible TTI worlds. 
+Conclusion 
+The nature of a Wittgensteinian object, so I have argued, can be understood by comparing it to the simple objects of TTI and its sister games. Two points should be obvious. The claim that the analysis of a natural proposition can, at least in theory, really lead to simple objects that are concatenated by no other relation than the concatanation itself. There was a spatial relation in TTI a numeric relation in M 15 and an identity relation in SPIT. The fact that these games are nevertheless equivalent shows that the logical form is what all these relations have in common: namely, the ability to build up a particular structure. 
+The simple objects of our world are probably radically different from anything we are acquainted with in our daily life. lt makes no sense to ask whether the ob­jects are material or phenomenal points, or whether properties or relations are ob­jects or not. In the end all that counts is that they form a structure that we perceive as our world. 
+lt can surely be doubted that a simple multiverse like TTT can be seen as a mo­del of the complex universe we live in. And I had to simplify the game even more by eliminating in effect its competitive element. The moves, it seems, cannot have different parities, because if player A plays move SPIT, then player B could not. 
+But here, and this is the second point, the concept of a multiverse helps to clarify things. A possible world is normally seen as an alternative to our own world. But if we restrict ourselves to investigate closed ranges of possible worlds like the TTT multiverse we also define its boundaries and its sense. We as players are not part of the world we are creating. And so we are in a position to say meaningful things about a TTI world that would be nonsensical inside that world, for example that a particular move is good or bad. 
+
+If you were a creature of the TIT world you only would perceive number se­quences or noughts and crosses or words coming into existence (depending on your categories) without being able to come up with a teleological explanation. 
+
+
+Notes
+
+1. Bradley, The Nature of All Being (New York/Oxford, 1992), p. 101.
+2. Cf. T. Iglesias, "Russell's Theory of Knowledge and Wittgenstein's Earliest Writings", in: Synthese 60 (1984), p. 305f.
+3. A variation of M15 could be played where the players do not select digits alternately but instead pick little cards with four or five numbers on them at the same time. Suppose every one of these numbers has a differently colored back­ground. ff you sort the numbers according to the color spectrum so that every color on player l's card is followed by a color on player 2's card then you can have a winner just as in M15. 
+4. 4 Berlekamp, Conway, Guy say that the "game is the same by any name". But the difference goes beyond the name. Noughts and Crosses is a different name for TicTacToe, but Magie 15 must count maybe as a different "incarnation". E.R. Berlekamp/J.A. Conway/R.K. Guy, Winning Ways for Your Mathematical Plays, Vol.2: Games in Particular (London et al., 1982), p. 669. 
+5. That is one main difference from the combinatorialism of Armstrong, who thinks that all objects are compossible. D.M. Armstrong, A Combinatorial Theory of Possibility (Cambridge et al., 1989), p. 37. 

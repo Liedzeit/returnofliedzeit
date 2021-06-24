@@ -14,7 +14,8 @@
     "@staticman/netlify-functions": "^1.1.2",
     "axios": "^0.21.1",
     "dotenv": "^9.0.0",
-    "elasticlunr": "^0.9.5"
+    "elasticlunr": "^0.9.5",
+    "markdown-it-footnote": "^3.0.3"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
