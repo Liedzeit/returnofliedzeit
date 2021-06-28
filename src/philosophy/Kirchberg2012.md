@@ -2,6 +2,7 @@
 layout: "layouts/simple.njk"
 title:  "The Origin of Consciousness and the Breakdown of Private Language  "
 description: "Lecture at the 2012 Austrian Ludwig Wittgenstein Symposium"
+venue: "Lecture at the 2012 Austrian Ludwig Wittgenstein Symposium"
 tags: "philosophy"
 backgroundImage: "/assets/img/kirchberg.jpg"
 ---

@@ -106,7 +106,7 @@ const cracks = [
     },
     {
       "cracking": "George is innocent.",
-      "cracker": "Patrick Fitzgerald",
+      "cracker": "Patrik Fitzgerald",
       "language": "English"
     },
     {
