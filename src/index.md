@@ -12,12 +12,14 @@ backgroundImage: "/assets/img/school.jpg"
 Das ideale Weihnachtsgeschenk!
 (aber nur für die, die wirklich schon <i>alles</i> haben.)
 
-Im Jahre 1987 packte ich die Erkenntnisse von jahrlanger Wittgenstein-Forschung in eine Magister-Arbeit, von der ich annahm, sie müsse mir ohne Umwege direkt einen Lehrstuhl, mindestens in Oxford, verschaffen.</p>
+Im Jahre 1987 packte ich die Erkenntnisse von jahrelanger Wittgenstein-Forschung in eine Magister-Arbeit, von der ich annahm, sie müsse mir ohne Umwege direkt einen Lehrstuhl, mindestens in Oxford, verschaffen.
+
 Kurioserweise war das nicht der Fall.
+
 Nach langem Ringen habe ich entschieden, dieses Werk dennoch einer ungerechten Welt zugänglich zu machen.
-        <br>
+        <br><br>
         <a href="https://www.epubli.de//shop/buch/Kontingente-Korrespondenz-Ralf-Funke-9783754930083/121728?utm_medium=email&utm_source=transactional&utm_campaign=Systemmail_PublishedSuccessfully" class="logo">
-            <img style ="border-radius: 50%;" src="/assets/img/kk.jpg" alt="Korrespondenz">
+            <img  src="/assets/img/kk.jpg" alt="Korrespondenz">
         </a>
 
 
