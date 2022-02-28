@@ -9,7 +9,7 @@ backgroundImage: "/assets/img/school.jpg"
 
 <br>
 
-Das ideale Weihnachtsgeschenk!
+Das ideale Geschenk!
 (aber nur für die, die wirklich schon <i>alles</i> haben.)
 
 Im Jahre 1987 packte ich die Erkenntnisse von jahrelanger Wittgenstein-Forschung in eine Magister-Arbeit, von der ich annahm, sie müsse mir ohne Umwege direkt einen Lehrstuhl, mindestens in Oxford, verschaffen.
