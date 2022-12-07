@@ -9,6 +9,16 @@ backgroundImage: "/assets/img/school.jpg"
 
 <br>
 
+An sich eine schöne Sache:
+
+ <img  src="/assets/img/duo.png" alt="duolingo">
+
+Ich frage mich nur, was dann erst die anderen 98% gelernt haben. Ich kann nach zwei Jahren kaum Buongiorno sagen.
+
+<br>
+<br>
+
+
 Das ideale Geschenk!
 (aber nur für die, die wirklich schon <i>alles</i> haben.)
 
