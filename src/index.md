@@ -11,7 +11,11 @@ backgroundImage: "/assets/img/school.jpg"
 
 An sich eine schöne Sache:
 
- <img  src="/assets/img/duo.png" alt="duolingo">
+<br>
+
+ <img  src="/assets/img/duo2.png" alt="duolingo">
+
+ <br>
 
 Ich frage mich nur, was dann erst die anderen 98% gelernt haben. Ich kann nach zwei Jahren kaum Buongiorno sagen.
 
