@@ -7,20 +7,6 @@ backgroundImage: "/assets/img/school.jpg"
 
 # The Return of Liedzeit
 
-<br>
-
-An sich eine schöne Sache:
-
-<br>
-
- <img  src="/assets/img/duo2.png" alt="duolingo">
-
- <br>
-
-Ich frage mich nur, was dann erst die anderen 98% gelernt haben. Ich kann nach zwei Jahren kaum Buongiorno sagen.
-
-<br>
-<br>
 
 
 Das ideale Geschenk!
