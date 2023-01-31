@@ -2,7 +2,7 @@
 layout: "layouts/simple.njk"
 title:  "Go Tractatus"
 description: "Secret Alternative"
-tags: "philosophy"
+tags: "go"
 venue: ""
 backgroundImage: "/assets/img/kirchberg.jpg"
 ---
