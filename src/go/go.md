@@ -3,12 +3,12 @@ layout: "layouts/go.njk"
 title: "Go"
 description: "Go stuff."
 backgroundImage: "/assets/img/school.jpg"
-motto: "Non ligere, non lugere neque detestari, sed intelligere."
-source: "Spinoza"
+motto: "Der Stein ist mehr Stein als früher."
+source: "Nietzsche"
 ---
 
 <br>
-Bei den meisten der hier versammelten philosophische Arbeiten handelt es sich um Vorträge, die ich auf dem Internationalen Wittgenstein-Symposium, das jedes Jahr in Kirchberg/Österreich stattfindet, gehalten habe.
+Bekanntlich hat Alan Turing manchmal mit Wittgenstein Go gespielt. Das Projekt, den Tractatus komplett neu zu schrieben, haben sie nicht umgesetzt. Aber einen Teil konnte ich rekonstruieren.
 
 
 </br>
