@@ -1,0 +1,20 @@
+{% extends "layouts/evensimpler.njk" %}
+
+
+
+{% block postContent %}
+<div class="service-area">
+        <div class="container">
+            <div class="col-lg-6">
+
+           <ul class="no-bullets">
+               {% for key in collections.go %}
+                <li><a href="{{ key.url }}"><h5>{{ key.data.title }}<h5></a> </li>
+               
+       {% endfor %}
+           </ul>    
+         </div>
+       </div>
+    </div>
+     
+{% endblock postContent%}
