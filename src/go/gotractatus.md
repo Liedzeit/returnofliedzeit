@@ -18,7 +18,7 @@ Tractatus golico-philosophicus
 |1.2|Go zerfällt in Züge.|
 |1.21|Eines kann der Fall sein oder nicht der Fall sein und alles übrige gleich bleiben.|
 |2|Was der Fall ist, der Zug, ist das Gesetztwerden eines Steines -- das Erzeugen von Ketten.|
-|2.0|2.01||Die Kette ist eine Verbindung von Steinen. (Linsen, Smarties.)|
+|2.01|Die Kette ist eine Verbindung von Steinen. (Linsen, Smarties.)|
 |2.011|Es ist dem Stein wesentlich, der Bestandteil einer Kette sein zu können.|
 |2.012|In der Logik ist nichts zufällig: Wenn der Stein in der Kette vorkommen kann, so muss die Möglichkeit der Kette im Stein bereits präjudiziert sein.|
 |2.0121|Es erschiene gleichsam als Zufall, wenn dem Stein, der allein für sich bestehen könnte, nachträglich eine Gruppe passen würde.<br>Wenn die Steine in Ketten vorkommen können, so muss dies schon in ihnen liegen. (Etwas Logisches kann nicht nur-möglich sein. Die Logik handelt von jeder Möglichkeit und alle Möglichkeiten sind ihre Züge.)<br>Wie wir uns räumliche Steine überhaupt nicht außerhalb des Raumes, zeitliche nicht außerhalb der Zeit denken können, so können wir uns keinen Stein außerhalb der Möglichkeit seiner Verbindung mit anderen denken.<br>Wenn ich mir den Stein im Verbande der Kette denken kann, so kann ich ihn nicht außerhalb der Möglichkeit dieses Verbandes denken.|
