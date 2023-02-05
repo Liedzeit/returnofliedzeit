@@ -43,8 +43,7 @@ Tractatus golico-philosophicus
 |2.0272|Die Konfiguration der Steine bildet die Kette.|
 |3|Das logische Diagramm der Züge ist der Gedanke.|
 |6.41|Der Sinn der Go-Partie muss außerhalb ihrer liegen.|
-|6.43|Wenn das gute oder böse Wollen die Partie ändert, so kann es nur die Grenzen der Partie ändern, nicht die Tatsachen; nicht das, was durch die Sprache ausgedrückt werden kann.<br>Kurz, die Partie muss dann dadurch überhaupt eine andere werden. Sie muss sozusagen als Ganzes abnehmen oder zunehmen.
-<br>Die Partie des Gewinners ist eine andere als die des Verlierers.|
+|6.43|Wenn das gute oder böse Wollen die Partie ändert, so kann es nur die Grenzen der Partie ändern, nicht die Tatsachen; nicht das, was durch die Sprache ausgedrückt werden kann.<br>Kurz, die Partie muss dann dadurch überhaupt eine andere werden. Sie muss sozusagen als Ganzes abnehmen oder zunehmen.<br>Die Partie des Gewinners ist eine andere als die des Verlierers.|
 |6.431|Wie auch bei der Aufgabe die Partie sich nicht ändert, sondern aufhört.|
 |6.4311|Der Tod ist kein Ereignis des Lebens. Den Tod erlebt man nicht.[...]|
 |6.432|Wie die Partie ist, ist für den Spieler vollkommen gleichgültig. Der Spieler offenbart sich nicht in der Partie.|
