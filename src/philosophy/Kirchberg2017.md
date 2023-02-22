@@ -99,6 +99,7 @@ And a very simple software program would be capable to figure out the solution. 
 
 
 <br/>
+<br/>
 
 ### 5. Conclusion
 Do modern AI programs relying on Deep Learning refute Searle’s argument? At first glance the answer is easy. In the Chinese Room the human agent is only blindly following some rules. The knowledge is in the book part of the system. What the agent extracts out of the book part and presents to the outside world might seem to the outside world as the correct answer but to the agent it is totally meaningless.

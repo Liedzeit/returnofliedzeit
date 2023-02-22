@@ -8,7 +8,7 @@ source: "Nietzsche"
 ---
 
 <br>
-Bekanntlich hat Alan Turing manchmal mit Wittgenstein Go gespielt. Das Projekt, den Tractatus komplett neu zu schrieben, haben sie nicht umgesetzt. Aber einen Teil konnte ich rekonstruieren.
+Bekanntlich hat Alan Turing manchmal mit Wittgenstein Go gespielt. Das Projekt, den Tractatus komplett neu zu schreiben, haben sie nicht umgesetzt. Aber einen Teil konnte ich rekonstruieren.
 
 
 </br>
