@@ -2,30 +2,21 @@
 layout: "base.njk"
 title: "Liedzeit"
 description: "The Return of Liedzeit"
-backgroundImage: "/assets/img/school.jpg"
+backgroundImage: "/assets/img/pagejinnbg.png"
 ---
 
-# The Return of Liedzeit
+# Blattplanung in InDesign
 
+Mit der Adobe CEP-Technologie lassen sich Anwendungen direkt in InDesign erstellen. PageJinn ist ein Beispiel für ein kleines Blattplanungsprogramm, das ich für für Anwender des **vjoon** K4-Redaktionssystems entwickelt habe.
 
+Weitere Information finden Sie 
 
-Das ideale Geschenk!
-(aber nur für die, die wirklich schon <i>alles</i> haben.)
-
-Im Jahre 1987 packte ich die Erkenntnisse von jahrelanger Wittgenstein-Forschung in eine Magister-Arbeit, von der ich annahm, sie müsse mir ohne Umwege direkt einen Lehrstuhl, mindestens in Oxford, verschaffen.
-
-Kurioserweise war das nicht der Fall.
-
-Nach langem Ringen habe ich entschieden, dieses Werk dennoch einer ungerechten Welt zugänglich zu machen.
-        <br><br>
-        <a href="https://www.epubli.de//shop/buch/Kontingente-Korrespondenz-Ralf-Funke-9783754930083/121728?utm_medium=email&utm_source=transactional&utm_campaign=Systemmail_PublishedSuccessfully" class="logo">
-            <img  src="/assets/img/kk.jpg" alt="Korrespondenz">
+ <a href=https://pagejinn.netlify.app/" class="logo">
+            hier.
         </a>
-
-
-
-
 <br>
+
+
 <!--<p>Wie sagt JG so schön: Willkommen, Bienvenue, Welcome!</p>
 <p>Vor fast zwanzig Jahren gab es schon einmal eine Liedzeit Homepage.
 Aber für eine Privatperson, die nichts zu verkaufen hat, weder materiell, noch irgendwie ideell ist sowas ja irgendwie albern.
