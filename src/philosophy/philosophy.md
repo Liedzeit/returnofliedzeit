@@ -11,7 +11,7 @@ Meine Magisterarbeit, etwas aufgepeppt. Für Leute gedacht, die sich für 80er-J
 
 <br/>
 
-[<img  src="/assets/img/picpuzzle14.webp" alt="Bilderrätsel14">](https://www.epubli.com/shop/kontingente-korrespondenz-9783754930083).
+[<img  src="/assets/img/kk.jpg" alt="Bilderrätsel14">](https://www.epubli.com/shop/kontingente-korrespondenz-9783754930083).
 
 <br/>
 
