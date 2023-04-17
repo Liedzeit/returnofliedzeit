@@ -8,9 +8,12 @@ source: "Spinoza"
 ---
 
 Meine Magisterarbeit, etwas aufgepeppt. Für Leute gedacht, die sich für 80er-Jahre Philosophie zu Wittgenstein interessieren.
- <br/>
+
+<br/>
 
 [<img  src="/assets/img/picpuzzle14.webp" alt="Bilderrätsel14">](https://www.epubli.de//shop/buch/Kontingente-Korrespondenz-Ralf-Funke-9783754930083/121728?utm_medium=email&utm_source=transactional&utm_campaign=Systemmail_PublishedSuccessfully).
+
+<br/>
 
 
 
