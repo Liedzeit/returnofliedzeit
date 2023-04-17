@@ -9,13 +9,13 @@ backgroundImage: "/assets/img/pagejinnbg.png"
 
 Mit der Adobe CEP-Technologie lassen sich Anwendungen direkt in InDesign erstellen. PageJinn ist ein Beispiel für ein kleines Blattplanungsprogramm, das ich für für Anwender des **vjoon** K4-Redaktionssystems entwickelt habe.
 
-Weitere Information finden Sie 
+Weitere Information finden Sie  [hier](https://pagejinn.netlify.app/).
 
- <a href=https://pagejinn.netlify.app/" class="logo">
-            hier.
-        </a>
+
 <br>
 
+
+Ich übernehme <a href="/contact">Scripting-Jobs</a>.
 
 <!--<p>Wie sagt JG so schön: Willkommen, Bienvenue, Welcome!</p>
 <p>Vor fast zwanzig Jahren gab es schon einmal eine Liedzeit Homepage.
