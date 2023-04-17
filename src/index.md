@@ -2,7 +2,7 @@
 layout: "base.njk"
 title: "Liedzeit"
 description: "The Return of Liedzeit"
-backgroundImage: "/assets/img/pagejinnbg.png"
+backgroundImage: "/assets/img/pjbg.png"
 ---
 
 # Blattplanung in InDesign
