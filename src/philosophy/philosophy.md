@@ -17,7 +17,7 @@ Meine Magisterarbeit, etwas aufgepeppt. Für Leute gedacht, die sich für 80er-J
 
 
 
-##Vorträge##
+## Vorträge
 
 Bei den meisten der hier versammelten philosophische Arbeiten handelt es sich um Vorträge, die ich auf dem Internationalen Wittgenstein-Symposium, das jedes Jahr in Kirchberg/Österreich stattfindet, gehalten habe.
 

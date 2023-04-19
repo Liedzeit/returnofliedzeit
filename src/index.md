@@ -7,7 +7,7 @@ backgroundImage: "https://www.notion.so/images/page-cover/rijksmuseum_vermeer_th
 
 # Blattplanung in InDesign
 
-Mit der Adobe CEP-Technologie lassen sich Anwendungen direkt in InDesign erstellen. PageJinn ist ein Beispiel für ein kleines Blattplanungsprogramm, das ich für Anwender des **vjoon** K4-Redaktionssystems entwickelt habe.
+Mit der Adobe CEP-Technologie lassen sich Anwendungen direkt in InDesign erstellen. *PageJinn* ist ein Beispiel für ein kleines Blattplanungsprogramm, das ich für Anwender des **vjoon** K4-Redaktionssystems entwickelt habe.
 
 [<img  src="/assets/img/featured-background.jpg" alt="pagejinnbg">](https://pagejinn.netlify.app/).
 
