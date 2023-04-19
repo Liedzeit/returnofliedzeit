@@ -2,7 +2,7 @@
 layout: "base.njk"
 title: "Liedzeit"
 description: "The Return of Liedzeit"
-backgroundImage: "/assets/img/pjbg.png"
+backgroundImage: "https://www.notion.so/images/page-cover/rijksmuseum_vermeer_the_milkmaid.jpg"
 ---
 
 # Blattplanung in InDesign
