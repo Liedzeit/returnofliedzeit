@@ -1,8 +1,8 @@
 ---
 title: "Asteroid City"
-date: "2023-07-27"
+date: "2023-06-27"
 tags: ["levity", "cinema"]
-keywords: ["Liev Schreiber","Tom Hanks","Adrien Brody"]
+keywords: ["Liev Schreiber","Tom Hanks","Adrien Brody","Scarlett Johansson","Jeff Goldblum"]
 backgroundImage: "/assets/img/cinema.png"
 ---
 Ein neuer Film von Wes Anderson. Den zu sehen natürliche Pflicht. Und Vergnügen? Erlicherweise hatte ich nach ungefähr 20 Minuten so meine Zweifel, diesmal, dachte, übertreibt er doch. Alles wie gehabt, nur noch skurriler, noch pastelliger, noch mehr bekannte Schauspieler in zum Zeil winzigen Rollen.
