@@ -13,4 +13,4 @@ Scarlett Johansson ist schön wie nie. Und die schlauen Kinder retten den Tag.
 
 Zum Glück vergingen die Zweifel nach etwa einer halben Stunde. Und von dem Moment an, hätte der Film ewig weitergehen können. How high the moon gab es von Les Paul & Mary Ford. Und jede Menge anderer schöner Lieder. Freight Train und Last Train to San Fernandao. If you miss this one, you never get another one.
 
-9/10
+Abaton 9/10
