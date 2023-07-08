@@ -9,4 +9,5 @@ Es gilt Abschied zu nehmen von einem Mann, der dadurch bemerkenswert ist, dass e
 
 Irgendwann las ich mal zwei Absätze des Nachtzugs. Sagen wir, ich war nicht übermäßig angetan. Und das, was er als Philosoph geleistet hat, fand ich auch nicht toll.
 
+
 Es versteht sich von selbst, dass ich meinen linken Arm mit Freude hingegeben hätte, um mit ihm zu tauschen.
