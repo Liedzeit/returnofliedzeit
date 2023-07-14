@@ -9,4 +9,4 @@ Die unerträgliche Leichtigkeit des Seins. Sobald das mal zusammengetippt war, e
 
 Berühmt für ein einziges Buch. Hab mal versucht, irgendwas anderes von ihm zu lesen, aber schnell abgebrochen.
 
-Und Heide. Die Türen, las ich, die sie aufgestoßen habe, quiestschen noch. Was immer das nun genau bedeuten soll. Man erinnert sich an den fassungslosen Gesichtsausdruck als sie damals dann auch den fünften Wahlgang verloren hatte. Und der Schuft wurde nie identifiziert. Andererseits, wäre die Welt heute eine bessere, hätte sie eine weitere Amtszeit ausgefüllt?
+Und Heide. Die Türen, las ich, die sie aufgestoßen habe, quietschen noch. Was immer das nun genau bedeuten soll. Man erinnert sich an den fassungslosen Gesichtsausdruck als sie damals dann auch den fünften Wahlgang verloren hatte. Und der Schuft wurde nie identifiziert. Andererseits, wäre die Welt heute eine bessere, hätte sie eine weitere Amtszeit ausgefüllt?
