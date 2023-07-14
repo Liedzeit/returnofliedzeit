@@ -1,6 +1,6 @@
 ---
 title: "Milan und Heide"
-date: "2023-07-05"
+date: "2023-07-13"
 tags: ["levity","obi"]
 keywords: ["Milan Kundera","Heide Simonis"]
 backgroundImage: "/assets/img/grave.jpg"
