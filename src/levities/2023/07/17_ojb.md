@@ -9,6 +9,6 @@ Dass sie eine Schönheit war, sagt Herr Kilb in der FAZ, tue vielleicht nichts z
 
 Irgendwie fand ich das auch nicht so schlecht, aber der Gedanke an das trostlose An-der-Wand-Stehen, während sich glücklichere Menschen in den Armen liegend auf der Tanzfläche wiegten, treibt noch heute den Kummer in die Haarspitzen.
 
-Schauspielerin war sie auch, wobei ich nicht behaupten kann, sie wirklich wahrgenommen zu habem, obwohl sie sogar in Poirot-Filmen dabei war. *Die Schöne Querulantin* kenne ich nicht. Gehört aber zu meinen Lieblingsfilmtiteln. Und, sehe ich gerade, sie war mit John Barry verheiratet.
+Schauspielerin war sie auch, wobei ich nicht behaupten kann, sie wirklich wahrgenommen zu haben, obwohl sie sogar in Poirot-Filmen dabei war. *Die Schöne Querulantin* kenne ich nicht. Gehört aber zu meinen Lieblingsfilmtiteln. Und, sehe ich gerade, sie war mit John Barry verheiratet.
 
-Und dann ist das Ableben von Francisco Ibáñez zu vermelden. Der hat sensationell erfolgreich die Abenteuer der Herren Clever und Smart verbreitet. Und das dürfte der von mir ungeliebteste aller Comics sein.
+Und dann ist das Ableben des Francisco Ibáñez zu vermelden. Der hat sensationell erfolgreich die Abenteuer der Herren Clever und Smart verbreitet. Und das dürfte der von mir ungeliebteste aller Comics sein.
