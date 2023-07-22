@@ -1,6 +1,6 @@
 ---
 title: "Mission Impossible:  Dead Reckoning - 1"
-date: "2023-06-27"
+date: "2023-07-20"
 tags: ["levity", "cinema"]
 keywords: ["Tom Cruise","Rebecca Ferguson ","Esai Morales","Hayley Atwell","Vanessa Kirby"]
 backgroundImage: "/assets/img/cinema.png"
