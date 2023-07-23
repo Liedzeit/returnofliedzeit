@@ -5,7 +5,7 @@ tags: ["levity", "cinema"]
 keywords: ["Tom Cruise","Rebecca Ferguson ","Esai Morales","Hayley Atwell","Vanessa Kirby"]
 backgroundImage: "/assets/img/cinema.png"
 ---
-Tom Cruise und sein Rumpf-IMF jagen zwei Schlüsselhälften, mit denen irgendwie die ENTITÄT ausgeschaltet werden können soll. Ausschalten will sie Tom, alle anderen, einschließlich natürlich seine Vorgesetzen wollen die nutzen, um die ganze Welt zu unterdrücken. Die ENTITÄT, versteht sich, ist eine KI.
+Tom Cruise und sein Rumpf-IMF jagen zwei Schlüsselhälften, mit denen irgendwie die ENTITÄT ausgeschaltet werden können soll. Ausschalten will sie Tom, alle anderen, einschließlich natürlich seine Vorgesetzten, wollen die nutzen, um die ganze Welt zu unterdrücken. Die ENTITÄT, versteht sich, ist eine KI.
 
 Der Anfang im U-Boot schon mal Klasse. Und dann wird zunächst ohne viel Tränen Ilsa mit Grace ausgetauscht. Warum nicht. Und dann gibt es hauptsächlich action. Der Humor, den hauptsächlich Benji beizusteuern hat, ist so erbärmlich, dass man stattdessen lieber noch mehr action nähme.
 
