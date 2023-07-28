@@ -1,9 +1,9 @@
 {
     "crack": [
       {
-        "cracking": "Hann tekr sverthit Gram ok leggr i methal theira bert. ",
-        "cracker": "Unknown",
-        "language": "other"
+        "cracking": "Ein anständiger Mensch schämt sich, Vorgesetzter zu sein!",
+        "cracker": "Arno Schmidt",
+        "language": "German"
       },
       {
         "cracking": "There is a moon in the sky, it is called the moon.",
@@ -16,9 +16,13 @@
         "language": "English"
       },
       {
-        "cracking": "Selbst im Gähnen der Frommen ist unverkennbar die Andacht.",
-        "cracker": "Jens Baggesen",
-        "language": "German"
+        "cracking": "Was man nicht reparieren kann ist auch nicht kaputt.",
+        "cracker": "Alf",
+        "language": "German"},
+      {
+        "cracking": "Just because your position gets worse doesn’t mean you are playing overplays.",
+        "cracker": "Gogonuts",
+        "language": "English"
       },
       {
         "cracking": "Bela Lugosi\u2019s dead.",
@@ -26,8 +30,8 @@
         "language": "English"
       },
       {
-        "cracking": "One must think with the learned and speak with the vulgar.",
-        "cracker": "George Berkeley",
+        "cracking": "I hate quotations.",
+        "cracker": "Ralph Waldo Emerson",
         "language": "English"
       },
       {
@@ -46,8 +50,8 @@
         "language": "English"
       },
       {
-        "cracking": "The day broke grey and dull.",
-        "cracker": "W. Somerset Maugham",
+        "cracking": "If you drink, don’t drive. Don’t even putt.",
+        "cracker": "Dean Martin",
         "language": "English"
       },
       {
@@ -56,8 +60,8 @@
         "language": "German"
       },
       {
-        "cracking": "It is a riddle wrapped in a mystery inside an enigma.",
-        "cracker": "Winston S. Churchill",
+        "cracking": "Don’t be humble. You are not that great.",
+        "cracker": "Golda Meir",
         "language": "English"
       },
       {
@@ -196,9 +200,9 @@
         "language": "German"
       },
       {
-        "cracking": "Das Schicksal nimmt manchmal, um nicht zu schrecken, die launige Miene des Zufalls an.",
-        "cracker": "Johann N. Nestroy",
-        "language": "German"
+        "cracking": "The mistakes are there waiting to be made.",
+        "cracker": "Savielly Tartakower",
+        "language": "English"
       },
       {
         "cracking": "Ich glaube von jedem Menschen das Schlechteste, selbst von mir, und ich habe mich noch selten getäuscht.",
@@ -444,7 +448,19 @@
         "cracking": "Wenn Untugenden und Fehler nicht wären, es würde der Welt an Wärme, Reiz und Reichtum fehlen.",
         "cracker": "Robert Walser",
         "language": "German"
+      },
+      {
+        "cracking": "For I fear I have nothing original in me – excepting Original Sin.",
+        "cracker": "Thomas Campbell",
+        "language": "English"
+      },
+      {
+        "cracking": "I skipped the light fandango.",
+        "cracker": "Procol Harum",
+        "language": "English"
       }
-
+      
     ]
   }
+
+ 
