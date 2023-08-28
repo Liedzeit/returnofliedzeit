@@ -1,6 +1,6 @@
 ---
 title: "PostScript"
-date: "2023-07-24"
+date: "2023-08-24"
 tags: ["levity","obi"]
 keywords: ["John Warnock","Adobe","Peter Karow"]
 backgroundImage: "/assets/img/grave.jpg"
