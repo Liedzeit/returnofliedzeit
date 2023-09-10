@@ -1,10 +1,10 @@
 ---
-title: "Weltmeister"
+title: "Weltmeister, o Je!"
 date: "2023-09-10"
 tags: ["levity"]
-keywords: ["Hansi Flick"]
+keywords: ["Hansi Flick","Dennis Schröder","Rudi Völler"]
 ---
-Deutschland ist Weltmeister im Basketball geworden. Das wird ein Nachspiel haben!
+Deutschland ist Weltmeister im Basketball geworden. Das wird ein Nachspiel haben für Dennis Schröder und Co.!
 
 Denn so viel ist klar, das ist politisch nicht gewollt. Die Bundesjugendspiele? Abgeschafft. In den Fußballausbildungszentren soll nicht mehr auf Tore geschossen werden. Jeder Wettbewerbsgedanke ist verpönt. Niederlagen können für Kinder und Jugendliche zu schweren psychischen Belastungen führen, und der einfachste Weg das zu vermeiden, ist es den Wettbewerb abzuschaffen. (Ein FAZ-Redakteur berichtete neulich von dem Trauma, an dem er wegen einer 0:24-Niederlage noch heute leide.) Stattdessen soll jeder Mensch mit Freude aber eben ohne den Wunsch besser als andere zu sein, Sport treiben. Jeder soll da abgeholt werden wo er steht. Der elitäre Ehrgeiz, auf dem Siegerpodest zu stehen, verbunden womöglich mit der Behauptung, dass es Menschen mit einer Begabung für Sport gibt, führt zu Menschenverachtung, Totalitarismus und Krieg. 
 
