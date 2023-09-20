@@ -1,6 +1,6 @@
 ---
 title: "The last Farewell"
-date: "2023-09-09"
+date: "2023-09-19"
 tags: ["levity","obi"]
 keywords: ["Roger Whittaker"]
 backgroundImage: "/assets/img/grave.jpg"
