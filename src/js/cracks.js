@@ -438,7 +438,15 @@ const cracks = [
       "cracking": "I have a higher and grander standard of principle than George Washington. He could not lie, I can, but I won\u2019t.",
       "cracker": "Mark Twain",
       "language": "English"
+    },
+    {
+      "cracking": "Someday we'll have one extra coastline. We'll tire of the Atlantic",
+      "cracker": "Sparks",
+      "language": "English"
     }
+
+
+
   ];
     
     
