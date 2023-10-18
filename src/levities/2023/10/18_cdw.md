@@ -7,7 +7,7 @@ backgroundImage: "/assets/img/cinema.png"
 ---
 Vor langer Zeit hatte ich mal ein Dept. über Oscar-Filme, das ich eigentlich fortsetzen sollte. Gestern aber habe ich mir diesen Film angesehen und zwar angeregt durch einen Beitrag von Professor Rock über Bad Moon Rising. Herr Fogerty nämlich hat einen Teil der Lyrics diesem Film entnommen.
 
-Ein Klassiker, den ich aus irgendeinem Grunde noch nie vorher gesehen hatte. Und wenn es dir, liebe Leserin, genauso geht, dann schaue ihn dir jetzt(!) an auf YouTube an...
+Ein Klassiker, den ich aus irgendeinem Grunde noch nie vorher gesehen hatte. Und wenn es dir, liebe Leserin, genauso geht, dann schaue ihn dir jetzt(!) auf YouTube an...
 
 William Dieterle führt uns ins Jahr 1840 nach New Hamshire zu einem armen Farmer (James Craig), mit hübscher Frau (Anne Shirley als Oliva de Haviland für Arme) und rauher aber herzensguter Mutter. So arm ist er, dass der Hintergrund seiner Farm auf Pappe gemalt werden musste. Jedenfalls ist er bereit seine Seele für 2 Cent dem Teufel zu verkaufen. Der lässt sich nicht lange bitten und erscheint in Gestalt des Mr. Scratch gespielt vom dafür Oscar-nominierten Walter Huston. Und schon sind wir bei der ersten Überraschung des Films. Denn dieser Teufel ist diabolisch auf eine Art, wie ich sie nie gesehen habe. Den Teufel in *Heaven can wait* fand ich auch gut, aber dieser ist viel besser, charmant aber schmierig.
 
