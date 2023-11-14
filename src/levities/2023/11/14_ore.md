@@ -1,6 +1,6 @@
 ---
 title: "Palais"
-date: "2023-11-06"
+date: "2023-11-14"
 tags: ["levity","obi"]
 keywords: ["Rainer Erler","Michael Bishop"]
 backgroundImage: "/assets/img/grave.jpg"
