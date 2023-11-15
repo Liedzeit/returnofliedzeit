@@ -24,11 +24,10 @@ Gestern habe ich dann mal doch endlich Google bemüht und kam schließlich zu di
 <br>
 
 
-Alles bekannt Lieder bis auf das von Ruby. Und so war ich mächtig stolz. Das habe ich dann bei Besteveralbums gepostet. Und natürlich dauerte es nicht lange bis jemand damit kam:
+Alles bekannte Lieder bis auf das von Ruby. Und so war ich mächtig stolz. Das habe ich dann bei Besteveralbums gepostet. Und natürlich dauerte es nicht lange bis jemand damit kam:
 
 <br>
 <br>
-
 <ul class="no-bullets">
 <li>Al Green: Take Me To The River</li>
 <li>Talking Heads: Burning Down the House</li>
