@@ -20,11 +20,14 @@ Gestern habe ich dann mal doch endlich Google bemüht und kam schließlich zu di
 <li>Marvelettes – Please Mr. Postman</li>
 </ul>
 
-
-
+<br>
+<br>
 
 
 Alles bekannt Lieder bis auf das von Ruby. Und so war ich mächtig stolz. Das habe ich dann bei Besteveralbums gepostet. Und natürlich dauerte es nicht lange bis jemand damit kam:
+
+<br>
+<br>
 
 <ul class="no-bullets">
 <li>Al Green: Take Me To The River</li>
@@ -40,6 +43,7 @@ Alles bekannt Lieder bis auf das von Ruby. Und so war ich mächtig stolz. Das ha
 <li>The Who: I Can See For Miles (or Acid Queen)</li>
 <li>Tina Turner: Let's Stay Together</li>
 </ul>
-
+<br>
+<br>
 Auch nicht schlecht. Ganz und gar nicht schlecht.
 
