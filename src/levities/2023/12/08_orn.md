@@ -1,6 +1,6 @@
 ---
 title: "Is was Doc?"
-date: "2023-11-06"
+date: "2023-12-08"
 tags: ["levity","obi"]
 keywords: ["Ryan o’Neal","Tatum o’Neal" ]
 backgroundImage: "/assets/img/grave.jpg"
