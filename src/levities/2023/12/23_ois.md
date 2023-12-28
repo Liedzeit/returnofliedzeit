@@ -2,7 +2,7 @@
 title: "Schlitz ins Kleid"
 date: "2023-12-23"
 tags: ["levity","obi"]
-keywords: ["Ingrid Steeger","Elisbeth Volkmann" ]
+keywords: ["Ingrid Steeger","Elisabeth Volkmann" ]
 backgroundImage: "/assets/img/grave.jpg"
 ---
 Klimbim. Eine kuriose Sendung, denn einerseits stellte sie im deuteschen Fernsehen etwas Spritziges, Aufrüttelndes, Revolutionäres dar, wofür nicht nur, aber wohl hauptsächlich nackte Brüste verantworltich waren. Und gleichzeitig war das irgendwie komplett spießig und doof. Ganz besonders die Sketche mit dem alten Opa waren überhaupt nicht zu ertragen.
