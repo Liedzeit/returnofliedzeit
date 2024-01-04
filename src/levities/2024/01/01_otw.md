@@ -1,6 +1,6 @@
 ---
 title: "Spätzünder"
-date: "2024-01-10"
+date: "2024-01-03"
 tags: ["levity","obi"]
 keywords: ["Tom Wilkinson"]
 backgroundImage: "/assets/img/grave.jpg"
