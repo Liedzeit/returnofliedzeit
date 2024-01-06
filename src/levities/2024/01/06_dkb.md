@@ -29,7 +29,7 @@ Non-Fiction
 
 
 
-1. Michael D. Gordin – Bad News: How Woke Media Is Undermining Democracy
+1. Michael D. Gordin – Scientific Babel: The language of science from the fall of Latin to the rise of English
 
 2. Daniel Dennett – I've Been Thinking
 
