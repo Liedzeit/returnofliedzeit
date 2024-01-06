@@ -46,7 +46,7 @@ Non-Fiction
 
 Entdeckung des Jahres: Frank Thiess (neben den Straßen noch Dämonen)
 
-Enttäuschung des Jahres: Anthony Trollope – The Prime Minister 
+Enttäuschung des Jahres: **Anthony Trollope** – *The Prime Minister*  
 
 
 Und bestes Wiedergelesenes...
