@@ -18,7 +18,7 @@ Fiction
 
 3. Nicholas Tchkotoua – Timeless
 
-4. Cormac McCarthy – Stella Maris<
+4. Cormac McCarthy – Stella Maris
 
 5. Gaito Gazdanov – Das Phantom des Alexander Wolf
 </div>
