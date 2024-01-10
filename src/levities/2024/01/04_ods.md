@@ -9,4 +9,4 @@ Starsky & Hutch hat eine besondere Bedeutung für mich. Es war die erste Serie, 
 
 Zwei Flamingos, die irgendwelche stupiden Krimifälle bearbeiten mit einem besonders doofen Huggy Bear. Möglicherweise mochte ich auch homoerotische Andeutungen nicht. Wer weiß.
 
-So richtig abscheulich fand ich Hutch dann aber seine Gesangskarriere. Viel Grauenvolleres als *Don't give up on us* kann man sich nicht vorstellen. Es sei denn es wäre *Silver Lady*.
+So richtig abscheulich fand ich Hutch dann aber erst als er zu singen anfing. Viel Grauenvolleres als *Don't give up on us* kann man sich nicht vorstellen. Es sei denn es wäre *Silver Lady*.
