@@ -5,7 +5,7 @@ tags: ["levity","obi"]
 keywords: ["Wolfgang Schäuble","Jacques Delors","Laschet","Friedrich Merz" ]
 backgroundImage: "/assets/img/grave.jpg"
 ---
-Architekt der Einheit. Gemeint ist die Deutsche. Und Europa hat er auch zusammengeführt, iregendwie. Sagt die New York Times („pronounced SHOY-bleh“). Was ich in diesem Fall gerne glauben möchte. Famoser Mann. Dieser Schäuble. Euro gerettet und so.
+Architekt der Einheit. Gemeint ist die Deutsche. Und Europa hat er auch zusammengeführt, irgendwie. Sagt die New York Times („pronounced SHOY-bleh“). Was ich in diesem Fall gerne glauben möchte. Famoser Mann. Dieser Schäuble. Euro gerettet und so.
 
 Allerdings, für wirklich höhere Aufgaben, sprich Kanzlerschaft, kann ein Mensch sich nicht empfehlen, der unfähig oder unwillig ist, seinen Dialekt abzulegen.
 
