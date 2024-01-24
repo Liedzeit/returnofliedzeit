@@ -1,6 +1,6 @@
 ---
 title: "Ich weiß nicht, ob er es brachte"
-date: "2024-01-09"
+date: "2024-01-24"
 tags: ["levity","obi"]
 keywords: ["Frank Farian","Boney M." ]
 backgroundImage: "/assets/img/grave.jpg"
