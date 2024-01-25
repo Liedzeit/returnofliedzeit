@@ -6,7 +6,7 @@ keywords: ["Emma Stone","Willem Dafoe","Mark Ruffalo"]
 backgroundImage: "/assets/img/cinema.png"
 ---
 Hiermit nehme ich feierlich alles zurück, was ich jemals Böses über <i>Matrix</i>, 
-<i>Paradise</i> oder <i>Everything Everywhere All At Once</i> gesagt habe.
+<i>Parasite</i> oder <i>Everything Everywhere All At Once</i> gesagt habe.
 
 Verglichen mit dem hier sind das allesamt herausragende Werke.
 
