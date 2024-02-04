@@ -5,7 +5,7 @@ tags: ["levity","obi"]
 keywords: ["Don Murray"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
-Neulich hatte ich anlässlich eines Rätsels Gelegenheit an Bus Stop zu erinnern? Und wer spielte da neben Marilyn?
+Neulich hatte ich anlässlich eines Rätsels Gelegenheit an Bus Stop zu erinnern. Und wer spielte da neben Marilyn?
 
 Don Murray. Und er erhielt dafür eine Oscar-Nominierung (Nebenrolle). Irgendwann war er dann bei Twin Peaks dabei. Kann ja nicht jeder ein ganz großer Star werden.
 
