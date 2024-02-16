@@ -1,6 +1,6 @@
 ---
 title: "Der Letzte der Spinners"
-date: "2024-02-09"
+date: "2024-02-14"
 tags: ["levity","obi"]
 keywords: ["Henry Fambrough"]
 backgroundImage: "/assets/img/grave.jpg"
