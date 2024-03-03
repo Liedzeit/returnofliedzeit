@@ -443,7 +443,23 @@ const cracks = [
       "cracking": "Someday we'll have one extra coastline. We'll tire of the Atlantic",
       "cracker": "Sparks",
       "language": "English"
+    },
+    {
+      "cracking": "Ich erkläre Ihnen feierlichst, daß ich schon mehrmals ein Insekt werden wollte. Aber selbst diese Würde blieb mir versagt.",
+      "cracker": "F.M. Dostojewski",
+      "language": "German"
+    },
+    {
+      "cracking": "I was a shade perturbed.",
+      "cracker": "P.G. Wodehouse",
+      "language": "English"
+    },
+    {
+      "cracking": "Pull over, Fährmann über Bord! Das Boot ist eh' schon weg.",
+      "cracker": "Schobert & Black",
+      "language": "German"
     }
+    
 
 
 
