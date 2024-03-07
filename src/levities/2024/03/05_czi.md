@@ -18,9 +18,9 @@ Man sieht sie also bei den Alltagsdingen, sich mit Freundinnen treffen, ihren Ga
 
 Spießige Idylle also. Gut. Ich war dieses Jahr in Auschwitz und habe das Haus gesehen. Und viel Fantasie gehört nicht dazu, sich vorzustellen, wie das Leben da gewesen sein muss. Es ist geradezu unmöglich sich das nicht vorstellen zu können. Warum soll ein Film mir dabei helfen? Ja, weil das Grauen dadurch, dass man es nicht zeigt, noch greifbarer wird! So jedenfalls offenbar die Logik der Filmemacher. Und wenn man großzügig ist, sagt man, (so wie D.) für einen zwanzigminütigen Film-Essay hätte das vielleicht funktioniert.
 
-Indirekt also. Christian Friedel lehnt lässig am Tisch telefonierend, als man ihm eine Insassin zuführt. Was er mit der nun tut, sieht man nicht, sondern stattdessen beobachten wir ihn dabei, wie er anschließend mit heruntergelassener Hose, sein, nun, Geschlechtsteil säubert.
+Indirekt also. Christian Friedel lehnt lässig am Tisch, telefonierend, als man ihm eine Insassin zuführt. Was er mit der nun tut, sieht man nicht, sondern stattdessen beobachten wir ihn dabei, wie er anschließend mit heruntergelassener Hose, sein, nun, Geschlechtsteil säubert.
 
-Am Ende, darf auch in keinem künstlerisch wertvollen Film fehlen, übergibt er sich. Weil er gerade einsieht, wie böse seine Frau ist, glaube ich.
+Am Ende, darf auch in keinem künstlerisch wertvollen Film fehlen, übergibt er sich. Weil er gerade einsieht, wie böse seine Frau ist, glaube ich. Und ganz am Schluss sehen wir dann doch noch das Lager von innen. In der Gegenwart, aus der Sicht der Putzstaffel. Das fand ich tatsächlich gut.
 
 War das alles so? Vermutlich so ähnlich. Aber etwas mehr Sorgfalt bei den Dialogen hätte man erwarten dürfen. Alles gut. Sagen die da. Die absurde Univeralfloskel, die es so vor zehn Jahren noch nicht gab, geschweige denn damals. Oder toll, im Sinne von großartig.
 
