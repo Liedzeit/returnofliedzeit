@@ -1,6 +1,6 @@
 ---
 title: "Der Bruder"
-date: "2024-01-26"
+date: "2024-03-26"
 tags: ["levity","obi"]
 keywords: ["Fritz Wepper","Elmar Wepper","Erik Ode" ]
 backgroundImage: "/assets/img/grave.jpg"
