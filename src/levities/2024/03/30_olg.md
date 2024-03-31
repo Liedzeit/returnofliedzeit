@@ -9,4 +9,4 @@ Er war der Ausbilder, der unseren Richard Gere gequält hat. Und der Mentor Kint
 Louis Gossett Jr.
 
 
-Und was anderes. Kafka (Joel Basman). Die Serie war nicht nur gut, die fünfte Folge über Milena mit Liv Lisa Fries war das beste Fernsehen, was es jemals in Deutschland produziert wurde.
+Und was anderes. Kafka (Joel Basman). Die Serie war nicht nur gut, die fünfte Folge über Milena mit Liv Lisa Fries war das beste Fernsehen, was es jemals in Deutschland gegeben hat.
