@@ -5,7 +5,7 @@ tags: ["levity","obi"]
 keywords: ["Louis Gossett Jr.","Richard Gere","Joel Basman","Liv Lisa Fries"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
-Er war der Ausbilder, der unseren Richard Gere gequält hat. Und der Mentor Kinta Kintes, der Fiddler.
+Er war der Ausbilder, der unseren Richard Gere gequält hat. Und der Mentor Kunta Kintes, der Fiddler.
 Louis Gossett Jr.
 
 
