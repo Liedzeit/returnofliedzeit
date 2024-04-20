@@ -1,6 +1,6 @@
 ---
 title: "Sì, abbiamo un’anima"
-date: "2024-04-18"
+date: "2024-04-20"
 tags: ["levity","obi"]
 keywords: ["Daniel Dennett","Chomsky","John Searle","George Bernard Shaw"]
 backgroundImage: "/assets/img/grave.jpg"
