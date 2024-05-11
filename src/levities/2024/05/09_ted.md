@@ -1,6 +1,6 @@
 ---
 title: "Poetry Slam"
-date: "2022-05-09"
+date: "2024-05-09"
 tags: ["levity", "theater"]
 keywords: ["David Friedrich","Lennart Schilgen","Fabian Navarro","Kolja Fach"]
 ---
