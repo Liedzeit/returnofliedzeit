@@ -1,6 +1,6 @@
 ---
 title: "Maisel tov"
-date: "2023-05-23"
+date: "2024-05-23"
 tags: ["levity", "series"]
 keywords: ["Rachel Brosnahan","Michael Zegen","Tony Shalhoub","Alex Borstein","Marin Hinkle"]
 ---
