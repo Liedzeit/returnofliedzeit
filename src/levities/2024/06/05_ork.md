@@ -5,6 +5,6 @@ tags: ["levity","obi"]
 keywords: ["Ruth Maria Kubitschek"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
-Nadja Tiller, Senta Berger, Karin Dor, Lil Dagover. So müssen Schauspielerinnen heißen.
+Nadja Tiller, Senta Berger, Karin Dor, Lil Dagover. So müssen Schauspielerinnen heißen. Eigentlich.
 
 Aber Frau Kubitschek brauchte das nicht. Sie war ja das Spazl.
