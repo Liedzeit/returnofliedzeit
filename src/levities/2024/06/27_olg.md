@@ -1,5 +1,5 @@
 ---
-title: "Der weisse Revolutionär
+title: "Der weisse Revolutionär"
 date: "2024-06-27"
 tags: ["levity","obi"]
 keywords: ["Lothar Gall"]
