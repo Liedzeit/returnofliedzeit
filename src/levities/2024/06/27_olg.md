@@ -1,6 +1,6 @@
 ---
 title: "Der weiße Ritter"
-date: "2024-06-28"
+date: "2024-06-27"
 tags: ["levity","obi"]
 keywords: ["Lothar Gall"]
 backgroundImage: "/assets/img/grave.jpg"
