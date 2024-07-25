@@ -10,7 +10,7 @@ Am interessantesten zwei Bilder in einer Vitrine abgedeckt durch eine Decke. Abe
 
 <br/>
 
-<img  src="/assets/img/art/europa.webp" alt="Europa">
+<img  src="/assets/img/art/europa.webp" style="width: 50%; height: 50%" alt="Europa">
 
 <br/>
 <br/>
