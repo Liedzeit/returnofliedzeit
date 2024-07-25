@@ -13,6 +13,11 @@ Am interessantesten zwei Bilder in einer Vitrine abgedeckt durch eine Decke. Abe
 <img  src="/assets/img/art/europa.webp" alt="Europa">
 
 <br/>
+<br/>
 
 
 Da gehört schon viel Fantasie dazu, hier Rassismus zu erkennen. Sexismus meinetwegen. *Africa and America support Europe*, so der Titel. Warum ist das rassistisch? Weil, so der Austellungskatalog: die „zärtlichen, sexualisierten Posen bagatellisieren die Brutalität der Kolonisierung.“ Da muss man erst einmal darauf kommen. Blake habe maßgeblich zur „Konstruierung“ des Rasse-Begriffs beigetragen. Es versteht sich von selbst, dass das Wort *Negroes*, das im Titel des anderen Bildes enthalten ist, dem heutigen Menschen nicht mehr zugemutet werden darf. Deshalb ist natürlich nur von N****** die Rede.
+
+
+--
+Danach Grüner Bunker. Das haben die mal wirklich gut gemacht.
