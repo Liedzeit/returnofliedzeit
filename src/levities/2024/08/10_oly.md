@@ -11,3 +11,6 @@ Stattdessen aber bin ich glücklich über ein paar Goldmedaillen. Und ganz beson
 Dagegen Darja Varfolomeev. Mit drei angefangen, 60 Stunden Training die Woche. Und man sieht es.
 
 
+Zweimal Stade de France, einmal Roland Garros zum Boxen. Frau Khelif mit eigenen Augen gesehen. Das war schon brutal. Aber die 71kg Männer boxen schon noch anders. So, dass es Spaß macht, zuzuschauen. Mag jetzt wieder misogynistisch sein, aber das Frauenboxen hat etwas freakhaftes.
+
+
