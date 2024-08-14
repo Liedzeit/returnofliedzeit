@@ -2,7 +2,7 @@
 title: "Willi und Richard"
 date: "2024-08-14"
 tags: ["levity","obi"]
-keywords: ["Richard Rogler","Willi Lemke"]
+keywords: ["Richard Rogler","Willi Lemke","Otto Rehhagel"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
 Im Grunde des Herzens wäre man ja doch am allerliebsten Werder-Fan. Schon wegen der Wunder von der Weser. Und Rehhagel, Schaaf, Allofs. Und natürlich Willi Lemke.
