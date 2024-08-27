@@ -7,7 +7,7 @@ backgroundImage: "/assets/img/cinema.png"
 ---
 Einen Film anläßlich des Ablebens von Alain Delon wollte ich dann doch sehen. Und es fand sich <i>Der Leopard</i> von Luchino Visconti in unserem Haushalt. Vor nicht so langer Zeit hatte ich den – ausgezeichneten – Roman gelesen. Umso besser.
 
-Und da spielen ja auch Burt Lancaster und Claudia Cardinale mit. Burt ist Fürst Fabrizio Corberoder, der Leopard. Wir befinden uns in Sizilien im Jahre 1860 – zu Anfang. Der geliebte Neffe, Tancredi (Alain) kämpft mit Garribaldi für ein geeintes Italien. Burt glaubt eigentlich, dass jede Verändeung eine Veränderung zum Schlechten ist, wehrt sich aber auch nicht dagegen (lehnt aber am Ende den angebotenen Senator-Posten ab.) Das berühmte Motto: „Wenn wir wollen, dass alles so bleibt, wie es ist, muss sich alles ändern.“
+Und da spielen ja auch Burt Lancaster und Claudia Cardinale mit. Burt ist Fürst Fabrizio Corbera, der Leopard. Wir befinden uns in Sizilien im Jahre 1860 – zu Anfang. Der geliebte Neffe, Tancredi (Alain) kämpft mit Garribaldi für ein geeintes Italien. Burt glaubt eigentlich, dass jede Verändeung eine Veränderung zum Schlechten ist, wehrt sich aber auch nicht dagegen (lehnt aber am Ende den angebotenen Senator-Posten ab.) Das berühmte Motto: „Wenn wir wollen, dass alles so bleibt, wie es ist, muss sich alles ändern.“
 
 Tancredi möchte von der Tochter des Leoparden geheiratet werden, der scheint erst nicht abgeneigt, bis Claudia auftaucht. Und der Fürst ist für Claudia, weil die Geld mit in die Ehe bringt (während das Vermögen Burts auf sieben Kinder verteilt werden muss), ausserdem ist die makkaroniessende Tochter zu provinziell.
 
