@@ -2,7 +2,7 @@
 title: "Ruhm"
 date: "2024-09-05"
 tags: ["levity"]
-keywords: [""]
+keywords: ["Joey Chestnut","Hotdog"," Kilina Jonet"]
 ---
 Es gibt viele Wege zum Ruhm. Leider braucht man für die meisten Talent und Zähigkeit. Und dann stellt sich die Frage, wofür man berühmt sein möchte. 
 
