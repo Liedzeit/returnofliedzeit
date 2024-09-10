@@ -25,7 +25,7 @@ So weit, so wunderbar. Wie entkommen unsere Helden der Leere? Mit Hilfe einer Me
 
 Am Ende, ohne zu viel zu verraten, wird also Deadpools Welt gerettet. In der finallen Rettungsszene begleitet uns übrigens Madonna (und der gelingt es dadurch mal so eben in meinem persönlichen Ranking in die Riege der großen Künstler aufzusteigen!). Und der schlechteste aller Wolverines ist immer noch gut genug. Allerdings Jackman etwas mau, verglichen mit Reynolds und allen anderen Darstellern. Wie Reynolds es schafft, hinter seiner Maske dennoch die Illusion von der Sitation angemessene subtilen Gesichtsausdrücken zu erzeugen, ist ein Mysterium. 
 
-Und jetzt habe ich noch gar nicht von den alternativen Deadpools geredet. Allen vorran: Nicepool. Und auch nicht von der sehr lustigen Postcredit-Szene.
+Und jetzt habe ich noch gar nicht von den alternativen Deadpools geredet. Allen voran: Nicepool. Und auch nicht von der sehr lustigen Postcredit-Szene.
 
 Leider wird vermutlich auch dieses Werk bei den Oscar-Verleihungen leer ausgehen. Aber mein persönlicher Favorit, beste männlich Nebenrolle: Matthew Macfadyen (ein Name, der für unsereins natürlich einen erhabenen Klang hat) als Paradox.
 
