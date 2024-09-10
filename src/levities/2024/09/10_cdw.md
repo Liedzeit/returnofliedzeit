@@ -11,7 +11,7 @@ Aber andererseits, 8.0 auf IMDB, und der Film läuft seit sieben Wochen. Kann vi
 
 War er aber nicht. Sondern sensationell, phantatico gut.
 
-Es geht mit einem wilden Gemetzel los. Gähn. Aber dann Deadpools Stimme aus dem Off mit einer Entschuldigung genau dafür. Und ein Rückblick, wie erfolglos versucht, sich bei den Avengers zu bewerben, bei Happy Hogan. Da war dann klar, dass das mal zumindest eine 8 sein würde.
+Es geht mit einem wilden Gemetzel los. Gähn. Aber dann Deadpools Stimme aus dem Off mit einer Entschuldigung genau dafür. Und ein Rückblick, wie er erfolglos versucht, sich bei den Avengers zu bewerben, bei Happy Hogan. Da war dann klar, dass das mal zumindest eine 8 sein würde.
 
 Deadpool ist in seiner Welt Gebrauchtwagenhändler, aber da wird er von der TVA (Time Variance Authority) in Gestalt von Mr. Paradox davon unterrichtet, dass seine Timeline zerfällt. Um das zu verhindern, benötigt er aus irgendeiner anderen der Parallelwelten einen Wolverine. Er findet den schlechtesten, dem er verspricht ihm in seiner Welt zu helfen. Das aber ist nur ein „educated wish“ wie sich herausstellt. Gerettet wird am Schluss nur Deadpools Welt (Erde-10005). Dazwischen gibt es jede Menge Prügeleien, zunächst natürlich zwischen Deadpool und Wolverine. Soweit so erwartbar. 
 
