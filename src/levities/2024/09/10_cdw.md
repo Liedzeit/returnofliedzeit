@@ -23,8 +23,10 @@ Leider wird Johnny nicht lange überleben, denn die Schurkin des Stückes, die Z
 
 So weit, so wunderbar. Wie entkommen unsere Helden der Leere? Mit Hilfe einer Menge abgehalfteter Superhelden. Jennifer Garner (die Ben Afflek niemals hätte verlassen dürfen) ist Elektra und Wesley Snipes Blade. Die Show gestohlen wird ihnen allerdings von Gambit (Channing Tatum). Der einzige Weg Cassandra (Prinzessin Diana) auszuschalten ist mit Hilfe von Magnetos Helm. Oder dem des Juggernauts. Und so geschieht es. Der Helm nimmt ihr die Kraft. Aber ohne die Kraft kann sie auch unsere Helden nicht in ihre Welt zurückschicken. Was also tun?
 
-Am Ende, ohne zu viel zu verraten, wird also Deadpools Welt gerettet. In der finallen Rettungsszene begleitet uns übrigens Madonna (und der gelingt es dadurch mal so eben in meinem persönlichen Ranking in die Riege der großen Künstler aufzusteigen!). Und der schlechteste aller Wolverines ist immer noch gut genug. Allerdings Jackman etwas mau, verglichen mit Reynolds und allen anderen Darstellern. Wie Reynolds es schafft, hinter seiner Maske dennoch die Illusion von der Sitation angemessene subtilen Gesichtsausdrücken zu erzeugen ist ein Mysterium. 
+Am Ende, ohne zu viel zu verraten, wird also Deadpools Welt gerettet. In der finallen Rettungsszene begleitet uns übrigens Madonna (und der gelingt es dadurch mal so eben in meinem persönlichen Ranking in die Riege der großen Künstler aufzusteigen!). Und der schlechteste aller Wolverines ist immer noch gut genug. Allerdings Jackman etwas mau, verglichen mit Reynolds und allen anderen Darstellern. Wie Reynolds es schafft, hinter seiner Maske dennoch die Illusion von der Sitation angemessene subtilen Gesichtsausdrücken zu erzeugen, ist ein Mysterium. 
 
 Und jetzt habe ich noch gar nicht von den alternativen Deadpools geredet. Allen vorran: Nicepool. 
 
-Leider wird vermutlich auch dieses Werk bei den Oscar-Verleihungen leer ausgehen. Aber mein persönlicher Favorit beste männlich Nebenrolle: Matthew Macfadyen (ein Name, der für unsereins natürlich einen erhabenen Klang hat) als Paradox.
+Leider wird vermutlich auch dieses Werk bei den Oscar-Verleihungen leer ausgehen. Aber mein persönlicher Favorit, beste männlich Nebenrolle: Matthew Macfadyen (ein Name, der für unsereins natürlich einen erhabenen Klang hat) als Paradox.
+
+10/10 CinemaxX, Dammtor
