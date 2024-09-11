@@ -5,7 +5,7 @@ tags: ["levity", "cinema"]
 keywords: ["Ryan Reynolds","Hugh Jackman","Matthew Macfadyen","Morena Baccarin","Jennifer Garner","Emma Corrin","Chris Evans"]
 backgroundImage: "/assets/img/cinema.png"
 ---
-Deadpool war, glaube ich, der erste Marvel-Film, den ich damals nicht im Kino gesehen habe. Deadpool? Kannte ich nicht, kam nach meiner Zeit. Ein Fehler, denn der Film war sehr gut. Leider der zweite Teil nicht so, und da ich den Trailer zu Deadpool & Wolverine auch nicht so toll fand, wollte ich den nun wieder ignorieren. Zumal Hugh erstens alt, zweiten doch auch tot war, oder nicht?
+Deadpool war, glaube ich, der erste Marvel-Film, den ich damals nicht im Kino gesehen habe. Deadpool? Kannte ich nicht, kam nach meiner Zeit. Ein Fehler, denn der Film war sehr gut. Leider der zweite Teil nicht so, und da ich den Trailer zu Deadpool & Wolverine auch nicht so toll fand, wollte ich den nun wieder ignorieren. Zumal Hugh erstens alt, zweitens doch auch tot war, oder nicht?
 
 Aber andererseits, 8.0 auf IMDB, und der Film läuft seit sieben Wochen. Kann vielleicht doch ganz gut sein, dachte ich.
 
