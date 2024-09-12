@@ -1,7 +1,7 @@
 ---
 title: "Debatte"
 date: "2024-09-11"
-tags: ["levity", "concert"]
+tags: ["levity"]
 keywords: ["Kamala Harris","Donald Trump"]
 ---
 Kamala ging auf Donald zu, stellte sich vor und schüttelte ihm die Hand. Damit hatte sie die Debatte schon gewonnen.
