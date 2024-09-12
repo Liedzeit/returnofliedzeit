@@ -1,6 +1,6 @@
 ---
 title: "Thulsa Doom"
-date: "2024-08-12"
+date: "2024-09-12"
 tags: ["levity","obi"]
 keywords: ["James Earl Jones"]
 backgroundImage: "/assets/img/grave.jpg"
