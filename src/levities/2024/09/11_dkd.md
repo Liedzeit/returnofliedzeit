@@ -13,4 +13,4 @@ Wobei Trump für seine Verhältnisse fast präsidial wirkte. Bis auf die Katzen 
 
 Man wünscht sich eine etwas sachlichere Auseinandersetzung. Und mal ein paar Fakten. Aber Parolen sind ja auch sehr schön.
 
-Und wer hat nun wirklich die Debatte gewonnen? Schwer zu sagen. Kamela hat einen Plan. Aber Trump hat Konzepte eines Plans. Klingt für mich irgendwie überzeugender.
+Und wer hat nun wirklich die Debatte gewonnen? Schwer zu sagen. Kamala hat einen Plan. Aber Trump hat Konzepte eines Plans. Klingt für mich irgendwie überzeugender.
