@@ -9,7 +9,7 @@ Habe ich schon mal erzählt wie ich von herzensguten Nachbarn einen Radiophonoto
 
 Die habe ich dann monatelang in Dauerschleife gehört, bis dann *Sgt. Pepper* und *Indiscreet* dazukamen.
 
-Wobei ich Hawkwind gar nicht besonders mochte. Aber dafür Caterina umso mehr. Dich werd ich nie nie nie vergessen. Hab’ ich auch nie dein Herz bessenen, du gehst mir nicht mehr aus dem Sinn.
+Wobei ich Hawkwind gar nicht besonders mochte. Aber dafür Caterina umso mehr. Dich werd ich nie nie nie vergessen. Hab’ ich auch nie dein Herz besessen, du gehst mir nicht mehr aus dem Sinn.
 
 Ganz und gar großartig, aber noch viel besser die B-Seite, bis heute eines meiner absoluten [Lieblingslieder](https://www.youtube.com/watch?v=lNvjJZHFoEE).
 
