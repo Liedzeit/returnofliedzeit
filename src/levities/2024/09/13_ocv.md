@@ -18,42 +18,43 @@ Caterina Valente. Was für ein Name. Leider kann ich nicht behaupte, mich an ihr
 Der Spiegel hat ein Video mit Dean Martin. Das zeigt ganz schön, wer sie war was sie konnte.
 
 Aber eigentlich muss man nur Cowboy Jonny hören.
+<br />
+<br />
+Frag mich nie was Heimweh ist<br />
+Nach den silbernen Tannen<br />
+Nach den gold’nen Savannen<br />
+Frag mich nie was Sehnsucht heißt<br />
+Die schon morgen den Weg mir<br />
+Nach Hause weist.<br />
+
+Ich bin allein<br />
+Und ich zieh durch die Welt die so weit<br />
+Und träum von vergangener Zeit<br />
+
+Frag mich nie was Heimweh ist<br />
+Wenn du längst bei den Deinen<br />
+Zu Hause bist<br />
+
+Cowboy Jonny hoppi hi<br />
+Reite über die Prärie<br />
+Dort klingt noch heut<br />
+Von der Cowboys Leid<br />
+Ein Lied aus alter Zeit<br />
 
 Frag mich nie was Heimweh ist<br />
 Nach den silbernen Tannen<br />
 Nach den gold’nen Savannen<br />
 Frag mich nie was Sehnsucht heißt<br />
-Die schon morgen den Weg mir
-Nach Hause weist.
+Die schon morgen den Weg mir<br />
+Nach Hause weist.<br />
 
-Ich bin allein
-Und ich zieh durch die Welt die so weit
-Und träum von vergangener Zeit
-
-Frag mich nie was Heimweh ist
-Wenn du längst bei den Deinen
-Zu Hause bist
-
-Cowboy Jonny hoppi hi
-Reite über die Prärie
-Dort klingt noch heut
-Von der Cowboys Leid
-Ein Lied aus alter Zeit
-
-Frag mich nie was Heimweh ist
-Nach den silbernen Tannen
-Nach den gold’nen Savannen
-Frag mich nie was Sehnsucht heißt
-Die schon morgen den Weg mir
-Nach Hause weist.
-
-Ich bin allein
-Und ich zieh durch die Welt die so weit
-Und träum von vergangener Zeit
-Frag mich nie was Heimweh ist
-Wenn du längst bei den Deinen
-Zu Hause bist
-Haha haha
-Cowboy Jonny hoppi hi
-Hoppi hi
-Hoppi hi
+Ich bin allein<br />
+Und ich zieh durch die Welt die so weit<br />
+Und träum von vergangener Zeit<br />
+Frag mich nie was Heimweh ist<br />
+Wenn du längst bei den Deinen<br />
+Zu Hause bist<br />
+Haha haha<br />
+Cowboy Jonny hoppi hi<br />
+Hoppi hi<br />
+Hoppi hi<br />

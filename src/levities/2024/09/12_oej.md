@@ -12,3 +12,5 @@ Er wurde ein householdname ohne diese eine Leistung durch viele weitere Darstell
 Darum wollte ich mir gestern <i>The Great White Hope</i> ansehen, wofür er immerhin eine Oscar-Nominierung erhalten hat. Leider war die Qualität des Bildes (Youtube) miserabel. (Stattdessen, <i>Die Nadel</i> mit Donald Sutherland.)
 
 Und Star Wars und Lion King kenne ich nicht. Als Othello hätte ich ihn gern gesehen.
+
+Nachtrag: Doch noch James Earl als Boxer Jack Jefferson (und wirklich: Jack Johnson) gesehen. Er ist der Boxer, der eine große weiße Hoffnung nach der anderen verprügelte. Und sich dann auch noch eine weiße Freundin anlacht. Jane Alexander, ebenfalls für einen Oscar nominiert, und leider ebenso wie er nicht gewonnen. *Flucht in Ketten* lief im Fernsehen mindestens siehenhundertmal, der, glaube ich, nie. Da stimmt was nicht.
