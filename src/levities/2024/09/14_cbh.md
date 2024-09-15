@@ -7,7 +7,7 @@ backgroundImage: "/assets/img/cinema.png"
 ---
 Letzte Woche kaufte ich mir in einem Anfall von Schwäche (oder genauer aus Trotz gegen die Stimme der Vernunft) auf dem Flohmarkt 12 Dick und Doof Filme.
 
-Im Fernsehen laufen die Filme heutzutage der beiden so gut wie nie und im Streaming findet man sie auch nicht. Und mich dem Niedergang der Kultur entgegenstemmend sollen die hier kurz besprochen werden. Ohne besondere Reihenfolge.
+Im Fernsehen laufen die Filme der beiden heutzutage so gut wie nie und im Streaming findet man sie auch nicht. Und mich dem Niedergang der Kultur entgegenstemmend sollen die hier kurz besprochen werden. Ohne besondere Reihenfolge.
 
 Block-heads. Deutsch: Die Klotzköpfe. 
 
