@@ -17,7 +17,7 @@ Olli ist inzwischen glücklich verheiratet, wenn auch etwas unter dem Pantoffel 
 
 Natürlich soll Stan die Gattin kennenlernen. Die aber ist nicht so nett wie man es sich wünschen würde. Ganz anders als die schöne Nachbarin: Patricia Ellis. Die bietet ihre Hilfe beim Aufräumen an, als Stan die Wohnung verwüstet hat. Und als dann die Gattin auftaucht, sich als Sessel ins Schlafzimmer setzt. Sensationell.
 
-Und vorher gibt es eine Auseinandersetzung zwischen Oliver und James Finlayson, der unseren Mann als Kaulquappe beleidigt. Noch besser der Rotzjunge von nebanan, der im dreizehnten Stock mit seinem Football spielt. Der Gatte der Nachbarin in Großwildjäger, und es wundert nicht, dass er auf unsere Freunde losgeht. 
+Und vorher gibt es eine Auseinandersetzung zwischen Oliver und James Finlayson, der unseren Mann als Kaulquappe beleidigt. Noch besser der Rotzjunge von nebanan, der im dreizehnten Stock mit seinem Football spielt. Der Gatte der Nachbarin ist Großwildjäger, und es wundert nicht, dass er auf unsere Freunde losgeht. 
 
 Hal Roach produzierte und Harry Langdon durfte neben James Parrot am Drehbuch mitarbeiten.
 
