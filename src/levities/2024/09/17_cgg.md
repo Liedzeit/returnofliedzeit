@@ -13,9 +13,9 @@ Stan und Ollie stehen im Dienste des Daniel Forrester IV. Wie an der IV schon zu
 
 Daniel wird von Dick Nelson gespielt, der in der deutschen Wikipedia nicht einmal einen Eintrag hat. Was für eine Schmach.
 
-Dick und Doof sind hier also nicht viel mehr als comic relief zur Geschichte des straight man. Der macht sich an eine Foto-Angestellte ran, was nun dem Sergeanten nicht gefällt. Dass dem das nicht gefällt, gefällt nun wiederum den Aupassern. “She is a vampire“ und so sorgen sie dafür, dass er in Arrest kommt. Zu seinem Besten.
+Dick und Doof sind hier also nicht viel mehr als comic relief zur Geschichte des straight man. Der macht sich an eine Foto-Angestellte ran, was nun dem Sergeanten nicht gefällt. Dass dem das nicht gefällt, gefällt nun wiederum den Aupassern. “She is a vampire“, und so sorgen sie dafür, dass er in Arrest kommt. Zu seinem Besten.
 
-Dann gibt es ein Manöver, dass die Guten Weißen (mit Stan und Ollie) schließlich gegen die Blauen gewinnen, weil Penelope, der Pinguin (oder sonst ein Vogel) Stan findet. Schon sehr beknackt.
+Dann gibt es ein Manöver, das die Guten Weißen (mit Stan und Ollie) schließlich gegen die Blauen gewinnen, weil Penelope, der Pinguin (oder sonst ein Vogel) Stan findet. Schon sehr beknackt.
 
 Ganz so schlecht ist der Film allerdings auch nicht. Zum Beispiel die Szene, in der Stan hinter den Tresen spaziert, um sich mit Frühstück zu versorgen. Und es ist irgendwie ganz schön, Stan als einmal nicht ganz so doof zu erleben. Und verlernt haben sie ihren Beruf auch nicht. Es gibt wenig Slapstick, aber einige zwar bekannte aber gute Nummern. Stan trägt langen Balken an einem Ende und so.
 
