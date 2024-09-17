@@ -19,6 +19,6 @@ Dann gibt es ein Manöver, dass die Guten Weißen (mit Stan und Ollie) schließl
 
 Ganz so schlecht ist der Film allerdings auch nicht. Zum Beispiel die Szene, in der Stan hinter den Tresen spaziert, um sich mit Frühstück zu versorgen. Und es ist irgendwie ganz schön, Stan als einmal nicht ganz so doof zu erleben. Und verlernt haben sie ihren Beruf auch nicht. Es gibt wenig Slapstick, aber einige zwar bekannte aber gute Nummern. Stan trägt langen Balken an einem Ende und so.
 
-Und so wäre ich fast bereit, dem eine Sieben zu geben, wenn ich aus ideologischen Gründen nicht gegen die Armee-Verheerlichung wäre.
+Und so wäre ich fast bereit, dem eine Sieben zu geben, wenn ich aus ideologischen Gründen nicht gegen die Armee-Verherrlichung wäre.
 
 6/10 (IMDb 6,1) DVD
