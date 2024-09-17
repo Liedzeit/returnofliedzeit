@@ -21,4 +21,4 @@ Und vorher gibt es eine Auseinandersetzung zwischen Oliver und James Finlayson, 
 
 Hal Roach produzierte und Harry Langdon durfte neben James Parrot am Drehbuch mitarbeiten.
 
-8/10 DVD
+8/10 (IMDb: 7,5) DVD
