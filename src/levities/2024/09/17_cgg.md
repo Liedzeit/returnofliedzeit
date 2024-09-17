@@ -1,6 +1,6 @@
 ---
 title: "Dept. Dick und Doof: Great Guns"
-date: "2024-09-14"
+date: "2024-09-17"
 tags: ["levity", "cinema"]
 keywords: ["Stan Laurel","Oliver Hardy","Dick Nelson"]
 backgroundImage: "/assets/img/cinema.png"
