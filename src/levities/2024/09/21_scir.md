@@ -4,4 +4,4 @@ date: "2024-09-21"
 tags: ["levity","scir"]
 ---
 
-OneShot RF r ↦ tb Kamala Harris
+OneShot KH r ↦ tb Kamala Harris
