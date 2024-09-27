@@ -1,6 +1,6 @@
 ---
 title: "Dept. Dick und Doof: A Chump at Oxford"
-date: "2024-09-17"
+date: "2024-09-27"
 tags: ["levity", "cinema"]
 keywords: ["Stan Laurel","Oliver Hardy","Peter Cushing","James Finlayson"]
 backgroundImage: "/assets/img/cinema.png"
