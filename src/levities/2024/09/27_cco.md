@@ -5,7 +5,7 @@ tags: ["levity", "cinema"]
 keywords: ["Stan Laurel","Oliver Hardy","Peter Cushing","James Finlayson"]
 backgroundImage: "/assets/img/cinema.png"
 ---
-Great Guns. Deutsch: In Oxford, 1940. 
+A Chump at Oxford. Deutsch: In Oxford, 1940. 
 
 Dieser Film ist eigentlich nur 40 Minuten lang, aber für die europäische Version wurde ein Prolog hinzugefügt. Oder zwei eigentlich. 
 
