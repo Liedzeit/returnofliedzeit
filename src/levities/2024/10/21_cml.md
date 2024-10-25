@@ -9,7 +9,7 @@ Was ist eine Fabel? Tiere oder Pflanzen spielen eine Rolle in einer einfachen Ge
 
 Nichts davon trifft auf Megalopolis zu, den Herr Coppola dennoch eine Fabel nennt. Vielleicht weil Zeit und Raum nicht so eindeutig definiert sind. Wir sind in New York der Gegenwart, oder an einem Ort, in einem benachbarten Paralleluniversum, der dem nahekommt, aber mit römischen und spätrömischen Zügen. 
 
-Der Held, oder die Gestalt, die in den meisten Szenen vorkommt, heißt Caesar Cattalina und ist Architekt. Sein Kontrahent Cicero, und der ist der Bürgermeister. Und dann gibt es den reichen Onkel mit der Kohle, der natürlich Crassus heißt und von Jon Voight gespielt wird.
+Der Held, oder die Gestalt, die in den meisten Szenen vorkommt, heißt Caesar Cattalina und ist Architekt. Sein Kontrahent Cicero, und der ist der Bürgermeister. Und dann gibt es den greisen Onkel mit der Kohle, der natürlich Crassus heißt und von Jon Voight gespielt wird.
 
 Der Film hat sensationell schlechte Kritiken erhalten und gilt als Flop. Andererseits las ich in der NYT, dass dieser Film in fünfzig Jahren als Meisterwerk gehandelt werden wird. Vielleicht. Und wenn schlecht, dann nicht aus den üblichen Gründen, die ja meist aus Dümmlichkeit entstehen. 5,0 IMDb. Das ist schon mal eine Ansage. Es gibt so 6,3 Filme, die in Wirklichkeit gut sind. Aber freiwillig einen 5er im Kino zu sehen war eine Premiere für mich.
 
@@ -31,6 +31,8 @@ Es gibt noch eine Böse, Aubrey Plaza, die Crassus heiratet. Jon Voight hat etwa
 
 Neben Aurey ist dann noch ein Cousin da, Shia LaBeouf, der glaubt, selbst über Talent zu verfügen.
 
-Wird Julia dem Caesar eine liebevolle Gattin werden dürfen? Vater ist dagegen und macht dem Caesar ein unmoralisches Angebot. Wird der Architekt seine Traumstadt bauen? Wird die Fähigkeit, die Zeit anzuhalten, böse Konsequenzen haben? Was eigentlich hat Dustin Hoffman in diesem Film zu suchen gehabt? Wird der Satelitt auf die Stadt fallen? Wird das Kind Sunny Hope heißen oder doch Francis?
+Wird Julia dem Caesar eine liebevolle Gattin werden dürfen? Wird Caesar das unmoralische Angebot des Cicero annehmen? Wird der Architekt seine Traumstadt bauen? Wird die Fähigkeit, die Zeit anzuhalten, böse Konsequenzen haben? Was eigentlich hat Dustin Hoffman in diesem Film zu suchen gehabt? Wird der Satelitt auf die Stadt fallen? Wird das Kind Sunny Hope heißen oder doch Francis?
 
 Habe ich den Film verstanden? Selbstverständlich nicht. Was will uns der Künstler sagen? Keine Ahnung. Ist der Film ein Meisterwerk? Na klaro!
+
+Victor Hugo (Besançon) 10/10
