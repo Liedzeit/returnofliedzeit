@@ -15,7 +15,7 @@ Mir gefiel der Film bis dahin ganz ausgezeichnet, nicht wegen der Spannung, oder
 
 Nein, faszinierend ist allein die Schönheit der Rituale und der Respekt, den Berger (Protestant), dem entgegenbringt. Fast wähnt man sich in einem Superhelden/Balletfilm, wenn die Kardinale mit ihren scharlachroten Soutanen und Regenschirmen zum neuen Wahlgang schreiten.
 
-Leider gibt es dann noch Terror, und eine überraschende Wendung zu viel. Wofür ich beinahe auf eine 7 gerutscht wäre, aber ich bin geneigt die Schuld dafür bei Robert Harris abzuladen.
+Leider gibt es dann noch Terror, und eine überraschende Wendung zu viel. Wofür ich beinahe auf eine 7 gerutscht wäre, aber ich bin geneigt, die Schuld dafür bei Robert Harris abzuladen.
 
 Und so bleibt als Fazit die traurige Wahrheit, dass ich leider nicht in die Katholische Kirche eintreten kann. Wer noch nicht Mitglied ist, und nach diesem Film nicht konvertiert, dem ist auch nicht zu helfen.
 
