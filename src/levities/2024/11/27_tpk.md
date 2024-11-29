@@ -20,7 +20,7 @@ Allerdings macht sie Punkte als das Szenario durchgespielt wird, Mann wird mitte
 
 Und auch Puntila hat Zweifel. Fast, wirft er ihr vor, hätte sie den Attaché genommen, „nur weil ich es befohlen habe, weil du keinen Charakter hast.”
 
-Wie üblich ist Meyerhoff überragend und beinahe in jeder Szene. Und die ohne ihn hätte man auch gut streichen können. Was Brecht uns sagen will ist schon sehr unklar, was Frau Meier uns sagen will, aber noch viel unklarer. Puntila ist ja beinahe Kommunist, aber auch nur beinahe, und selbst der Knecht möchte nicht nach seinen Fähigkeiten und Bedürfnissen behandelt werden. (Glaube ich.)
+Wie üblich ist Meyerhoff überragend und beinahe in jeder Szene. Und die ohne ihn hätte man auch gut streichen können. Was Brecht uns sagen will ist schon sehr unklar, was Frau Beier uns sagen will, aber noch viel unklarer. Puntila ist ja beinahe Kommunist, aber auch nur beinahe, und selbst der Knecht möchte nicht nach seinen Fähigkeiten und Bedürfnissen behandelt werden. (Glaube ich.)
 
 So richtig toll war das alles nicht, aber irgendwie auch ganz gut. Ganz sicher aber eine Stunde zu lang. Und was in der letzen halben Stunde passiert, habe ich nicht mitbekommen, da habe ich über das nächste Bilderrätsel nachgedacht.
 
