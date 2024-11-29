@@ -19,6 +19,6 @@ Leider gibt es dann noch Terror, und eine überraschende Wendung zu viel. Wofür
 
 Und so bleibt als Fazit die traurige Wahrheit, dass ich leider nicht in die Katholische Kirche eintreten kann. Wer noch nicht Mitglied ist, und nach diesem Film nicht konvertiert, dem ist auch nicht zu helfen.
 
-Abatan 8/10
+Abaton 8/10
 
 
