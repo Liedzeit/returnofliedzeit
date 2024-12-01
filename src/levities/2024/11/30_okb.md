@@ -2,12 +2,12 @@
 title: "Die Herrin der Fliegen"
 date: "2024-11-30"
 tags: ["levity","obi"]
-keywords: ["Karin Baal","Heinz Drache","Alfred Vohrer","Mady Rahl","Agnes Windeck"]
+keywords: ["Karin Baal","Heinz Drache","Alfred Vohrer","Mady Rahl","Agnes Windeck","Rainer Brandt"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
 Was tun, um Karin Baal zu ehren? Einen Film mit ihr ansehen. Unter meinen DVDs gibt es die *Die Toten Augen von London*, aber stattdessen entschied ich mich, richtig Kohle zu investieren und bei Primevideo *Der Hund von Blackwood Castle* zu kaufen - für €3,98. Den kannte ich nämlich nicht. 
 
-Sie kommt in schickem Sportwagen vorgefahren, mit Hund. Aber nicht *dem* Hund. Ihr Vater ist nämlich verstorben, und sie möchte ihre Erbe antreten. Sie soll das Schloss erhalten. Der windige Anwahlt, Hans Söhnker, will, dass sie gleich verkauft. Sie will aber nicht. 
+Sie kommt in schickem Sportwagen vorgefahren, mit Hund. Aber nicht *dem* Hund. Ihr Vater ist nämlich verstorben, und sie möchte ihr Erbe antreten. Sie soll das Schloss erhalten. Der windige Anwalt, Hans Söhnker, will, dass sie gleich verkauft. Sie will aber nicht. 
 
 Inzwischen ist der erste Mord geschehen. Dem so ungefähr sieben folgen. Mit leichten Anleihen bei Conan Doyle lässt Herr Reinecker einen Hund mit künstlichen mit Gift versehenen Zähnen die Opfer beißen.
 
@@ -20,6 +20,9 @@ Nun ist es eigentlich das Schicksal der Heldin von Wallace-Verfilmungen, am Schl
 
 Und in der Tat entpuppt er, der eigentlich Versicherungsagent ist, sich als Schurke. Ein wunderliches Ende. Die Heldin bleibt allein auf ihrem Schloss sitzen. Den Zuschauern missfiel das damals. 
 
-Sir John, Siegfried Schürrenberg, ist übrigens auch dabei, unterstützt von Ilse Pagé. 
+Sir John, Siegfried Schürenberg, ist übrigens auch dabei, unterstützt von Ilse Pagé. 
 
 Hätte ich mir lieber *Die Halbstarken* ansehen sollen, oder gar einen Fassbinder? Natürlich nicht!
+
+
+(Eine kleine Rolle spielt hier übrigens Rainer Brandt, der uns dieses Jahr auch verlassen hat. Hatte ich zwar mitbekommen, aber dann vergessen. Man reiche mir den Übelkübel.)
