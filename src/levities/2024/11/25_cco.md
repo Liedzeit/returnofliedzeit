@@ -5,7 +5,7 @@ tags: ["levity", "cinema"]
 keywords: ["Stanley Tucci","Adam Driver","Isabella Rossellini","Edward Berger","Robert Harris","Oskar Werner","Anthony Quinn","Ralf Fiennes","Sergio Castellitto"]
 backgroundImage: "/assets/img/cinema.png"
 ---
-Die Vorschau hatte schon Großes erwarten lassen. Ein Film, wie der Titel schon vermuten lässt, über eine Konklave. Und dann noch mit einem meiner Lieblingsschauspieler, Stanley Tucci. Und mit Ralph Fiennes, der auch nicht zu verachten ist.
+Die Vorschau hatte schon Großes erwarten lassen. Ein Film, wie der Titel schon vermuten lässt, über ein(!) Konklave. Und dann noch mit einem meiner Lieblingsschauspieler, Stanley Tucci. Und mit Ralph Fiennes, der auch nicht zu verachten ist.
 
 Andererseits gab es doch schon einen Film über das Thema, und der gehört zu meinen absoluten Lieblingsfilmen: *The Shoes of the Fisherman* von Michael Anderson. Laurence Olivier, Anthony Quinn, David Janssen und der alle überragende Oskar Werner. Dieser Film ist kaum zu toppen. – Wurde er auch nicht.
 
