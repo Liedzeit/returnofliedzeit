@@ -9,7 +9,7 @@ Was tun, um Karin Baal zu ehren? Einen Film mit ihr ansehen. Unter meinen DVDs g
 
 Sie kommt in schickem Sportwagen vorgefahren, mit Hund. Aber nicht *dem* Hund. Ihr Vater ist nämlich verstorben, und sie möchte ihre Erbe antreten. Sie soll das Schloss erhalten. Der windige Anwahlt, Hans Söhnker, will, dass sie gleich verkauft. Sie will aber nicht. 
 
-Inzwischen ist der erste Mord geschehen. Dem so ungefähr sieben folgen. Mit leichten Anleihen bei Conan Doyle lässt Herr Reinecker einen Hund mit küntslichen mit Gift versehenen Zähnen die Opfer beißen.
+Inzwischen ist der erste Mord geschehen. Dem so ungefähr sieben folgen. Mit leichten Anleihen bei Conan Doyle lässt Herr Reinecker einen Hund mit künstlichen mit Gift versehenen Zähnen die Opfer beißen.
 
 Karin ist nicht sehr willkommen, was man schon daran erkennt, dass der böse Butler eine Schlange in ihr Bett platziert.
 Sie sieht nett genug aus, macht das auch ordentlich, aber leider muss man zugeben, dass in dem Moment, als ihre Mutter auftaucht, gespielt von Mady Rahl, für jedermann erkennbar ist, was wirkliches Charisma und Schauspielkunst bedeutet. Und Mady Rahl wiederum wird locker in den Schatten gestellt von Agnes Windeck, der ehemaligen Schlossbesitzerin und jetzigen Gastwirtin. Die Opfer steigen alle in ihrem Etablissement ab. 
