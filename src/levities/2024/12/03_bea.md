@@ -1,7 +1,7 @@
 ---
 title: "Best Ever Albums"
 date: "2024-12-03"
-tags: ["levity","concert"]
+tags: ["levity"]
 keywords: ["Beatles","Kate Bush","Radiohead"]
 ---
 The great website [BestEverAlbums](https://www.besteveralbums.com/) presents charts of the best music albums in history. You can find charts as compiled by music magazines like The Greatest Albums of All Time by Rolling Stone. But mainly there are charts by the users of the site. 
