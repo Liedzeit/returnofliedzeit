@@ -1,5 +1,5 @@
 ---
-title: "BestEver Albums"
+title: "Best Ever Albums"
 date: "2024-12-03"
 tags: ["levity","concert"]
 keywords: ["Beatles","Kate Bush","Radiohead"]
