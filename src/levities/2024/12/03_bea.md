@@ -4,21 +4,21 @@ date: "2024-12-03"
 tags: ["levity","concert"]
 keywords: ["Beatles","Kate Bush","Radiohead"]
 ---
-The great website [BestEverAlbums.com](https://www.besteveralbums.com/) people presents charts of the best music albums in history. You can find charts as compiled by music magazines like The Greatest Albums of All Time by Rolling Stone. But mainly there are charts by the users of the site. 
+The great website [BestEverAlbums](https://www.besteveralbums.com/) presents charts of the best music albums in history. You can find charts as compiled by music magazines like The Greatest Albums of All Time by Rolling Stone. But mainly there are charts by the users of the site. 
 
 Anyone can rank their favorite albums. And then there are also decade and year charts and finally custom charts where users can choose any category they like for example charts with the best cover art or the best Pink Floyd albums etc.
 
-And then an “Overall Chart” is created “determined by their aggregate positons in over 54,000 different greatest album charts” which should give a pretty overview of what people really think are the greatest albums of all time.
+And then an “Overall Chart” is created “determined by their aggregate positons in over 54,000 different greatest album charts” which should give a pretty good overview of what people really think are the greatest albums of all time.
 
 At number one is *Ok Computer* by Radiohead, followed by *Dark Side Of The Moon* and *Abbey Road*.
 
-Now on the forums of the site there is a thread called "What album are you listening to?", which has been going on since 2008, where people post the album they are listening to.
+Now on the forums of the site there is a thread called "What album are you listening to?", which has been going on since 2008, where people post the album they are listening to at the moment.
 
 And I thought it would be interesting to see how the albums people are listening to compared to what is shown in the overall chart. 
 
 So I asked the “Albummaster” of the site if it was OK to scrape the pages for data. He said there was nothing he could do about it, which I took as a sort of yes. I started scraping with Puppeteer, but was still in the testing phase (having scraped only a few dozen pages) when the thread was taken offline by the admin. The thread was too long with over 220,000 posts and was causing problems. (There is a new thread on the same subject online. - I hope I did not make things worse by scraping it).
 
-But then the admin sent me a dump file of all the posts and I used that to create a chart of "Most albums listened to by BEA members 2014 - 2024". Thank you Jon!
+But then the admin sent me a dump file of all the posts and I used that to create a chart of “Most albums listened to by BEA members 2014 - 2024”. Thank you Jon!
 
 So in this blog post I would like to talk about some technical issues and then offer some thoughts on the resulting chart.
 
@@ -45,7 +45,7 @@ Another interesting thing is that people on BEA really do prefer to listen to re
 
 Finally, the album that has been listened to by the most different people is *To Pimp A Butterfly* by Kendrick Lamar.
 
-I am sure you will find some other interesting facts when you look at [chart](https://www.besteveralbums.com/addchart.php?c=82231).
-
+I am sure you will find some other interesting facts when you look at the [chart](https://www.besteveralbums.com/addchart.php?c=82231).
+Have fun.
 
 
