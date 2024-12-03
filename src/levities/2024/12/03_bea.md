@@ -45,7 +45,7 @@ Another interesting thing is that people on BEA really do prefer to listen to re
 
 Finally, the album that has been listened to by the most different people is *To Pimp A Butterfly* by Kendrick Lamar.
 
-I am sure you will find some other interesting facts when you look at the [chart](https://www.besteveralbums.com/addchart.php?c=82231).
+I am sure you will find some other interesting facts when you look at the [chart](https://www.besteveralbums.com/thechart.php?c=82231).
 Have fun.
 
 
