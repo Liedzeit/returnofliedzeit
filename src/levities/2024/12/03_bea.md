@@ -1,5 +1,5 @@
 ---
-title: "Bestever Albums"
+title: "BestEver Albums"
 date: "2024-12-03"
 tags: ["levity","concert"]
 keywords: ["Beatles","Kate Bush","Radiohead"]
@@ -35,7 +35,7 @@ Next I sorted the json objects by the post-text using jq. Now I looked at the da
 Of course, I could not continue to manually count the entries of albums I thought would make it to the chart. So next I used javascript and jq to count the entries. Finally, I counted the unique users who had listened to an album. I sorted the chart by the number of listens as the first criterion and the number of unique users who listened as the second criterion.
 
 <h3>The Chart</h3>
-The number one position in the listener chart is taken by the *White Album*, which is only the fourth most popular Beatles record in the overall chart with 147 listens by 32 different users. The same goes for David Bowie, whose Hunky Dory is more popular in this chart than in the overall chart. At number 2 is Kate Bush's *Hounds Of Love*, an album which is ranked 55th (at the time of writing) in the overall chart. One can speculate that many people have listened to this album due to her recent popularity boost from Stranger Things. But how do you explain Belle and Sebastian's position at number four?
+The number one position in the listener chart is taken by the <i>White Album</i>, which is only the fourth most popular Beatles record in the overall chart with 147 listens by 32 different users. The same goes for David Bowie, whose Hunky Dory is more popular in this chart than in the overall chart. At number 2 is Kate Bush's *Hounds Of Love*, an album which is ranked 55th (at the time of writing) in the overall chart. One can speculate that many people have listened to this album due to her recent popularity boost from Stranger Things. But how do you explain Belle and Sebastian's position at number four?
 
 The reality, of course, is that the actual number of listeners is too small to have any real statistical relevance. And users can literally single-handedly push their favourite albums up this chart. The most dramatic example is number 25 on this chart, *Explores Your Mind* by Al Green. A fine record, but only at position 6788 in the overall chart. It made it into the chart with only three users voting for it. And of the 96 votes, 94 came from a single user. This may seem extraordinary, but if you think about it, listening to one of your favourite albums (it's at number three on his chart) about ten times a year is not really excessive.
 
