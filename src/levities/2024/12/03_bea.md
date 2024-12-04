@@ -41,7 +41,7 @@ The reality, of course, is that the actual number of listeners is too small to h
 
 There are about 600 users who participated (and survived the purge). Actually a few more, as the users who left BEA are still there under the name Anonymous. And of those, it is fair to say that there are a lot of Beatles fans. Apart from the Beatles, Bowie, Radiohead and Neil Young have 5 albums in the chart. The most surprising thing to me is the complete absence of Led Zeppelin from the chart. They have the highest ranked album in the overall chart (at #19), which did not make it into this chart.
 
-Another interesting thing is that people on BEA really do prefer to listen to regular albums. There is only one soundtrack (by Prince) and one compilation, which is *Substance* by Joy Division. This is funny because the album is more or less a compilation of their two studio albums, both of which also made the charts.
+Another interesting thing is that people on BEA really do prefer to listen to regular albums. There are two live albums (Neil Young and Sufjan Stevens) one soundtrack (by Prince) and one compilation, which is *Substance* by Joy Division. This is funny because the album is more or less a compilation of their two studio albums, both of which also made the charts. 
 
 Finally, the album that has been listened to by the most different people is *To Pimp A Butterfly* by Kendrick Lamar.
 
