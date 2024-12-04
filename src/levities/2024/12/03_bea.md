@@ -18,7 +18,7 @@ And I thought it would be interesting to see how the albums people are listening
 
 So I asked the “Albummaster” of the site if it was OK to scrape the pages for data. He said there was nothing he could do about it, which I took as a sort of yes. I started scraping with Puppeteer, but was still in the testing phase (having scraped only a few dozen pages) when the thread was taken offline by the admin. The thread was too long with over 220,000 posts and was causing problems. (There is a new thread on the same subject online. - I hope I did not make things worse by scraping it).
 
-But then the admin sent me a dump file of all the posts and I used that to create a chart of “Most albums listened to by BEA members 2014 - 2024”. Thank you Jon!
+But then the admin sent me a dump file of all the posts and I used that to create a chart of “Most albums listened to by BEA members 2014 - 2024”. Thank you Admin!
 
 So in this blog post I would like to talk about some technical issues and then offer some thoughts on the resulting chart.
 
