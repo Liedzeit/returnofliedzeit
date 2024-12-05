@@ -1,6 +1,6 @@
 ---
 title: "Die Maschine oder: Über allen Gipfeln ist Ruh"
-date: "2024-11-27"
+date: "2024-12-05"
 tags: ["levity", "theater"]
 keywords: ["George Perec","Anita Vulesica"]
 ---
