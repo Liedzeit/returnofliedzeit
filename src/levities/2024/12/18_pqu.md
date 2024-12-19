@@ -1,6 +1,6 @@
 ---
 title: "Spiel, Satz und ..."
-date: "2024-12-10"
+date: "2024-12-18"
 tags: ["levity"]
 keywords: ["Martin Luther"]
 ---
