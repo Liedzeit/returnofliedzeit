@@ -15,7 +15,7 @@ Worum geht es? Eine junge, korrupte Anwältin lässt sich darauf ein, einem übl
 
 Die Operation gelingt, und schon bald lebt sie als ihre eigene Cousine wieder in Mexiko.Und nun trifft sie die Anwältin wieder, nicht um sie zu töten, wie diese befürchtet, sondern um sie zu beauftragen, Ex-Gattin und Kinder zu ihr zurückzubringen.Die Ex-Gattin ist ihr nicht so wichtig, eine lesbische Liebe steht bereit, aber statt sie einfach umbringen zu lassen, begnügt sie sich damit, deren Liebhaber zusammenschlagen zu lassen, als sie, die Ex-Gattin, droht, den Liebhaber zu heiraten und mit den Kindern wegzuziehen. Schön doof. Diese Zurückhaltung wird sich rächen. 
 
-Lustigerweise empfand die Frau an meiner Seite im Kino einen kleinen Ringkampf und das Zusammenschlagen des Lovers bereits als einen Akt der Aggression.
+Lustigerweise empfand die Frau an meiner Seite im Kino einen kleinen Ringkampf und das Zusammenschlagenlassen des Lovers bereits als einen Akt der Aggression.
 
 Denn, und das ist die Botschaft, der Mann an sich ist böse, aber eine Operation zur Frau macht ihn herzensgut. Und den zehntausenden Witwen Mexikos wenigstens die Leichname ihrer Männer zu beschaffen, lässt sie zur Volksheldin werden.
 
@@ -24,4 +24,6 @@ Das Ganze wird nun auch noch als Musical aufgeführt. Dafür gibt es sicher kün
 Gut, um zur Ausgangsfrage zurük zu kommen. Für die jungen Menschen wird nichts natürlicher sein, als zu sehen, wie da Menschen im falschen Körper, sich ihr Menschenrecht erstreiten, auch wenn hier noch nicht ganz rechtmäßig erworbene Kohle dafür verwendet werden muss.
 
 Als älterer Herr, der ich bin, dachte ich, dass das Thema, in einem neuen Körper, wenn auch des eigenen Geschlechts, in die Welt zurückkommen zu dürfen schon einmal ungleich besser behandelt wurde, in einem Frankenheimer-Film mit Rock Hudson, *Seconds*. Den hat kein Schwein gesehen, aber das, möchte ich betonen, ist nicht der Grund, warum der besser ist.
+
+6/10 Filmraum
 
