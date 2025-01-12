@@ -13,7 +13,7 @@ Da muss nun dringend eine Abschweigung her. Wie schön war es doch früher, als 
 
 Worum geht es? Eine junge, korrupte Anwältin lässt sich darauf ein, einem üblen mexikanischen Kartellgangster zu einer neuen Identität zu verhelfen. Dieser will nicht nur ein neues Leben beginnen, sondern sich auch seinen Lebenstraum erfüllen, eine Frau zu werden. 
 
-Die Operation gelingt, und schon bald lebt sie als ihre eigene Cousine wieder in Mexiko.Und nun trifft sie die Anwältin wieder, nicht um sie zu töten, wie diese befürchtet, sondern um sie zu beauftragen, Ex-Gattin und Kinder zu ihr zurückzubringen.Die Ex-Gattin ist ihr nicht so wichtig, eine lesbische Liebe steht bereit, aber statt sie einfach umbringen zu lassen, begnügt sie sich damit, deren Liebhaber zusammenschlagen zu lassen, als sie, die Ex-Gattin, droht, den Liebhaber zu heiraten und mit den Kindern wegzuziehen. Schön doof. Diese Zurückhaltung wird sich rächen. 
+Die Operation gelingt, und schon bald lebt sie als ihre eigene Cousine wieder in Mexiko.Und nun trifft sie die Anwältin wieder, nicht um sie zu töten, wie diese befürchtet, sondern um sie zu beauftragen, Ex-Gattin und Kinder zu ihr zurückzubringen.Die Ex-Gattin, also quasi Witwe, ist ihr nicht so wichtig, eine lesbische Liebe steht bereit, aber statt sie einfach umbringen zu lassen, begnügt sie sich damit, deren Liebhaber zusammenschlagen zu lassen, als sie, die Ex-Gattin, droht, den Liebhaber zu heiraten und mit den Kindern wegzuziehen. Schön doof. Diese Zurückhaltung wird sich rächen. 
 
 Lustigerweise empfand die Frau an meiner Seite im Kino einen kleinen Ringkampf und das Zusammenschlagenlassen des Lovers bereits als einen Akt der Aggression.
 
