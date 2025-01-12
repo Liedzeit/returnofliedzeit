@@ -1,6 +1,6 @@
 ---
 title: "Brahms: Klavierquartette Nr. 1 & 2 "
-date: "2025_01-11"
+date: "2025-01-11"
 tags: ["levity","concert"]
 keywords: ["Kantorow", "Sitkovetsky","Power","Julien-Laferrière"]
 ---
