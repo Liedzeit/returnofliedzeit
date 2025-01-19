@@ -1,6 +1,6 @@
 ---
-title: "What did David do?"
-date: "2025-01-17"
+title: "Best Years of our Lives"
+date: "2025-01-18"
 tags: ["levity","obi"]
 keywords: ["Steve Harley","Sparks"]
 backgroundImage: "/assets/img/grave.jpg"
@@ -11,9 +11,9 @@ Und einer lobte das letzte Album von Johnny Cash. Meisterwerk und so. Ein andere
 
 Am nächsten Tag *Hobo with a Grin*. Darauf befindet sich das wunderschöne *Riding the Waves*. Nun halte ich ja nicht viel von Virgina Woolf, aber sie inspirierte das Stück, hat also doch nicht umsonst gelebt.
 
-Und dann *Uncovered*. Das fängt mit einem Cover eines seiner eigenen Stücke an, aber dann uncovered er auch die Beatles, die Stones, Cat Stevens und his Bobhood. Vor allem, und da kamen mir, wie es sich gehört, Tränen in die Augen: *Emma* von Hot Chocolote. Dieses Album ist von 2020. Jeder Musiker, sagte ein Kritiker, habe das Recht auf ein *Pinups*. Sehr richtig.
+Und dann *Uncovered*. Das fängt mit einem Cover eines seiner eigenen Stücke an, aber dann uncovered er auch die Beatles, die Stones, Cat Stevens und his Bobhood. Vor allem, und da kamen mir, wie es sich gehört, Tränen in die Augen: *Emma* von Hot Chocolate. Dieses Album ist von 2020. Jeder Musiker, sagte ein Kritiker, habe das Recht auf ein *Pinups*. Sehr richtig. Und ein echtes Meisterwerk.
 
-Warum erzähle ich das alles, weil ich in dem Wikipedia-Artikel zu dem Album las, es sei sein letztes gewesen. Nanu? Und tatsächlich, ich habe das Ableben eines Helden der Jugend verpasst, letztes Jahr im März. Was für eine Schande. Und weder Scaruffi, noch bei der Kellen haben ihn in ihren Jahresrückblicken berücksichtigt.
+Warum erzähle ich das alles? Weil ich in dem Wikipedia-Artikel zu dem Album las, es sei sein letztes gewesen. Nanu? Und tatsächlich, ich habe das Ableben eines Helden der Jugend verpasst, letztes Jahr im März. Was für eine Schande. Und weder Scaruffi, noch bei der Kellen haben ihn in ihren Jahresrückblicken berücksichtigt.
 
 Cockney Rebel, Steve Harley and Cockney Rebel. Einmal sah ich sie live in der Fabrik. Eines der drei besten Konzerte meines Lebens. Und ihre Live-Platte meine Lieblings-Live-Platte (vielleicht nach Rennaissance). Und von allen Stücken das allerbeste: *Sebastian*. Das habe ich seinerzeit auf Hilversum III gehört. Das Bohemian Rhasody von Cockney Rebel las ich jetzt. Kein schlechter Vergleich. Nur ungleich besser, natürlich.
 
