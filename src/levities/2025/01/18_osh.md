@@ -7,7 +7,7 @@ backgroundImage: "/assets/img/grave.jpg"
 ---
 Letzte Woche war ich auf einer Party, und da kam irgendwann das Thema Musik auf, und jemand behauptete, dass sich der Geschmack ab 45 nicht weiterentwickle. Was ich komisch fand, da das bei mir mit 20 der Fall war.
 
-Und einer lobte das letzte Album von Johnny Cash. Meisterwerk und so. Ein anderer empfahl Cindy Lee eine Chance zu geben, für ihn die Entdeckung des Jahres. Eine Mischung aus Velvet Underground und Motwown. Also hörte ich mir *Diamond Jubilee* an. Und schlecht war das nicht, aber nach einer Weile ging mir das doch auf die Nerven, und ich hatte das Bedürfnis, eine echte Stimme zu hören. Und was mir einfiel war Steve Harley. *Stranger Comes to Town* von 2010, ein Spätwerk, das ich nicht kannte. Und in der Tat, jedes einzelne Stück ist nicht sensationell gut, aber das Gesamtwerk phantastisch. Sparsam produziert, aber mit der Stimme.
+Und einer lobte das letzte Album von Johnny Cash. Meisterwerk und so. Ein anderer empfahl, Cindy Lee eine Chance zu geben, für ihn die Entdeckung des Jahres. Eine Mischung aus Velvet Underground und Motown. Also hörte ich mir *Diamond Jubilee* an. Und schlecht war das nicht, aber nach einer Weile ging mir das doch etwas auf die Nerven, und ich hatte das Bedürfnis, eine echte Stimme zu hören. Und was mir einfiel war Steve Harley. *Stranger Comes to Town* von 2010, ein Spätwerk, das ich nicht kannte. Und in der Tat, jedes einzelne Stück ist nicht sensationell gut, aber das Gesamtwerk phantastisch. Sparsam produziert, aber mit der Stimme.
 
 Am nächsten Tag *Hobo with a Grin*. Darauf befindet sich das wunderschöne *Riding the Waves*. Nun halte ich ja nicht viel von Virgina Woolf, aber sie inspirierte das Stück, hat also doch nicht umsonst gelebt.
 
