@@ -11,7 +11,7 @@ Was mich zu *The Brutalist* bringt. Wir folgen Adrien Brody als László Tóth, 
 
 László muss nun Kohlen schüppen, da taucht aber Harrison wieder auf, um ihm den Auftrag für ein Gemeindezentrum zu geben, (denn wunderbarerweise wurde die Bibliothek in der Zwischenzeit durch *Look* als Meisterwerk gepriesen).
 
-Und darum geht es nun in dem Film. Planung und Bau des Gemeindezentrums, das eigentlich ein Mausoleum für die Mutter des Mäzens ist, aber gleichzeitig auch Kapelle und Sportstätte sein soll. László wird als aktives Mitglied der jüdischen Gemeine dargestellt, hat aber kein Problem mit christlichen Symbolen. Im Gegenteil möchte man sagen.
+Und darum geht es nun in dem Film. Planung und Bau des Gemeindezentrums, das eigentlich ein Mausoleum für die Mutter des Mäzens ist, aber gleichzeitig auch Kapelle und Sportstätte sein soll. László wird als aktives Mitglied der jüdischen Gemeinde dargestellt, hat aber kein Problem mit christlichen Symbolen. Im Gegenteil möchte man sagen.
 
 Natürlich kommt es zu Problemen, besonders als nach einem Bahnunglück (großartig inszeniert von Brady Corbet) der Bau zunächst gestoppt wird. 
 
@@ -19,11 +19,11 @@ Und dann ist der Film auch schon halb vorbei und zwei Stunden oder so sind um. T
 
 Ich war bis dahin ziemlich angetan, wenn nicht beinahe schon begeistert. Was hauptsächlich an Adrien lag, der eine stille Würde ausstrahlt, die sein architektonisches Genie völlig glaubwürdig erscheinen lässt. 
 
-Im zweiten Teil nun stößt die Gattin Erzsébet (Felicity Jones) und eine Nichte aus Europa hinzu. Erzsébet an den Rollstuhl gefesselt ist wunderbar und für die Dramaturgie und auch um László zu verstehen notwendig, aber ich hätte gerne zwei weitere Stunden ganz und gar allein mit László und dem Bau des Zentrums verbracht.
+Im zweiten Teil nun stößt die Gattin Erzsébet (Felicity Jones) und eine Nichte aus Europa hinzu. Erzsébet, an den Rollstuhl gefesselt, ist wunderbar und für die Dramaturgie und auch um László zu verstehen notwendig, aber ich hätte gerne zwei weitere Stunden ganz und gar allein mit László und dem Bau des Zentrums verbracht.
 
 Nun kenne ich mich mit Architektur nicht aus (und das obwohl ich mal *The Fountainhead* gesehen habe). Aber es schien mir doch einigermaßen evident, dass die ganze Geschichte eng oder doch wenigstens locker angelehnt an eine tatsächliche Architektenlegende sein musste. Und als nun nach einer auch sehr schönen langen Szene in Italien, wo László und Harrison persönlich Marmor einkaufen, es zu einer Vergewaltigung kam, war ich zwar betrübt, aber (siehe oben) dachte, das war dann wohl so. Nicht dass ich bestreiten möchte, dass die im Film ausgedrückte künstlerische Wahrheit viel wichtiger ist, aber für mich hat das die eigentliche Geschichte in eine Schieflage gebracht. Besonders als Erzsébet den Täter öffentlich bloßstellt.
 
-Aber, und nun kommt der eigentlich Clou des Film. Es gibt einen Epilog, zwanzig Jahre später, wo die zuvor stumme Nichte auf einer Biennale in Venedig eine Rede über das Werk des Onkels hält, der nunmehr stumm im Rollstuhl sitzt.
+Aber, und nun kommt der eigentliche Clou des Film, es gibt einen Epilog, zwanzig Jahre später, wo die zuvor stumme Nichte auf einer Biennale in Venedig eine Rede über das Werk des Onkels hält, der nunmehr stumm im Rollstuhl sitzt.
 
 Oscar? Glaube schon. Für Musik (Daniel Blumberg) mit dem absoluten Geniestreich am Schluss *One for You, One for Me* von La Bionda zu bringen, schon mal in jedem Fall. Für Brady Corbet auch. Brody? Vielleicht. Aber ich glaube, den gönne ich dann eher Ralph Fiennes.
 
