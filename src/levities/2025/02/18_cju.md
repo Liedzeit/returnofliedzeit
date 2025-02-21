@@ -1,5 +1,5 @@
 ---
-title: "Juror #2"
+title: "Dept: Kino: Juror #2"
 date: "2025-02-18"
 tags: ["levity", "cinema"]
 keywords: ["Clint Eastwood","Nicholas Hoult","Toni Collette","J.K. Simmons","Kiefer Sutherland"]
@@ -13,6 +13,6 @@ Ein Mann, Nicholas Hoult, muss als Geschworener antreten. Große Lust hat er nic
 
 Es geht also darum, die Mitgeschworenen, die natürlich, Beweislage hin, Beweislage her, für schuldig sind, dazu zu bringen auf nicht schuldig zu plädieren. Und ratzfatz hat er auch einige überzeugt, aber andere zeigen sich unwillig. Also, die zwölf Geworenen 2.0. Aber mit einem Twist.
 
-Ein schöner kleiner Film. Nicholas Hoult gefiel mir gut, und ich fragte mich woher ich den kannte. Er war Hank McCoy, das Biest. Okay. Aber auch der kleine, unendlich nervende Rotzlöffel aus *About a Boy*. Der, war ich damals sicher, würde niemals eine Filmkarriere machen. Ein Tom Cruise ist gerade nicht aus ihm geworden, aber ein solider Schauspieler schon. Und J.K. Simmons ist selbstverständlich großartig, wird aber locker von Toni Collette als Staatsanwältin in den Schatten gestellt.
+Ein schöner kleiner Film. Nicholas Hoult gefiel mir gut, und ich fragte mich woher ich den kannte. Er war Hank McCoy, das Biest. Okay. Aber auch der kleine, unendlich nervende Rotzlöffel aus *About a Boy*. Der, war ich damals sicher, würde niemals eine Filmkarriere machen. Ein Tom Cruise ist gerade nicht aus ihm geworden, aber ein solider Schauspieler schon. Und J.K. Simmons (als Ex-Cop und illegal Recherchierender) ist selbstverständlich großartig, wird aber locker von Toni Collette als Staatsanwältin in den Schatten gestellt.
 
 8/10 Studio
