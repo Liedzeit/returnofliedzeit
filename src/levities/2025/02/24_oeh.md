@@ -1,6 +1,6 @@
 ---
 title: "Fniege"
-date: "2025-02-15"
+date: "2025-02-24"
 tags: ["levity","obi"]
 keywords: ["Ernst Hilbich"]
 backgroundImage: "/assets/img/grave.jpg"
