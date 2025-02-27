@@ -1,6 +1,6 @@
 ---
 title: "Killing me softly"
-date: "2025-02-15"
+date: "2025-02-25"
 tags: ["levity","obi"]
 keywords: ["Roberta Flack","Don McLean", "Lori Lieberman"]
 backgroundImage: "/assets/img/grave.jpg"
