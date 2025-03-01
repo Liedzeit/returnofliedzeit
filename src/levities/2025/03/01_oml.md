@@ -1,6 +1,6 @@
 ---
 title: "Lundi"
-date: "2025-02-25"
+date: "2025-03-01"
 tags: ["levity","obi"]
 keywords: ["Monika Lundi","Horst Janson","Burkhard Driest"]
 backgroundImage: "/assets/img/grave.jpg"
