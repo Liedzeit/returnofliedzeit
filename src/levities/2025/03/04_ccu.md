@@ -5,7 +5,7 @@ tags: ["levity", "cinema"]
 keywords: ["James Mangold","Timothée Chalamet","Edward Norton","Monica Barbaro"]
 backgroundImage: "/assets/img/cinema.png"
 ---
-Wie bereits erwähnt, haben wir uns am Sonntag noch schnell *A Complete Unknown* angesehen. D. war ein wenig besorgt, dass der Film ihren beiden erklärten Lieblingen Bob und Timothée nicht gerecht werden würde. Mit Blick auf die miserablen Filme, in denen der an sich nicht unsympathische Herr Chalamet in letzter Zeit gespielt hatte (Bones, Wonka, Dune) dachte eher, dass der sich vielleicht grundsätzlich weigert, gute Filme zu machen.
+Wie bereits erwähnt, haben wir uns am Sonntag noch schnell *A Complete Unknown* angesehen. D. war ein wenig besorgt, dass der Film ihren beiden erklärten Lieblingen Bob und Timothée nicht gerecht werden würde. Mit Blick auf die miserablen Filme, in denen der an sich nicht unsympathische Herr Chalamet in letzter Zeit gespielt hatte (Bones, Wonka, Dune) dachte ich eher, dass der sich vielleicht grundsätzlich weigert, gute Filme zu machen.
 
 Unser beider Sorgen waren jedenfalls unbegründet, und tatsächlich hatte ich das erste Mal seit langer Zeit den Wunsch, mir den Film direkt noch einmal anzusehen. Die Kritiken, die ich gelesen hatte, waren zum Teil wenig begeistert, von wegen zu wenig Drogen und zu wenig Politik. Nichts davon habe ich vermisst, und auch die zwei oder drei Liebesbeziehungen haben eine erfreulich geringe Rolle gespielt. Es ging um Musik, und so ziemlich ausschließlich um Musik. Aber wenn Timothée und Monica Barbaro als Joan Baez im Duett *It ain’t me, Babe* singen, und man dabei die Reaktion von Elle Fanning sieht, dann sagt das mehr und Tieferes aus als ein französisches Zwei-Stunden-Beziehungsdrama.
 
