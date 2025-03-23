@@ -2,7 +2,7 @@
 title: "A Complete Unknown"
 date: "2025-03-04"
 tags: ["levity", "cinema"]
-keywords: ["James Mangold","Timothée Chalamet","Edward Norton","Monica Barbaro"]
+keywords: ["James Mangold","Timothée Chalamet","Edward Norton","Monica Barbaro","Woody Guthrie","Bob Dylan","Joan Baez","Pete Seeger"]
 backgroundImage: "/assets/img/cinema.png"
 ---
 Wie bereits erwähnt, haben wir uns am Sonntag noch schnell *A Complete Unknown* angesehen. D. war ein wenig besorgt, dass der Film ihren beiden erklärten Lieblingen Bob und Timothée nicht gerecht werden würde. Mit Blick auf die miserablen Filme, in denen der an sich nicht unsympathische Herr Chalamet in letzter Zeit gespielt hatte (Bones, Wonka, Dune) dachte ich eher, dass der sich vielleicht grundsätzlich weigert, gute Filme zu machen.
