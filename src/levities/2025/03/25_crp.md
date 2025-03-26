@@ -23,4 +23,6 @@ Unerwartet gut dagegen fand ich *The Return* von Uberto Pasolini, den ich mir ha
 
 Ungefähr jeder dritte oder vierte der Schauspieler wird von einem Schwarzen dargestellt. Verstehe, Ralph Fiennes ist ja auch kein echter Grieche, und schon gar kein mythischer. Das Leben ist divers. Aber warum gibt es dann nicht auch Asiaten, oder Klingonen? Ich verstehe es nicht.
 
+Bevor ich mein Raiting bei IMdB eingebe, versuche ich zu raten, wie wohl die bisherige Wertung war. 6.2 habe ich geschätzt, und so ist es.
+
 7/10  Emirates
