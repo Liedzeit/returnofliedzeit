@@ -3,7 +3,7 @@ title: "Wer hat Mario Vargas Llosa gelobt?"
 date: "2025-04-14"
 tags: ["levity", "obi"]
 keywords: ["Mario Vargas Llosa"]
-backgroundImage: "/assets/img/cinema.png"
+backgroundImage: "/assets/img/grave.jpg"
 ---
 Es ist keine Übertreibung, wenn ich sage, dass ich mich mit südamerikanischen Schriftstellern immer schwer getan habe. Jedenfalls, wenn sie nicht Jorge Luis Borges waren.
 

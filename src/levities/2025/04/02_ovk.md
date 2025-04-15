@@ -3,7 +3,7 @@ title: "The Saint"
 date: "2025-04-02"
 tags: ["levity", "obi"]
 keywords: ["Val Kilmer","Adam West","George Clooney","Elizabeth Shue"]
-backgroundImage: "/assets/img/cinema.png"
+backgroundImage: "/assets/img/grave.jpg"
 ---
 Val Kilmer hatte das Glück, dass seine ziemlich miese Batman-Vorstellung von George Clooney so weit in den Schatten gestellt wurde, dass man sich nicht mehr daran erinnert. Batman im Film. Ein Thema für sich. Richtig gut war keiner. Nicht einmal Adam West.
 
