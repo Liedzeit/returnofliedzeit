@@ -42,7 +42,7 @@ Nach 3748629 Gliedern ist die Leibniz-Reihe genauer als 355/113. Hier die Zahlen
 3.141592920353856<br/>
 3.141592920353982<br/>
 
-Eine Bach-Passion zu hören (oder die 10 Gebote zu sehen), wäre vielleicht gottgefälliger, aber ich denke, ihm wird auch dies gefallen. (Und hoffentlich habe ich keinen Fehler gemacht.)
+Eine Bach-Passion zu hören (oder die 10 Gebote zu sehen), wäre vielleicht gottgefälliger, aber ich denke, Ihm wird auch dies gefallen. (Und hoffentlich habe ich keinen Fehler gemacht.)
 
 
 
