@@ -22,7 +22,11 @@ Vielleicht liest er aber meinen Blog auf seiner Wolke. Würde mich freuen.
 
 Und hier könnt ihr kurz unterbrechen und selbst herumrechnen.....
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -34,9 +38,9 @@ Und hier könnt ihr kurz unterbrechen und selbst herumrechnen.....
 Ergebnis: 3748629
 Nach 3748629 Gliedern ist die Leibniz-Reihe genauer als 355/113. Hier die Zahlen untereinander, erst  π, dann der Wert der Leibniz-Reihe, dann 355/113.
 
-3.141592653589793
-3.141592920353856
-3.141592920353982
+3.141592653589793<br>
+3.141592920353856<br>
+3.141592920353982<br>
 
 Eine Bach-Passion zu hören, wäre vielleicht gottgefälliger, aber ich denke ihm wird das auch gefallen. (Und hoffentlich habe ich keinen Fehler gemacht.)
 
