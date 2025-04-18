@@ -35,7 +35,7 @@ Und hier könnt ihr kurz unterbrechen und selbst herumrechnen.....
 
 
 -----
-Ergebnis: 3748629
+Ergebnis: 3748629<br/>
 Nach 3748629 Gliedern ist die Leibniz-Reihe genauer als 355/113. Hier die Zahlen untereinander, erst  π, dann der Wert der Leibniz-Reihe, dann 355/113.
 
 3.141592653589793<br/>
