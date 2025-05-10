@@ -1,8 +1,8 @@
 ---
 title: "Weißer Rauch"
-date: "2023-05-08"
+date: "2025-05-08"
 tags: ["levity","misc"]
-keywords: ["Robert Francis Prevost","Leo XIV"]
+keywords: ["Robert Francis Prevost","Leo XIV","Donald Trump"]
 ---
 Wir haben einen neuen Papst. Und wenn ich wir sage, dann meine ich, wir Katholiken. Aber irgendwie gehört er doch der ganzen Menschheit. Und nicht zuletzt Herrn Trump, der durch die von irgendjemanden in die Welt gepostete KI-generierte Papstfälschung offensichtlich eine sublime message in die Köpfe der Kardinäle gesetzt hat, so dass sie nicht anders konnten, als einen Amerikaner zu wählen. 
 
