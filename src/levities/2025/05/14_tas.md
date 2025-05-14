@@ -1,6 +1,6 @@
 ---
 title: "Kann ich ne Flasche Bier?"
-date: "2025-05-03"
+date: "2025-05-14"
 tags: ["levity", "misc"]
 keywords: ["Karl Lieffen","Günther Neutze"]
 ---
