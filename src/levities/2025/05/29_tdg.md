@@ -18,5 +18,5 @@ Ein Jammer. Und natürlich besteht die Bühne aus einem großen Gerüst, auf dem
 
 Drei Stunden sollte das gehen. Und irgendwann hörte ich auf, auf die Pause zu warten, offenbar, Mackie ist schon auf der Flucht, sollte das ohne gehen. Und dann ist doch Pause, und wundersamerweise sind erst 90 Minuten vergangen! Ich dachte, mit einem Bier im Kopf schaffe ich die zweite Hälfte vielleicht doch. Aber die Frau an meiner Seite wollte fliehen. Und das taten wir.
 
-Das wäre alles nicht so tragisch, wenn die Kritiken nicht so begeistert wären. Stimmt was nicht mit uns? Vor zwei Jahren oder so, sahen wir eine Laienaufführung der Beggars Opera in Ratzeburg. Die war unendlich viel besser. Selbst ohne Lieder. Aber mit Brecht und Weil, ein Hit nach dem anderen, wie kann man das versauen? Ich sage jetzt etwas, was ich noch nie gesagt habe. Ich kann mir nicht vorstellen, dass ich das mit wahllos auf der Mönckebergstraße aufgesammeltem Ensemble nicht besser inszeniert hätte.
+Das wäre alles nicht so tragisch, wenn die Kritiken nicht so begeistert wären. Stimmt was nicht mit uns? Vor zwei Jahren oder so, sahen wir eine Laienaufführung der Beggars Opera in Ratzeburg. Die war unendlich viel besser. Selbst ohne Lieder. Aber mit Brecht und Weill, ein Hit nach dem anderen, wie kann man das versauen?
 
