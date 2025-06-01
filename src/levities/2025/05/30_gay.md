@@ -1,6 +1,6 @@
 ---
 title: "Dept. Strange Coincidences"
-date: "2022-05-30"
+date: "2025-05-30"
 tags: ["levity","coin"]
 keywords: ["John Gay"]
 ---
