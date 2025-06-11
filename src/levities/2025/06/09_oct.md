@@ -1,6 +1,6 @@
 ---
 title: "Die Stimme des Nordens"
-date: "2025-06-9"
+date: "2025-06-09"
 tags: ["levity", "obi"]
 keywords: ["Carlo von Tiedemann"]
 backgroundImage: "/assets/img/cinema.png"
