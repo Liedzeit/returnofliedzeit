@@ -1,8 +1,8 @@
 ---
 title: "Hero and Villain"
-date: "2025-06-11"
+date: "2025-06-12"
 tags: ["levity", "obi"]
-keywords: ["Brian Wilson"]
+keywords: ["Brian Wilson","Johnny Carson","John Cusack"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
 Vor nicht so langer Zeit sah ich mir Love & Mercy, das Biopic über ihn an. Mit John Cusack, was etwas gewöhnungsbedürftig war. So richtig sympathisch kommt Brian Wilson da nicht rüber. Und krank war er sowieso. Jeder kennt die Geschichte. Das Genie, das das größte aller Alben nicht fertig stellen durfte. 
