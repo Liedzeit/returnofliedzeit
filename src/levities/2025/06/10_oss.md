@@ -3,7 +3,7 @@ title: "Familienangelegenheit"
 date: "2025-06-10"
 tags: ["levity", "obi"]
 keywords: ["Sly Stone","Freddy Cannon"]
-backgroundImage: "/assets/img/cinema.png"
+backgroundImage: "/assets/img/grave.jpg"
 ---
 There’s a riot goin’ on, darf man angesichts der Ereignisse in LA gerade sagen. Obwohl es Schlimmeres gibt. 
 Das ist aber auch der Titel eines sehr berühmten, und auch guten Albums von Sly.
