@@ -1,6 +1,6 @@
 ---
 title: "Spracharbeit"
-date: "2025-06-12"
+date: "2025-06-23"
 tags: ["levity", "obi"]
 keywords: ["Hermann Unterstöger"]
 backgroundImage: "/assets/img/grave.jpg"
