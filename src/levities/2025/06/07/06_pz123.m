@@ -18,4 +18,5 @@ Tip: Vielleich müsst ihr diesmal eure Eltern oder ältere Nachbarn um Hilfe bit
 <br/>
 <br/>
 
-<sup>Auflösung pz122: Zu sehen waren Douglas Fairbanks als Sindbad the <i>Sailor</i>, a Glass of Champagne, der zweite Hit von <i>Sailor</i>, Popeye, der natürlich auch ein <i>Sailor</i> ist und Nicolas Cage als <i>Sailor</i> in Wild at Heart. <sup>
+<sup>Auflösung pz122: Zu sehen waren Douglas Fairbanks als Sindbad the <i>Sailor</i>, a Glass of Champagne, der zweite Hit von <i>Sailor</i>, Popeye, der natürlich auch ein <i>Sailor</i> 
+ist und Nicolas Cage als <i>Sailor</i> in Wild at Heart. <sup>
