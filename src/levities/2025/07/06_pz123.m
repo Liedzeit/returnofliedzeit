@@ -5,7 +5,7 @@ tags: ["levity","picpuzzle"]
 keywords: ["Popeye","Douglas Fairbanks","Nicolas Cage"]
 ---
 Fünf Lösungen. Sehr schön, es darf wieder ein wenig anspruchsvoller werden. Was haben die folgenden Bilder gemeinsam?
- <br/>
+<br/>
 
 <img  src="/assets/img/picpuzzle/picpuzzle123.webp" alt="Bilderrätsel123">
 
@@ -13,10 +13,10 @@ Fünf Lösungen. Sehr schön, es darf wieder ein wenig anspruchsvoller werden. W
 <br/>
 <br/>
 
-Tip: Vielleich müsst ihr diesmal eure Eltern oder ältere Nachbarn um Hilfe bitten.
+Tip: Vielleicht müsst ihr diesmal eure Eltern oder ältere Nachbarn um Hilfe bitten.
 
 <br/>
 <br/>
 
 <sup>Auflösung pz122: Zu sehen waren Douglas Fairbanks als Sindbad the <i>Sailor</i>, a Glass of Champagne, der zweite Hit von <i>Sailor</i>, Popeye, der natürlich auch ein <i>Sailor</i> 
-ist und Nicolas Cage als <i>Sailor</i> in Wild at Heart. <sup>
+ist und Nicolas Cage als <i>Sailor</i> in Wild at Heart. </sup>
