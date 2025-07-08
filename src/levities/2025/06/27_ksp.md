@@ -2,7 +2,7 @@
 title: "Sparks in Holland"
 date: "2023-06-27"
 tags: ["levity","concert"]
-keywords: ["Ron Mael","Russell Mael"]
+keywords: ["Ron Mael","Russell Mael","Sparks"]
 ---
 Die Sparks sind schon wieder auf Tour und stellen ihr aktuelles Album MAD! vor, oder zumindest fünf oder sechs Stücke davon. Und da so ein Konzert eine gute Gelegenheit für einen Städtetrip ist, fuhren wir nach Haarlem.
 
