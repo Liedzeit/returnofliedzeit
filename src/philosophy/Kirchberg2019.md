@@ -1,6 +1,6 @@
 ---
 layout: "layouts/simple.njk"
-title:  "The Lying Game"
+title:  "The Lying Game (Kirchberg 2019)"
 description: "Lecture at the 2019 Austrian Ludwig Wittgenstein Symposium"
 tags: "philosophy"
 backgroundImage: "/assets/img/kirchberg.jpg"
@@ -17,11 +17,13 @@ In a second part Wittgenstein’s view on the language game of lying is discusse
 
 <br/>
 
-<div style="padding-left: 90px;">
+<div style="padding-left: 120px;">
 The horrible thing is that while we do not know quid sit veritas, yet know what the lie is.
+</div>
+<div style="padding-left: 150px;">
 Cesare Pavese (Diaries 1/5/1938)
 </div>
-
+<br/>
 
 
 #### 1. What is a Lie?

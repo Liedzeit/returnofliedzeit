@@ -1,6 +1,6 @@
 ---
 layout: "layouts/simple.njk"
-title:  "The Chinese Chess Room"
+title:  "The Chinese Chess Room (Kirchberg 2017)"
 description: "Lecture at the 2017 Austrian Ludwig Wittgenstein Symposium"
 tags: "philosophy"
 backgroundImage: "/assets/img/kirchberg.jpg"
