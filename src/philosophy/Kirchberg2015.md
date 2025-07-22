@@ -1,6 +1,6 @@
 ---
 layout: "layouts/simple.njk"
-title:  "Absolute Pluralism and Degrees of Nonsense"
+title:  "Absolute Pluralism and Degrees of Nonsense (Kirchberg 2015)"
 description: "Lecture at the 2015 Austrian Ludwig Wittgenstein Symposium"
 tags: "philosophy"
 venue: "Lecture at the 2015 Austrian Ludwig Wittgenstein Symposium"
