@@ -38,6 +38,7 @@ According to a Stanford entry on “The Definition of Lying and Deception” the
 <div style="padding-left: 30px;">
 (L1) To lie =df to make a believed-false statement to another person with the intention that the other person believe that statement to be true.
 </div>
+<br/>
 
 There are then four conditions to lying, the statement condition, the untruthfulness condition, the addressee condition (there is someone who is lied to) and the intention-to-deceive-condition.
 Not surprisingly all of these conditions have been questioned. Aren’t there lies of omission? - No statement. Can one not make a truthful statement with the intent to deceive? As in Freud’s favourite joke: “Where are you going?” – “To Pinsk”. –“Liar, you want me to believe that you are going to Minsk, whereas you really want to go to Pinsk!” – No Untruthfulness. Can I not lie to a dog or a robot? – No person addressee. Must a lie succeed, in order to be a lie? If the addressee does not believe the false statement is it not still a lie? – No deception. (See Mason, 2016 for a detailed discussion.)
@@ -51,6 +52,7 @@ And thirdly it seems to me that defining a concept like lying might be considere
 <div style="padding-left: 30px;">
 (L2) To lie =df to make a statement s based on accessible data d to another person A unaware of d that leads to some action a from A in such a way that action a is different from some action a’ that A would perform if he had access to d.
 </div>
+<br/>
 
 That is the addressee is expected to do something that he would not do if he had access to the same (or equivalent) data that the liar has access to. 
 A simple case would be: A kid says (s1) “The cat knocked over the vase.”
@@ -61,7 +63,7 @@ Let us say s2 is true. Clearly, s2 is not an admission of guilt. On the contrary
 The advantage of definition L2 is that the actual truth or falsity of the statement is irrelevant and that the belief of liar and addressee as to the truth-value is also of no (real) consequence. Of course, one could say that the statement is designed to make the addressee infer wrongly as to what actually happened and that at the end it is truth or falsity that is in question. In fact it is the action (the punishment or non-punishment) that constitutes what it is that the addressee believes. And it is the belief that constitutes what is regarded true or false. Truth has then in this case a pragmatic, or even behaviouristic flavour.
 In any case, definition L2 confirms Pavese’s dictum that we can know what a lie is (and we know how to lie) although we do not necessarily know what the truth in a particular case is and even less what “the Truth” is.
 
-
+<br/>
 
 #### 2. The Language Game of Lying
 
@@ -72,6 +74,7 @@ Nevertheless John Searle disagrees:
 <div style="padding-left: 30px;">
 I think this is mistaken because lying consists of violating one of the regulative tasks on the performance of speech acts, and any regulative rule at all contains within it the notion of a violation. Since the rule defines what constitutes a violation, it is not first necessary to learn to follow the rule and then to learn a separate practice of breaking the rule. (Searle 1979, 69)
 </div>
+<br/>
 
 Searle seems to be of the opinion that truth telling is a language-game on its own and that lying consists in violating rules learnt in this game. This seems rather odd especially in the context, as Searle writes about the logical status of fictional recourse. And lying is in many cases not just a denial of truth but the construction of a new fictional reality. 
 Searle has been severely attacked by Dale Jacquette but curiously he seems to agree with Searle that there is a “truth-telling” game. Lying is “derivatively a specific language game different from the truth-telling language game” (Jacquette 2004, 173)
@@ -88,6 +91,7 @@ If a member guesses the number of slabs on a heap this is where vagueness and do
 Imagine A orders “Bring me as many slabs as you can carry.” This is obviously vague. B does not know how many slabs he can carry. So it might appear to him that it is a good idea to err on the safe side and to carry just a few. Questioned, if this really was all he could carry he answers “yes” knowing that A could not possibly know better. The situation is: people have access to different data. The motive in this case: laziness.
 Actually, lying is quite complex. In real life children first start learning the lying game with a simpler variant of lying, denial. In a situation that might be called the transgression language game they do something that they might or might not know is “wrong” or forbidden. When asked “Did you do beat your sister?” a 3-year old will deny it even though the parent was present. (It might very well be that it is the tone of the question that leads the child to the denial, because it thinks this is what the parent wants to hear, rather than a fear of punishment.) A 6-year old will not make the same mistake. He will have developed what is called a  “second-order mental state understanding” (Talwar & Lee 2008, 868), that is he will know not only what the other (the parent e.g.) can know about the state of affairs the lie was about, but also about consequences following from it. He will be able to maintain a lie in follow-up questions, what is called “semantic leakage control”. (Talwar & Lee 2008, 879) In experiments following the “temptation resistance paradigm” children are explicitly told by a researcher not to peek at or play with a toy when left alone. Not only does the majority of children peek anyway (82%), they also lie about it (64% of those who peeked). (Talwar & Lee 2008, 872f.) The interesting part is, that they now have to somehow conceal the knowledge gained in order to maintain the lie, although the peeking happened in the first place to gain an advantage in the game played by the illegal extra information. According to Talwar & Lee only with increased age children “begin to differentiate antisocial lies from honest mistakes, guesses, exaggerations, and eventually sarcasm and irony.” And only in early adolescence “children’s conceptual and moral understanding of lying and truth-telling becomes comparable to adults.” (Talwar & Lee 2008, 869)
 It seems then that it takes many years to really master the Lying Game.
+<br/>
 
 ### 3. Conclusion
 Wittgenstein’s remark about the necessity to learn the lying game is made in the context of the ironical question whether we are not too hasty in assuming the smile of the child is not pretence. The baby cannot lie and neither can the dog. Not because a dog is too honest, but because it is incapable of having a motive for lying. “You can’t teach a dog to tell his motives any more that you can teach a pig to retrieve.” (PGL 1988, 315)
