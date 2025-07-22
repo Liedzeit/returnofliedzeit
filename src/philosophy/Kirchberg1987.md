@@ -1,6 +1,6 @@
 ---
 layout: "layouts/simple.njk"
-title:  "Mögliche Welten und Mittleres Wissen"
+title:  "Mögliche Welten und Mittleres Wissen (Kirchberg 1987)"
 description: "Lecture at the 1987 Austrian Ludwig Wittgenstein Symposium"
 tags: "philosophy"
 venue: "Vortrag auf dem Österreichischen Ludwig Wittgenstein Symposium 1987"

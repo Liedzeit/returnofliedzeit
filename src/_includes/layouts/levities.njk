@@ -12,7 +12,7 @@
                         <small class="text-muted">
                        {% for tag in  key.data.tags -%}
                     {% if tag !== 'levity' %}
-                        <span class="tag">[{{ tag }}]</span>
+                        <a href="{{ key.url | url}}"><h5>[{{ tag }}]</a>
                     {% endif %}
                     {%- endfor %}
                   </small>

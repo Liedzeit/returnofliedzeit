@@ -1,6 +1,6 @@
 ---
 layout: "layouts/simple.njk"
-title:  "Independence vs. Compossibility "
+title:  "Independence vs. Compossibility (Kirchberg 2010)"
 description: "Lecture at the 2010 Austrian Ludwig Wittgenstein Symposium"
 tags: "philosophy"
 backgroundImage: "/assets/img/kirchberg.jpg"
