@@ -23,9 +23,7 @@ come about that this does not come into the considerations of our ordinary life?
 <br/>
 Typically Wittgenstein asks how the word consciousness is used:
 <div style="padding-left: 30px;">
-“Human beings agree in saying that they see, hear, feel, and so on (even though some are blind and
-some are deaf). So they are their own witnesses that they have consciousness” — But how strange
-this is! Whom do I really inform, if I say “I have consciousness”? What is the purpose of saying this
+“Human beings agree in saying that they see, hear, feel, and so on (even though some are blind and some are deaf). So they are their own witnesses that they have <i>consciousness</i>” — But how strange this is! Whom do I really inform, if I say “I have consciousness”? What is the purpose of saying this
 to myself, and how can another person understand me? (PI 416)
 </div>
 
@@ -52,7 +50,7 @@ reactions - are quite those of mind endowed human beings. Finally, they can even
 <br/>
 Obviously this can be interpretated as meaning that, of course, it is just propaganda and the tribe people possed souls/consciousnes all along. But I think it can also mean that a soulless people would behave in most circumstances just like us and that they would in a very short time emulate
 a consciousness. This is, what according to Jaynes did indeed happen in history, for example when the conquistadores met the people in South America.
-<br/>
+
 ##### 3. Pain
 In what sense is it true that my hand does not feel pain, but I in my hand?
 <div style="padding-left: 30px;">In what sense are my sensations private? — Well, only I can know whether I am really in pain; another person can only surmise it.—In one way this is wrong, and in another nonsense. If we are using the word “to know” as it is normally used (and how else are we to use it?), then other people very often know when I am in pain.— Yes, but all the same not with the certainty with which I know it myself—It can’t be said of me at all (except perhaps as a joke) that I know I am in pain. What is it supposed to mean—except perhaps that I am in pain? (PI 246)
@@ -91,7 +89,7 @@ It is not a something, but not a nothing either! The conclusion was only that a 
 The paradox disappears only if we make a radical break with the idea that language always func-
 tions in one way, always serves the same purpose: to convey thoughts—which may be about hous-
 es, pains, good and evil, or anything else you please.
-<br/>
+
 ##### 4. Language
 Without language there cannot be consciousness, this is the main idea of Jaynes. But more than this, there could very well be language without consciousness. And Jaynes thinks that for thousands of years this was the case. (He says that it would constitute a weak form of his theory to say that consciousness developed together with language.) And again, Wittgenstein is an ally.
 <br/>
@@ -129,9 +127,7 @@ Merlin Donald, a naive claim on her part. (Donald 2006, p. 35)
 <br/>
 Again and again Wittgenstein struggles with the claim that there must be inner processes.
 <div style="padding-left: 30px;">
-„But you surely cannot deny that, for example, in remembering, an inner process takes place.“—
-What we deny is that the picture of the inner process gives us the correct idea of the use of the word
-„to remember“. (PI 305)
+„But you surely cannot deny that, for example, in remembering, an inner process takes place.“ — What we deny is that the picture of the inner process gives us the correct idea of the use of the word „to remember“. (PI 305)
 </div>
 If I only pretend to be weak, for example, in order to rob the man helping me. That must be more than just behaviour. There must be an internal difference. And the proof is that I can admit my crime. This is true, says Wittgenstein, but he calls the „inner process“ a dangerous metaphor. Does it
 „follow“ that the intention was some kind of internal process? (Remarks on the Philosophy of Psychology I 824)
@@ -140,7 +136,7 @@ If I only pretend to be weak, for example, in order to rob the man helping me. T
 Wittgensteins can best be summed up with the following quote, my favorite:
 <div style="padding-left: 30px;">
 But if you say: „How am I to know what he means, when I see nothing but the signs he gives?“ then I say: „How is he to know what he means, when he has nothing but the signs either?“ ”And yet you again and again reach the conclusion that the sensation itself is a nothing”— Not at all. It is not a something, but not a nothing either! The conclusion was only that a nothing would serve just as well as a something about which nothing could be said. We have only rejected the grammar which tries to force itself on us here.
-(And when he gives the objection „But in a fairy tale the pot too can see and hear!“ he answers: „Certainly; but it can also talk.“ (PI 282))
+(And when he gives the objection „But in a fairy tale the pot too can see and hear!“ he answers: „Certainly; but it <i>can</i> also talk.“ (PI 282))
 </div>
 <br/>
 <div style="padding-left: 30px;">
