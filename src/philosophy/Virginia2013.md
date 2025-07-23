@@ -28,7 +28,7 @@ come about that this does not come into the considerations of our ordinary life?
 <br/>
 Typically Wittgenstein asks how the word consciousness is used:
 <div style="padding-left: 30px;">
-“Human beings agree in saying that they see, hear, feel, and so on (even though some are blind and some are deaf). So they are their own witnesses that they have <i>consciousness<i> — But how strange this is! Whom do I really inform, if I say “I have consciousness”? What is the purpose of saying this
+“Human beings agree in saying that they see, hear, feel, and so on (even though some are blind and some are deaf). So they are their own witnesses that they have <i>consciousness</i> — But how strange this is! Whom do I really inform, if I say “I have consciousness”? What is the purpose of saying this
 to myself, and how can another person understand me? (PI 416)
 </div>
 <br/>
