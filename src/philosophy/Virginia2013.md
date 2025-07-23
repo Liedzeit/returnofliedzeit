@@ -28,15 +28,17 @@ Typically Wittgenstein asks how the word consciousness is used:
 “Human beings agree in saying that they see, hear, feel, and so on (even though some are blind and some are deaf). So they are their own witnesses that they have <i>consciousness</i>” — But how strange this is! Whom do I really inform, if I say “I have consciousness”? What is the purpose of saying this
 to myself, and how can another person understand me? (PI 416)
 </div>
+<br/>
 He goes on explaining that expressions like “I see” or “I hear” or “I am conscious” do have their uses for example when I am telling someone who thinks I have fainted.<br/>
 <div style="padding-left: 30px;">
 “What would it mean for me to be wrong about his having a mind, having consciousness? And what would it mean for me to be wrong about myself and not have any?” (Zettel 394) 
 </div>
-
+<br/>
 He adds that it is remarkable that we can learn to make oneself understood in these matters.
 <div style="padding-left: 30px;">
 But is being conscious or having consciousness a fact of experience? “But doesn’t one say that a man has consciousness, and that a tree or a stone does not? — What would it be like if it were otherwise? — Would human beings all be unconscious? — No; not in the ordinary sense of the word.” (PI 418)
 </div>
+<br/>
 This is followed by a puzzling paragraph:
 <div style="padding-left: 30px;">
 In what circumstances shall I say that a tribe has a <i>chief?</i> And the chief must surely have <i>consciousness</i>. Surely we can’t have a chief without consciousness! (PI 419)
@@ -51,7 +53,8 @@ Also, they can be used in psychological experiment, since their reactions - incl
 reactions - are quite those of mind endowed human beings. Finally, they can even learn our own language. (Zettel 528)
 <br/>
 Obviously this can be interpretated as meaning that, of course, it is just propaganda and the tribe people possed souls/consciousnes all along. But I think it can also mean that a soulless people would behave in most circumstances just like us and that they would in a very short time emulate
-a consciousness. This is, what according to Jaynes did indeed happen in history, for example when the conquistadores met the people in South America.
+a consciousness. This is, what according to Jaynes did indeed happen in history, for example when the conquistadors met the people in South America.
+<br/>
 
 ##### 3. Pain
 In what sense is it true that my hand does not feel pain, but I in my hand?
@@ -63,7 +66,7 @@ In what sense is it true that my hand does not feel pain, but I in my hand?
 Why can’t a dog simulate pain? Is he too honest?
 Could one teach a dog to simulate pain? Perhaps it is possible to teach him to howl on particular occasions as if he were in pain, even when he is not. But the surroundings which are necessary for this behaviour to be real simulation are missing. (PI 250)
 </div>
-“A dog cannot be a hypocrite, but neither can he be sincere.” (PI II p. 229)
+<div style="padding-left: 30px;"> “A dog cannot be a hypocrite, but neither can he be sincere.” (PI II p. 229)</div>
 
 <div style="padding-left: 30px;">
 We say a dog is afraid his master will beat him; but not, he is afraid his master will beat him
@@ -75,7 +78,7 @@ to-morrow. Why not? (PI 650)
 “But doesn’t what you say come to this: that there is no pain, for example, without pain-behaviour?”<br/>
 It comes to this: only of a living human being and what resembles (behaves like) a living human being can one say: it has sensations; it sees; is blind; hears; is deaf; is conscious or unconscious. (PI 281)
 </div>
-
+<br/>
 In the paper “Sensory Pain and Conscious Pain” Jaynes comes to the conclusion that:
 <div style="padding-left: 30px;">
 “In animals pain is pain behavior, but in humans every sensory pain has its analog in consciousness as what can be called conscious pain.” The difference explains phantom pain and hynosis and placebo effects. A dog would not lick his amputated leg.
@@ -88,9 +91,8 @@ And in this sense consciousness would be an operant fitting consciousness into n
 It is not a something, but not a nothing either! The conclusion was only that a nothing would serve just as well as a something about which nothing could be said. We have only rejected the grammar which tries to force itself on us here. (PI 304)
 </div>
 <br/>
-The paradox disappears only if we make a radical break with the idea that language always func-
-tions in one way, always serves the same purpose: to convey thoughts—which may be about hous-
-es, pains, good and evil, or anything else you please.
+The paradox disappears only if we make a radical break with the idea that language always functions in one way, always serves the same purpose: to convey thoughts which may be about houses, pains, good and evil, or anything else you please.
+<br/>
 
 ##### 4. Language
 Without language there cannot be consciousness, this is the main idea of Jaynes. But more than this, there could very well be language without consciousness. And Jaynes thinks that for thousands of years this was the case. (He says that it would constitute a weak form of his theory to say that consciousness developed together with language.) And again, Wittgenstein is an ally.
@@ -107,7 +109,7 @@ This is exactly the view that Wittgenstein thinks is fundamentally wrong:
 later, sentences. They teach the child new pain-behaviour.
 “So you are saying that the word ‘pain’ really means crying?” — On the contrary: the verbal expression of pain replaces crying and does not describe it. (PI 244)
 </div>
-
+<br/>
 Wittgenstein is uncharacteristically straight forward in this question: You learned the concept ‘pain’ when you learned language. There is no thought language, no Mentalese, there is no concept of pain or refrigerator that exists prior and independently of language.
 <br/>
 <div style="padding-left: 30px;">
@@ -131,6 +133,7 @@ Again and again Wittgenstein struggles with the claim that there must be inner p
 <div style="padding-left: 30px;">
 „But you surely cannot deny that, for example, in remembering, an inner process takes place.“ — What we deny is that the picture of the inner process gives us the correct idea of the use of the word „to remember“. (PI 305)
 </div>
+<br/>
 If I only pretend to be weak, for example, in order to rob the man helping me. That must be more than just behaviour. There must be an internal difference. And the proof is that I can admit my crime. This is true, says Wittgenstein, but he calls the „inner process“ a dangerous metaphor. Does it
 „follow“ that the intention was some kind of internal process? (Remarks on the Philosophy of Psychology I 824)
 </div>
