@@ -9,10 +9,12 @@ tags: "philosophy"
 <br>
 
 ##### Abstract
+
 In 1984 Julian Jaynes gave a lecture in Kirchberg entitled “Four Hypotheses on the Origin of Mind.” The first of these hypotheses, and most interesting from a philosophical point of view, states that subjective consciousness is a social construction dependent on language, built upon metaphors of behavior in the physical world.<br/>
 Wittgenstein would perhaps have been in sympathy with Jaynes. He too thought that consciousness is not some “private theatre”. Inner processes at the bottom of conscious thought, accessible only to the individual, he called a “dangerous metaphor.” Like Jaynes, Wittgenstein held that language is logically prior to consciousness and when he claimed that dogs cannot be hypocrites but also not sincere, Jaynes would certainly have agreed. And like Jaynes, Wittgenstein was not afraid to be accused of behavioristic tendencies.
 
 ##### 1. Jaynes in Kirchberg
+
 Very nearly 30 years ago, in 1984, Julian Jaynes gave a lecture in Kirchberg where he summarized his theory on the origin and nature of consciousness, a theory that he had introduced in his best-selling book »The Origin of Consciousness in the Breakdown of the Bicameral Mind«.
 <br/>
 When I was sitting there listening to Jaynes all these years ago, I thought that Jaynes had deliberately chosen to talk there because he felt that he would find open minds among philosophers used to the unconventional ways of Wittgensteinian thinking. But in fact he was invited to give the lecture and probably did not give too much thought on the audience he was going to face here.
@@ -20,12 +22,13 @@ When I was sitting there listening to Jaynes all these years ago, I thought that
 Still, there were a lot of things Jaynes had in common with Wittgenstein, it seemed to me. Some of the things Wittgenstein had said, made a lot more sense to me when considered from a Jaynesian angle. To give just one example, Jaynes says that consciousness is not necessary for most kinds of learning and Wittgenstein says that the for the learning of a language training (Abrichtung) in the sense of drilling or conditioning is necessary. So I promised myself that I would work out some of these common traits in the thinking of these two men.
 
 ##### 2. Consciousness
+
 Wittgenstein rarely uses the word “consciousness” in a technical sense. “Could one imagine a stone’s having consciousness?” (PI 390) he asks and if so why should that be of any interest to us? And “The feeling of an unbridgeable gulf between consciousness and brain-process: how does it
 come about that this does not come into the considerations of our ordinary life?” (PI 412)
 <br/>
 Typically Wittgenstein asks how the word consciousness is used:
 <div style="padding-left: 30px;">
-“Human beings agree in saying that they see, hear, feel, and so on (even though some are blind and some are deaf). So they are their own witnesses that they have <i>consciousness</i>” — But how strange this is! Whom do I really inform, if I say “I have consciousness”? What is the purpose of saying this
+“Human beings agree in saying that they see, hear, feel, and so on (even though some are blind and some are deaf). So they are their own witnesses that they have <i>consciousness<i> — But how strange this is! Whom do I really inform, if I say “I have consciousness”? What is the purpose of saying this
 to myself, and how can another person understand me? (PI 416)
 </div>
 <br/>
@@ -57,6 +60,7 @@ a consciousness. This is, what according to Jaynes did indeed happen in history,
 <br/>
 
 ##### 3. Pain
+
 In what sense is it true that my hand does not feel pain, but I in my hand?
 <div style="padding-left: 30px;">In what sense are my sensations private? — Well, only I can know whether I am really in pain; another person can only surmise it.—In one way this is wrong, and in another nonsense. If we are using the word “to know” as it is normally used (and how else are we to use it?), then other people very often know when I am in pain.— Yes, but all the same not with the certainty with which I know it myself—It can’t be said of me at all (except perhaps as a joke) that I know I am in pain. What is it supposed to mean—except perhaps that I am in pain? (PI 246)
 </div>
@@ -95,6 +99,7 @@ The paradox disappears only if we make a radical break with the idea that langua
 <br/>
 
 ##### 4. Language
+
 Without language there cannot be consciousness, this is the main idea of Jaynes. But more than this, there could very well be language without consciousness. And Jaynes thinks that for thousands of years this was the case. (He says that it would constitute a weak form of his theory to say that consciousness developed together with language.) And again, Wittgenstein is an ally.
 <br/>
 In the Philosophical Inverstigations Wittgenstein denounces what he calls the Private Language, a language only I can understand on principle. But really the arguments against a private language is only the preparation for his main attack on our basic concept of ordinary - public - language.
@@ -128,7 +133,7 @@ of your wordless thought into words?“ (PI 342)
 
 Helen Keller, of course is the witness for the defence. She testified that she was not fully conscious before she had learned language. This was, says
 Merlin Donald, a naive claim on her part. (Donald 2006, p. 35)
-<br/>
+<br />
 Again and again Wittgenstein struggles with the claim that there must be inner processes.
 <div style="padding-left: 30px;">
 „But you surely cannot deny that, for example, in remembering, an inner process takes place.“ — What we deny is that the picture of the inner process gives us the correct idea of the use of the word „to remember“. (PI 305)
@@ -137,8 +142,10 @@ Again and again Wittgenstein struggles with the claim that there must be inner p
 If I only pretend to be weak, for example, in order to rob the man helping me. That must be more than just behaviour. There must be an internal difference. And the proof is that I can admit my crime. This is true, says Wittgenstein, but he calls the „inner process“ a dangerous metaphor. Does it
 „follow“ that the intention was some kind of internal process? (Remarks on the Philosophy of Psychology I 824)
 </div>
-<br/>
+
 Wittgensteins can best be summed up with the following quote, my favorite:
+<br/>
+
 <div style="padding-left: 30px;">
 But if you say: „How am I to know what he means, when I see nothing but the signs he gives?“ then I say: „How is he to know what he means, when he has nothing but the signs either?“ ”And yet you again and again reach the conclusion that the sensation itself is a nothing”— Not at all. It is not a something, but not a nothing either! The conclusion was only that a nothing would serve just as well as a something about which nothing could be said. We have only rejected the grammar which tries to force itself on us here.
 (And when he gives the objection „But in a fairy tale the pot too can see and hear!“ he answers: „Certainly; but it <i>can</i> also talk.“ (PI 282))
@@ -150,5 +157,6 @@ But if you say: „How am I to know what he means, when I see nothing but the si
 <br/>
 And this in the end is exactly what Jaynes says. There is nothing in consciousness that was not in
 behaviour before. So in a sense consciousness is a grammatical fiction.
+<br/>
 
 
