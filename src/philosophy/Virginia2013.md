@@ -8,12 +8,12 @@ tags: "philosophy"
 
 <br>
 
-##### Abstract
+### Abstract
 
 In 1984 Julian Jaynes gave a lecture in Kirchberg entitled “Four Hypotheses on the Origin of Mind.” The first of these hypotheses, and most interesting from a philosophical point of view, states that subjective consciousness is a social construction dependent on language, built upon metaphors of behavior in the physical world.<br/>
 Wittgenstein would perhaps have been in sympathy with Jaynes. He too thought that consciousness is not some “private theatre”. Inner processes at the bottom of conscious thought, accessible only to the individual, he called a “dangerous metaphor.” Like Jaynes, Wittgenstein held that language is logically prior to consciousness and when he claimed that dogs cannot be hypocrites but also not sincere, Jaynes would certainly have agreed. And like Jaynes, Wittgenstein was not afraid to be accused of behavioristic tendencies.
 
-##### 1. Jaynes in Kirchberg
+### 1. Jaynes in Kirchberg
 
 Very nearly 30 years ago, in 1984, Julian Jaynes gave a lecture in Kirchberg where he summarized his theory on the origin and nature of consciousness, a theory that he had introduced in his best-selling book »The Origin of Consciousness in the Breakdown of the Bicameral Mind«.
 <br/>
@@ -21,7 +21,7 @@ When I was sitting there listening to Jaynes all these years ago, I thought that
 <br/>
 Still, there were a lot of things Jaynes had in common with Wittgenstein, it seemed to me. Some of the things Wittgenstein had said, made a lot more sense to me when considered from a Jaynesian angle. To give just one example, Jaynes says that consciousness is not necessary for most kinds of learning and Wittgenstein says that the for the learning of a language training (Abrichtung) in the sense of drilling or conditioning is necessary. So I promised myself that I would work out some of these common traits in the thinking of these two men.
 
-##### 2. Consciousness
+### 2. Consciousness
 
 Wittgenstein rarely uses the word “consciousness” in a technical sense. “Could one imagine a stone’s having consciousness?” (PI 390) he asks and if so why should that be of any interest to us? And “The feeling of an unbridgeable gulf between consciousness and brain-process: how does it
 come about that this does not come into the considerations of our ordinary life?” (PI 412)
@@ -59,7 +59,7 @@ Obviously this can be interpretated as meaning that, of course, it is just propa
 a consciousness. This is, what according to Jaynes did indeed happen in history, for example when the conquistadors met the people in South America.
 <br/>
 
-##### 3. Pain
+### 3. Pain
 
 In what sense is it true that my hand does not feel pain, but I in my hand?
 <div style="padding-left: 30px;">In what sense are my sensations private? — Well, only I can know whether I am really in pain; another person can only surmise it.—In one way this is wrong, and in another nonsense. If we are using the word “to know” as it is normally used (and how else are we to use it?), then other people very often know when I am in pain.— Yes, but all the same not with the certainty with which I know it myself—It can’t be said of me at all (except perhaps as a joke) that I know I am in pain. What is it supposed to mean—except perhaps that I am in pain? (PI 246)
@@ -98,7 +98,7 @@ It is not a something, but not a nothing either! The conclusion was only that a 
 The paradox disappears only if we make a radical break with the idea that language always functions in one way, always serves the same purpose: to convey thoughts which may be about houses, pains, good and evil, or anything else you please.
 <br/>
 
-##### 4. Language
+### 4. Language
 
 Without language there cannot be consciousness, this is the main idea of Jaynes. But more than this, there could very well be language without consciousness. And Jaynes thinks that for thousands of years this was the case. (He says that it would constitute a weak form of his theory to say that consciousness developed together with language.) And again, Wittgenstein is an ally.
 <br/>
