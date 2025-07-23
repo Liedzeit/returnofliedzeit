@@ -10,7 +10,7 @@ tags: "philosophy"
 
 ##### Abstract
 In 1984 Julian Jaynes gave a lecture in Kirchberg entitled “Four Hypotheses on the Origin of Mind.” The first of these hypotheses, and most interesting from a philosophical point of view, states that subjective consciousness is a social construction dependent on language, built upon metaphors of behavior in the physical world.<br/>
-Wittgenstein would perhaps have been in sympathy with Jaynes. He too thought that consciousness is not some “private theatre. ”Inner processes at the bottom of conscious thought, accessible only to the individual, he called a “dangerous metaphor.” Like Jaynes, Wittgenstein held that language is logically prior to consciousness and when he claimed that dogs cannot be hypocrites but also not sincere, Jaynes would certainly have agreed. And like Jaynes, Wittgenstein was not afraid to be accused of behavioristic tendencies.
+Wittgenstein would perhaps have been in sympathy with Jaynes. He too thought that consciousness is not some “private theatre”. Inner processes at the bottom of conscious thought, accessible only to the individual, he called a “dangerous metaphor.” Like Jaynes, Wittgenstein held that language is logically prior to consciousness and when he claimed that dogs cannot be hypocrites but also not sincere, Jaynes would certainly have agreed. And like Jaynes, Wittgenstein was not afraid to be accused of behavioristic tendencies.
 
 ##### 1. Jaynes in Kirchberg
 Very nearly 30 years ago, in 1984, Julian Jaynes gave a lecture in Kirchberg where he summarized his theory on the origin and nature of consciousness, a theory that he had introduced in his best-selling book »The Origin of Consciousness in the Breakdown of the Bicameral Mind«.
@@ -28,7 +28,6 @@ Typically Wittgenstein asks how the word consciousness is used:
 “Human beings agree in saying that they see, hear, feel, and so on (even though some are blind and some are deaf). So they are their own witnesses that they have <i>consciousness</i>” — But how strange this is! Whom do I really inform, if I say “I have consciousness”? What is the purpose of saying this
 to myself, and how can another person understand me? (PI 416)
 </div>
-
 He goes on explaining that expressions like “I see” or “I hear” or “I am conscious” do have their uses for example when I am telling someone who thinks I have fainted.<br/>
 <div style="padding-left: 30px;">
 “What would it mean for me to be wrong about his having a mind, having consciousness? And what would it mean for me to be wrong about myself and not have any?” (Zettel 394) 
@@ -37,6 +36,7 @@ He goes on explaining that expressions like “I see” or “I hear” or “I 
 He adds that it is remarkable that we can learn to make oneself understood in these matters.
 <div style="padding-left: 30px;">
 But is being conscious or having consciousness a fact of experience? “But doesn’t one say that a man has consciousness, and that a tree or a stone does not? — What would it be like if it were otherwise? — Would human beings all be unconscious? — No; not in the ordinary sense of the word.” (PI 418)
+</div>
 This is followed by a puzzling paragraph:
 <div style="padding-left: 30px;">
 In what circumstances shall I say that a tribe has a <i>chief?</i> And the chief must surely have <i>consciousness</i>. Surely we can’t have a chief without consciousness! (PI 419)
