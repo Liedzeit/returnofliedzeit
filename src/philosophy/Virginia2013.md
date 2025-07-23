@@ -2,13 +2,15 @@
 layout: "layouts/simple.njk"
 title:  "The Dangerous Metaphor (Virginia 2013) "
 description: "Lecture at the 2013 Julian Jaynes Society Conference on Consciousness and Bicameral Studies"
-venue: "Lecture at the 2013 Julian Jaynes Society Conference on Consciousness and Bicameral Studies"
+venue: "Lecture at the 2013 Julian Jaynes Society Conference on Consciousness and Bicameral Studies, Charleston, Virgina"
 tags: "philosophy"
-backgroundImage: "/assets/img/kirchberg.jpg"
 ---
 
 <br>
 
+##### Abstract
+In 1984 Julian Jaynes gave a lecture in Kirchberg entitled “Four Hypotheses on the Origin of Mind.” The first of these hypotheses, and most interesting from a philosophical point of view, states that subjective consciousness is a social construction dependent on language, built upon metaphors of behavior in the physical world.<br/>
+Wittgenstein would perhaps have been in sympathy with Jaynes. He too thought that consciousness is not some “private theatre. ”Inner processes at the bottom of conscious thought, accessible only to the individual, he called a “dangerous metaphor.” Like Jaynes, Wittgenstein held that language is logically prior to consciousness and when he claimed that dogs cannot be hypocrites but also not sincere, Jaynes would certainly have agreed. And like Jaynes, Wittgenstein was not afraid to be accused of behavioristic tendencies.
 
 ##### 1. Jaynes in Kirchberg
 Very nearly 30 years ago, in 1984, Julian Jaynes gave a lecture in Kirchberg where he summarized his theory on the origin and nature of consciousness, a theory that he had introduced in his best-selling book »The Origin of Consciousness in the Breakdown of the Bicameral Mind«.
