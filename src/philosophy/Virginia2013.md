@@ -36,9 +36,7 @@ He goes on explaining that expressions like “I see” or “I hear” or “I 
 
 He adds that it is remarkable that we can learn to make oneself understood in these matters.
 <div style="padding-left: 30px;">
-But is being conscious or having consciousness a fact of experience? “But doesn’t one say that a
-man has consciousness, and that a tree or a stone does not? — What would it be like if it were oth-
-erwise? — Would human beings all be unconscious? — No; not in the ordinary sense of the word.” (PI 418)
+But is being conscious or having consciousness a fact of experience? “But doesn’t one say that a man has consciousness, and that a tree or a stone does not? — What would it be like if it were otherwise? — Would human beings all be unconscious? — No; not in the ordinary sense of the word.” (PI 418)
 This is followed by a puzzling paragraph:
 <div style="padding-left: 30px;">
 In what circumstances shall I say that a tribe has a <i>chief?</i> And the chief must surely have <i>consciousness</i>. Surely we can’t have a chief without consciousness! (PI 419)
@@ -54,7 +52,7 @@ reactions - are quite those of mind endowed human beings. Finally, they can even
 <br/>
 Obviously this can be interpretated as meaning that, of course, it is just propaganda and the tribe people possed souls/consciousnes all along. But I think it can also mean that a soulless people would behave in most circumstances just like us and that they would in a very short time emulate
 a consciousness. This is, what according to Jaynes did indeed happen in history, for example when the conquistadores met the people in South America.
-
+<br/>
 ##### 3. Pain
 In what sense is it true that my hand does not feel pain, but I in my hand?
 <div style="padding-left: 30px;">In what sense are my sensations private? — Well, only I can know whether I am really in pain; another person can only surmise it.—In one way this is wrong, and in another nonsense. If we are using the word “to know” as it is normally used (and how else are we to use it?), then other people very often know when I am in pain.— Yes, but all the same not with the certainty with which I know it myself—It can’t be said of me at all (except perhaps as a joke) that I know I am in pain. What is it supposed to mean—except perhaps that I am in pain? (PI 246)
@@ -93,7 +91,7 @@ It is not a something, but not a nothing either! The conclusion was only that a 
 The paradox disappears only if we make a radical break with the idea that language always func-
 tions in one way, always serves the same purpose: to convey thoughts—which may be about hous-
 es, pains, good and evil, or anything else you please.
-
+<br/>
 ##### 4. Language
 Without language there cannot be consciousness, this is the main idea of Jaynes. But more than this, there could very well be language without consciousness. And Jaynes thinks that for thousands of years this was the case. (He says that it would constitute a weak form of his theory to say that consciousness developed together with language.) And again, Wittgenstein is an ally.
 <br/>
@@ -148,6 +146,7 @@ But if you say: „How am I to know what he means, when I see nothing but the si
 <div style="padding-left: 30px;">
 „Are you not really a behaviourist in disguise? Aren’t you at bottom really saying that everything except human behaviour is a fiction?“ — If I do speak of a fiction, then it is of a grammatical fiction. (PI 307)
 </div>
+<br/>
 And this in the end is exactly what Jaynes says. There is nothing in consciousness that was not in
 behaviour before. So in a sense consciousness is a grammatical fiction.
 
