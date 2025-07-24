@@ -157,7 +157,7 @@ But if you say: „How am I to know what he means, when I see nothing but the si
 <br/>
 And this in the end is exactly what Jaynes says. There is nothing in consciousness that was not in
 behaviour before. So in a sense consciousness is a grammatical fiction.
-<br/>
+<br/><br/>
 
 
 

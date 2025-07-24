@@ -11,7 +11,7 @@ Hier der Link zu meinem Youtube-Kanal - Meisterwerke der Philosphie
 
 <br/>
 
-[<img  src="/assets/img/portraitYT.jpg" alt="rfimage">](https://www.youtube.com/channel/UCVryJa53qRbh3YiiT3Of2lw).
+[<img  src="/assets/img/PortraitYT.png" alt="rfimage">](https://www.youtube.com/channel/UCVryJa53qRbh3YiiT3Of2lw).
 
 <br/>
 
