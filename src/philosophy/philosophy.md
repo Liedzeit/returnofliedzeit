@@ -7,11 +7,11 @@ motto: "Non ligere, non lugere neque detestari, sed intelligere."
 source: "Spinoza"
 ---
 
-Hier der Link zu meinem Youtube-Kanal - Meisterwerke der Philosphie
+Hier der Link zu meinem Youtube-Kanal - Meisterwerke der Philosophie: 
 
 <br/>
 
-[<img  src="/assets/img/PortraitYT.png" alt="rfimage" width="30%" height="30%"/>](https://www.youtube.com/channel/UCVryJa53qRbh3YiiT3Of2lw).
+[<img  src="/assets/img/PortraitYT.png" alt="rfimage" width="50%" height="50%"/>](https://www.youtube.com/channel/UCVryJa53qRbh3YiiT3Of2lw).
 
 <br/>
 
