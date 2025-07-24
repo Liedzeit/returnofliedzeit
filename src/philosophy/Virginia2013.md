@@ -57,7 +57,7 @@ reactions - are quite those of mind endowed human beings. Finally, they can even
 <br/>
 Obviously this can be interpretated as meaning that, of course, it is just propaganda and the tribe people possed souls/consciousnes all along. But I think it can also mean that a soulless people would behave in most circumstances just like us and that they would in a very short time emulate
 a consciousness. This is, what according to Jaynes did indeed happen in history, for example when the conquistadors met the people in South America.
-</div>
+<br/><br/>
 
 #### 3. Pain
 
@@ -96,7 +96,7 @@ It is not a something, but not a nothing either! The conclusion was only that a 
 </div>
 <br/>
 The paradox disappears only if we make a radical break with the idea that language always functions in one way, always serves the same purpose: to convey thoughts which may be about houses, pains, good and evil, or anything else you please.
-</div>
+<br/><br/>
 
 #### 4. Language
 
