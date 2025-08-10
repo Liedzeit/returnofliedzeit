@@ -2,7 +2,7 @@
 title: "Rückzug"
 date: "2025-08-08"
 tags: ["levity"]
-keywords: ["Rückzug"]
+keywords: ["Brosius-Gersdorf","Verfassung"]
 ---
 Es gibt Tage, an denen ich mir wünschte, CDU-Mitglied zu sein. Dann könnte ich aus Protest austreten. So wie heute.
 
