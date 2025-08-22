@@ -2,7 +2,7 @@
 title: "The Life of Chuck"
 date: "2025-08-20"
 tags: ["levity", "cinema"]
-keywords: ["Tom Hiddleston","Mark Hammil","Sarah Krantz","Mark Hamill"]
+keywords: ["Tom Hiddleston","Mark Hammil","Mia Sara","Mark Hamill"]
 backgroundImage: "/assets/img/cinema.png"
 ---
 Die Welt geht unter. Nicht als Folge des Klimawandels, wie man zunächst annehmen soll, sondern aus irgendwelchen kosmischen Gründen.  In Deutschland bricht eine Vulkan aus. Überall hängen Plakate herrum, in denen Chuck für 39 wunderbare Jahre gedankt wird. Wer ist Chuck?
@@ -13,6 +13,6 @@ Als wäre das nicht schon idiotisch genug, werden wir auch noch mit einer Lebens
 
 Dass das Ganze sich Stephen King ausgedacht hat, merkt man spätestens im ersten Teil, wo die Zukunft in der schönen Kuppel zu besichtigen ist.
 
-Abgesehen von den genannten idiotischen Details, der nervigen onkelhaften Off-Erzählung und den schwachen Schauspielern am Anfang ist der Film nett gemacht. Und Chuck ist in allen Inkarnationen großartig. Und auch die Oma (Sarah Krantz).
+Abgesehen von den genannten idiotischen Details, der nervigen onkelhaften Off-Erzählung und den schwachen Schauspielern am Anfang ist der Film nett gemacht. Und Chuck ist in allen Inkarnationen großartig. Und auch die Oma (Mia Sara).
 
 Zeise 6/10
