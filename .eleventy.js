@@ -103,6 +103,16 @@ module.exports = function (eleventyConfig) {
       return [...collection.getFilteredByGlob("./src/levities/**/*.md")];
     });
 
+    // Build a list of all tags present in the site
+    eleventyConfig.addCollection("tagList", function(collection) {
+      const tagSet = new Set();
+      collection.getAll().forEach(item => {
+        const itemTags = item.data && item.data.tags ? item.data.tags : [];
+        itemTags.forEach(tag => tagSet.add(tag));
+      });
+      return Array.from(tagSet).filter(tag => tag !== "all" && tag !== "nav");
+    });
+
 
 
     eleventyConfig.addPassthroughCopy("assets");

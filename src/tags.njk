@@ -1,0 +1,27 @@
+---
+layout: layouts/evensimpler.njk
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tag
+permalink: "/tags/{{ tag | slug }}/"
+title: "Beiträge mit Tag: {{ tag }}"
+motto: ""
+source: ""
+---
+
+<ul class="no-bullets">
+  {%- for post in collections.levity -%}
+    {%- if post.data.tags and (tag in post.data.tags) -%}
+      <li><a href="{{ post.url | url}}"><h5>{{ post.data.title }}</h5></a>
+        <small class="text-muted">{{ post.date | readableDate }}</small>
+      </li>
+      {% excerpt post %} <a href="{{ post.url | url}}"> [weiter]</a>
+      <br>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>
+
+<p><a href="/">Zurück zur Startseite</a></p>
+
+

@@ -12,12 +12,12 @@
                         <small class="text-muted">
                        {% for tag in  key.data.tags -%}
                     {% if tag !== 'levity' %}
-                        <a href="{{ key.url | url}}"><h5>[{{ tag }}]</a>
+                        <a href="/tags/{{ tag | slug }}/"><h5>[{{ tag }}]</a>
                     {% endif %}
                     {%- endfor %}
                   </small>
                         
-                        </h5></li>
+                  </h5></li>
                             
                 {% excerpt key %} <a href="{{ key.url | url}}"> [weiter]</a> 
                  
