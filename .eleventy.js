@@ -103,14 +103,29 @@ module.exports = function (eleventyConfig) {
       return [...collection.getFilteredByGlob("./src/levities/**/*.md")];
     });
 
-    // Build a list of all tags present in the site
+    // Build a list of unique tags by slug (case-insensitive), return objects { name, slug }
     eleventyConfig.addCollection("tagList", function(collection) {
-      const tagSet = new Set();
+      function toSlug(value) {
+        return String(value || "")
+          .normalize("NFKD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, "-")
+          .replace(/^-+|-+$/g, "");
+      }
+
+      const slugToName = new Map();
       collection.getAll().forEach(item => {
-        const itemTags = item.data && item.data.tags ? item.data.tags : [];
-        itemTags.forEach(tag => tagSet.add(tag));
+        const itemTags = (item.data && item.data.tags) ? item.data.tags : [];
+        itemTags.forEach(tag => {
+          if (tag === "all" || tag === "nav") return;
+          const slug = toSlug(tag);
+          if (!slugToName.has(slug)) {
+            slugToName.set(slug, String(tag));
+          }
+        });
       });
-      return Array.from(tagSet).filter(tag => tag !== "all" && tag !== "nav");
+      return Array.from(slugToName.entries()).map(([slug, name]) => ({ name, slug }));
     });
 
 
