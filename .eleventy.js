@@ -130,7 +130,8 @@ module.exports = function (eleventyConfig) {
 
     // Build paginated pages per tag with sorted posts
     eleventyConfig.addCollection("tagPages", function(collection) {
-      const siteSettings = collection.getAll()[0]?.data?.settings || {};
+      const first = collection.getAll()[0] || {};
+      const siteSettings = (first.data && first.data.settings) ? first.data.settings : {};
       const pageSize = Number(siteSettings.tagPageSize) || 20;
       const sortOrder = (siteSettings.tagSortOrder || "desc").toLowerCase();
 
@@ -148,15 +149,43 @@ module.exports = function (eleventyConfig) {
         return chunks;
       }
 
-      // Map of tagSlug -> { name, slug }
-      const tagList = collection.getCollection("tagList");
-      const levityPosts = collection.getCollection("levity");
+      // Build tag list locally: array of { name, slug }
+      function toSlug(value) {
+        return String(value || "")
+          .normalize("NFKD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, "-")
+          .replace(/^-+|-+$/g, "");
+      }
+      const slugToName = new Map();
+      collection.getAll().forEach(item => {
+        const itemTags = (item.data && item.data.tags) ? item.data.tags : [];
+        itemTags.forEach(tag => {
+          if (tag === "all" || tag === "nav") return;
+          const slug = toSlug(tag);
+          if (!slugToName.has(slug)) {
+            slugToName.set(slug, String(tag));
+          }
+        });
+      });
+      const tagList = Array.from(slugToName.entries()).map(function(entry){ return { slug: entry[0], name: entry[1] }; });
+
+      // Grab levity posts
+      const levityPosts = collection.getFilteredByGlob("./src/levities/**/*.md");
 
       const pages = [];
       tagList.forEach(tagObj => {
-        const postsForTag = levityPosts.filter(post => {
-          const postTags = post.data?.tags || [];
-          return postTags.some(t => String(t).normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "") === tagObj.slug);
+        const postsForTag = levityPosts.filter(function(post){
+          const postTags = (post.data && post.data.tags) ? post.data.tags : [];
+          return postTags.some(function(t){
+            return String(t)
+              .normalize("NFKD")
+              .replace(/[\u0300-\u036f]/g, "")
+              .toLowerCase()
+              .replace(/[^a-z0-9]+/g, "-")
+              .replace(/^-+|-+$/g, "") === tagObj.slug;
+          });
         }).sort(byDate);
 
         const chunks = chunk(postsForTag, pageSize);
