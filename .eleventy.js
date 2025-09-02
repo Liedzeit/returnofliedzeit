@@ -128,6 +128,67 @@ module.exports = function (eleventyConfig) {
       return Array.from(slugToName.entries()).map(([slug, name]) => ({ name, slug }));
     });
 
+    // Build paginated pages per tag with sorted posts
+    eleventyConfig.addCollection("tagPages", function(collection) {
+      const siteSettings = collection.getAll()[0]?.data?.settings || {};
+      const pageSize = Number(siteSettings.tagPageSize) || 20;
+      const sortOrder = (siteSettings.tagSortOrder || "desc").toLowerCase();
+
+      function byDate(a, b) {
+        const da = new Date(a.date).getTime();
+        const db = new Date(b.date).getTime();
+        return sortOrder === "asc" ? da - db : db - da;
+      }
+
+      function chunk(array, size) {
+        const chunks = [];
+        for (let i = 0; i < array.length; i += size) {
+          chunks.push(array.slice(i, i + size));
+        }
+        return chunks;
+      }
+
+      // Map of tagSlug -> { name, slug }
+      const tagList = collection.getCollection("tagList");
+      const levityPosts = collection.getCollection("levity");
+
+      const pages = [];
+      tagList.forEach(tagObj => {
+        const postsForTag = levityPosts.filter(post => {
+          const postTags = post.data?.tags || [];
+          return postTags.some(t => String(t).normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "") === tagObj.slug);
+        }).sort(byDate);
+
+        const chunks = chunk(postsForTag, pageSize);
+        const totalPages = chunks.length || 1;
+        if (chunks.length === 0) {
+          // Still create an empty first page so the tag exists
+          pages.push({
+            tag: tagObj.name,
+            slug: tagObj.slug,
+            pageNumber: 1,
+            totalPages,
+            posts: [],
+            permalink: `/tags/${tagObj.slug}/`
+          });
+        } else {
+          chunks.forEach((posts, index) => {
+            const pageNumber = index + 1;
+            pages.push({
+              tag: tagObj.name,
+              slug: tagObj.slug,
+              pageNumber,
+              totalPages,
+              posts,
+              permalink: pageNumber === 1 ? `/tags/${tagObj.slug}/` : `/tags/${tagObj.slug}/page/${pageNumber}/`
+            });
+          });
+        }
+      });
+
+      return pages;
+    });
+
 
 
     eleventyConfig.addPassthroughCopy("assets");

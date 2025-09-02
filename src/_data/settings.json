@@ -2,5 +2,6 @@
     "phone": "040/38904414",
     "address": "Seestraße 138",
     "name": "Ralf Funke",
-    "url": "https://www.liedzeit.com"
+    "url": "https://www.liedzeit.com",
+    "tagPageSize": 25
 }

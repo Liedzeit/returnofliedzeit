@@ -1,34 +1,34 @@
 ---
 layout: layouts/evensimpler.njk
 pagination:
-  data: collections.tagList
+  data: collections.tagPages
   size: 1
-  alias: tagObj
-permalink: "/tags/{{ tagObj.slug }}/"
-title: "Beiträge mit Tag: {{ tagObj.name }}"
+  alias: tagPage
+permalink: "{{ tagPage.permalink }}"
+title: "Beiträge mit Tag: {{ tagPage.tag }} (Seite {{ tagPage.pageNumber }} von {{ tagPage.totalPages }})"
 motto: ""
 source: ""
 ---
 
 <ul class="no-bullets">
-  {%- for post in collections.levity -%}
-    {%- set match = false -%}
-    {%- if post.data.tags -%}
-      {%- for t in post.data.tags -%}
-        {%- if (t | slug) == tagObj.slug -%}
-          {%- set match = true -%}
-        {%- endif -%}
-      {%- endfor -%}
-    {%- endif -%}
-    {%- if match -%}
-      <li><a href="{{ post.url | url}}"><h5>{{ post.data.title }}</h5></a>
-        <small class="text-muted">{{ post.date | readableDate }}</small>
-      </li>
-      {% excerpt post %} <a href="{{ post.url | url}}"> [weiter]</a>
-      <br>
-    {%- endif -%}
+  {%- for post in tagPage.posts -%}
+    <li><a href="{{ post.url | url}}"><h5>{{ post.data.title }}</h5></a>
+      <small class="text-muted">{{ post.date | readableDate }}</small>
+    </li>
+    {% excerpt post %} <a href="{{ post.url | url}}"> [weiter]</a>
+    <br>
   {%- endfor -%}
 </ul>
+
+<div>
+  {%- if tagPage.pageNumber > 1 -%}
+    <a href="{{ tagPage.pageNumber == 2 ? '/tags/' + tagPage.slug + '/' : '/tags/' + tagPage.slug + '/page/' + (tagPage.pageNumber - 1) + '/' }}">« Neuere</a>
+  {%- endif -%}
+  {%- if tagPage.pageNumber < tagPage.totalPages -%}
+    {%- if tagPage.pageNumber > 1 -%} | {%- endif -%}
+    <a href="{{ '/tags/' + tagPage.slug + '/page/' + (tagPage.pageNumber + 1) + '/' }}">Ältere »</a>
+  {%- endif -%}
+</div>
 
 <p><a href="/">Zurück zur Startseite</a></p>
 
