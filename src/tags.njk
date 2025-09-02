@@ -12,7 +12,15 @@ source: ""
 
 <ul class="no-bullets">
   {%- for post in collections.levity -%}
-    {%- if post.data.tags and (post.data.tags | join(',') | lower | contains(tagObj.name | lower)) -%}
+    {%- set match = false -%}
+    {%- if post.data.tags -%}
+      {%- for t in post.data.tags -%}
+        {%- if (t | slug) == tagObj.slug -%}
+          {%- set match = true -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+    {%- if match -%}
       <li><a href="{{ post.url | url}}"><h5>{{ post.data.title }}</h5></a>
         <small class="text-muted">{{ post.date | readableDate }}</small>
       </li>
