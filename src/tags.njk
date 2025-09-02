@@ -5,7 +5,7 @@ pagination:
   size: 1
   alias: tagPage
 eleventyComputed:
-  permalink: "{{ tagPage.permalink }}"
+  permalink: "{% if tagPage.pageNumber == 1 %}/tags/{{ tagPage.slug }}/{% else %}/tags/{{ tagPage.slug }}/page/{{ tagPage.pageNumber }}/{% endif %}"
   title: "Letzte {{ tagPage.tag }} Posts (Seite {{ tagPage.pageNumber }} von {{ tagPage.totalPages }})"
 motto: ""
 source: ""
