@@ -11,3 +11,9 @@
   REPO = "Insert the path to your repository (e.g. your-username/eleventy-blog-staticman)"
   RECAPTCHA_SITE_KEY = "Insert the site key for reCaptcha (optional)"
   RECAPTCHA_SITE_SECRET = "Insert the site secret for reCaptcha (optional)"
+
+[[redirects]]
+  from = "/tags/*"
+  to = "/tags/:splat/index.html"
+  status = 200
+  force = true
