@@ -4,8 +4,8 @@ pagination:
   data: collections.tagNameList
   size: 1
   alias: tag
+permalink: "/tags/{{ tag | slugify }}/"
 eleventyComputed:
-  permalink: "/tags/{{ tag | slugify }}/"
   title: "Letzte {{ tag }} Posts"
 motto: ""
 source: ""
