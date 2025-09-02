@@ -74,6 +74,17 @@ module.exports = function (eleventyConfig) {
     `https://liedzeit.com${url}`
     );
 
+    // Unified slugify filter to match tag page slugs
+    function toSlug(value) {
+      return String(value || "")
+        .normalize("NFKD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-+|-+$/g, "");
+    }
+    eleventyConfig.addFilter('slugify', toSlug);
+
 
 
 
@@ -105,14 +116,7 @@ module.exports = function (eleventyConfig) {
 
     // Build a list of unique tags by slug (case-insensitive), return objects { name, slug }
     eleventyConfig.addCollection("tagList", function(collection) {
-      function toSlug(value) {
-        return String(value || "")
-          .normalize("NFKD")
-          .replace(/[\u0300-\u036f]/g, "")
-          .toLowerCase()
-          .replace(/[^a-z0-9]+/g, "-")
-          .replace(/^-+|-+$/g, "");
-      }
+      // toSlug function defined above
 
       const slugToName = new Map();
       collection.getAll().forEach(item => {
