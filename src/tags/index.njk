@@ -1,0 +1,15 @@
+---
+layout: layouts/evensimpler.njk
+title: "Tags"
+motto: ""
+source: ""
+permalink: "/tags/"
+---
+
+<ul class="no-bullets">
+  {%- for tagObj in collections.tagList -%}
+    <li><a href="/tags/{{ (tagObj.slug or (tagObj | slugify)) }}/">{{ tagObj.name or tagObj }}</a></li>
+  {%- endfor -%}
+</ul>
+
+

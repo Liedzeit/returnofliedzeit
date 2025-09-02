@@ -132,6 +132,22 @@ module.exports = function (eleventyConfig) {
       return Array.from(slugToName.entries()).map(([slug, name]) => ({ name, slug }));
     });
 
+    // Simpler: unique tag NAMES list, deduped by slug
+    eleventyConfig.addCollection("tagNameList", function(collection) {
+      const slugToName = new Map();
+      collection.getAll().forEach(function(item){
+        const itemTags = (item.data && item.data.tags) ? item.data.tags : [];
+        itemTags.forEach(function(tag){
+          if (tag === "all" || tag === "nav") return;
+          const slug = toSlug(tag);
+          if (!slugToName.has(slug)) {
+            slugToName.set(slug, String(tag));
+          }
+        });
+      });
+      return Array.from(slugToName.values());
+    });
+
     // Build paginated pages per tag with sorted posts
     eleventyConfig.addCollection("tagPages", function(collection) {
       const first = collection.getAll()[0] || {};
