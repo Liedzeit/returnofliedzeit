@@ -4,8 +4,9 @@ pagination:
   data: collections.tagPages
   size: 1
   alias: tagPage
-permalink: "{{ tagPage.permalink }}"
-title: "Beiträge mit Tag: {{ tagPage.tag }} (Seite {{ tagPage.pageNumber }} von {{ tagPage.totalPages }})"
+eleventyComputed:
+  permalink: "{{ tagPage.permalink }}"
+  title: "Letzte {{ tagPage.tag }} Posts (Seite {{ tagPage.pageNumber }} von {{ tagPage.totalPages }})"
 motto: ""
 source: ""
 ---
@@ -16,7 +17,7 @@ source: ""
       <small class="text-muted">{{ post.date | readableDate }}</small>
     </li>
     {% excerpt post %} <a href="{{ post.url | url}}"> [weiter]</a>
-    <br>
+   
   {%- endfor -%}
 </ul>
 
