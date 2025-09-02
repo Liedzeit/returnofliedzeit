@@ -1,29 +1,38 @@
 ---
 layout: layouts/evensimpler.njk
 pagination:
-  data: collections.tagNameList
+  data: collections.tagPages
   size: 1
-  alias: tag
-permalink: "/tags/{{ tag | slugify }}/"
+  alias: tagPage
 eleventyComputed:
-  title: "Letzte {{ tag }} Posts"
+  permalink: "{{ tagPage.permalink }}"
+  title: "Letzte {{ tagPage.tag }} Posts (Seite {{ tagPage.pageNumber }} von {{ tagPage.totalPages }})"
 motto: ""
 source: ""
 ---
 
 <ul class="no-bullets">
-  {%- set posts = collections[tag] | reverse -%}
-  {%- for post in posts -%}
-    {%- if post.data.tags and ("levity" in post.data.tags) -%}
-      <li><a href="{{ post.url | url}}"><h5>{{ post.data.title }}</h5></a>
-        <small class="text-muted">{{ post.date | readableDate }}</small>
-      </li>
-      {% excerpt post %} <a href="{{ post.url | url}}"> [weiter]</a>
-    {%- endif -%}
+  {%- for post in tagPage.posts -%}
+    <li><a href="{{ post.url | url}}"><h5>{{ post.data.title }}</h5></a>
+      <small class="text-muted">{{ post.date | readableDate }}</small>
+    </li>
+    {% excerpt post %} <a href="{{ post.url | url}}"> [weiter]</a>
   {%- endfor -%}
 </ul>
 
-<!-- All posts for the tag are listed on a single page; pagination can be re-added later. -->
+<div>
+  {%- if tagPage.pageNumber > 1 -%}
+    {%- if tagPage.pageNumber == 2 -%}
+      <a href="/tags/{{ tagPage.slug }}/">« Neuere</a>
+    {%- else -%}
+      <a href="/tags/{{ tagPage.slug }}/page/{{ tagPage.pageNumber - 1 }}/">« Neuere</a>
+    {%- endif -%}
+  {%- endif -%}
+  {%- if tagPage.pageNumber < tagPage.totalPages -%}
+    {%- if tagPage.pageNumber > 1 -%} | {%- endif -%}
+    <a href="/tags/{{ tagPage.slug }}/page/{{ tagPage.pageNumber + 1 }}/">Ältere »</a>
+  {%- endif -%}
+</div>
 
 <p><a href="/">Zurück zur Startseite</a></p>
 
