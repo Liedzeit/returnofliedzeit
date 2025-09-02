@@ -17,6 +17,7 @@ source: ""
       <small class="text-muted">{{ post.date | readableDate }}</small>
     </li>
     {% excerpt post %} <a href="{{ post.url | url}}"> [weiter]</a>
+    
   {%- endfor -%}
 </ul>
 
