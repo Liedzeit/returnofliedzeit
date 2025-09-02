@@ -22,11 +22,15 @@ source: ""
 
 <div>
   {%- if tagPage.pageNumber > 1 -%}
-    <a href="{{ tagPage.pageNumber == 2 ? '/tags/' + tagPage.slug + '/' : '/tags/' + tagPage.slug + '/page/' + (tagPage.pageNumber - 1) + '/' }}">« Neuere</a>
+    {%- if tagPage.pageNumber == 2 -%}
+      <a href="/tags/{{ tagPage.slug }}/">« Neuere</a>
+    {%- else -%}
+      <a href="/tags/{{ tagPage.slug }}/page/{{ tagPage.pageNumber - 1 }}/">« Neuere</a>
+    {%- endif -%}
   {%- endif -%}
   {%- if tagPage.pageNumber < tagPage.totalPages -%}
     {%- if tagPage.pageNumber > 1 -%} | {%- endif -%}
-    <a href="{{ '/tags/' + tagPage.slug + '/page/' + (tagPage.pageNumber + 1) + '/' }}">Ältere »</a>
+    <a href="/tags/{{ tagPage.slug }}/page/{{ tagPage.pageNumber + 1 }}/">Ältere »</a>
   {%- endif -%}
 </div>
 
