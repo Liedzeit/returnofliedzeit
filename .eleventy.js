@@ -161,23 +161,7 @@ module.exports = function (eleventyConfig) {
         return sortOrder === "asc" ? da - db : db - da;
       }
 
-      function chunk(array, size) {
-        const chunks = [];
-        for (let i = 0; i < array.length; i += size) {
-          chunks.push(array.slice(i, i + size));
-        }
-        return chunks;
-      }
-
       // Build tag list locally: array of { name, slug }
-      function toSlug(value) {
-        return String(value || "")
-          .normalize("NFKD")
-          .replace(/[\u0300-\u036f]/g, "")
-          .toLowerCase()
-          .replace(/[^a-z0-9]+/g, "-")
-          .replace(/^-+|-+$/g, "");
-      }
       const slugToName = new Map();
       collection.getAll().forEach(item => {
         const itemTags = (item.data && item.data.tags) ? item.data.tags : [];
@@ -238,6 +222,14 @@ module.exports = function (eleventyConfig) {
       return pages;
     });
 
+    // Helper function for chunking arrays
+    function chunk(array, size) {
+      const chunks = [];
+      for (let i = 0; i < array.length; i += size) {
+        chunks.push(array.slice(i, i + size));
+      }
+      return chunks;
+    }
 
 
     eleventyConfig.addPassthroughCopy("assets");
