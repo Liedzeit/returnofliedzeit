@@ -161,6 +161,14 @@ module.exports = function (eleventyConfig) {
         return sortOrder === "asc" ? da - db : db - da;
       }
 
+      function chunk(array, size) {
+        const chunks = [];
+        for (let i = 0; i < array.length; i += size) {
+          chunks.push(array.slice(i, i + size));
+        }
+        return chunks;
+      }
+
       // Build tag list locally: array of { name, slug }
       const slugToName = new Map();
       collection.getAll().forEach(item => {
@@ -221,15 +229,6 @@ module.exports = function (eleventyConfig) {
 
       return pages;
     });
-
-    // Helper function for chunking arrays
-    function chunk(array, size) {
-      const chunks = [];
-      for (let i = 0; i < array.length; i += size) {
-        chunks.push(array.slice(i, i + size));
-      }
-      return chunks;
-    }
 
 
     eleventyConfig.addPassthroughCopy("assets");

@@ -1,40 +1,39 @@
 ---
 layout: layouts/evensimpler.njk
 pagination:
-  data: collections.tagNameList
+  data: collections.tagPages
   size: 1
-  alias: tag
-permalink: "/tags/{{ tag | slugify }}/{% if pagination.pageNumber > 1 %}page/{{ pagination.pageNumber }}/{% endif %}"
+  alias: tagPage
+permalink: "{{ tagPage.permalink }}"
 eleventyComputed:
-  title: "Letzte {{ tag }} Posts{% if pagination.pageNumber > 1 %} (Seite {{ pagination.pageNumber }}){% endif %}"
+  title: "Letzte {{ tagPage.tag }} Posts{% if tagPage.pageNumber > 1 %} (Seite {{ tagPage.pageNumber }} von {{ tagPage.totalPages }}){% endif %}"
 motto: ""
 source: ""
 ---
 
 <ul class="no-bullets">
-  {%- set posts = collections[tag] | reverse -%}
-  {%- set startIndex = (pagination.pageNumber - 1) * 20 -%}
-  {%- set endIndex = startIndex + 20 -%}
-  {%- set pagePosts = posts.slice(startIndex, endIndex) -%}
-  
-  {%- for post in pagePosts -%}
-    {%- if post.data.tags and ("levity" in post.data.tags) -%}
-      <li><a href="{{ post.url | url}}"><h5>{{ post.data.title }}</h5></a>
-        <small class="text-muted">{{ post.date | readableDate }}</small>
-      </li>
-      {% excerpt post %} <a href="{{ post.url | url}}"> [weiter]</a>
-    {%- endif -%}
+  {%- for post in tagPage.posts -%}
+    <li><a href="{{ post.url | url}}"><h5>{{ post.data.title }}</h5></a>
+      <small class="text-muted">{{ post.date | readableDate }}</small>
+    </li>
+    {% excerpt post %} <a href="{{ post.url | url}}"> [weiter]</a>
   {%- endfor -%}
 </ul>
 
-{%- if pagination.href.previous or pagination.href.next -%}
+{%- if tagPage.totalPages > 1 -%}
 <div>
-  {%- if pagination.href.previous -%}
-    <a href="{{ pagination.href.previous }}">« Neuere</a>
+  {%- if tagPage.pageNumber > 1 -%}
+    {%- if tagPage.pageNumber == 2 -%}
+      <a href="/tags/{{ tagPage.slug }}/">« Neuere</a>
+    {%- else -%}
+      <a href="/tags/{{ tagPage.slug }}/page/{{ tagPage.pageNumber - 1 }}/">« Neuere</a>
+    {%- endif -%}
   {%- endif -%}
-  {%- if pagination.href.previous and pagination.href.next -%} | {%- endif -%}
-  {%- if pagination.href.next -%}
-    <a href="{{ pagination.href.next }}">Ältere »</a>
+  
+  {%- if tagPage.pageNumber > 1 and tagPage.pageNumber < tagPage.totalPages -%} | {%- endif -%}
+  
+  {%- if tagPage.pageNumber < tagPage.totalPages -%}
+    <a href="/tags/{{ tagPage.slug }}/page/{{ tagPage.pageNumber + 1 }}/">Ältere »</a>
   {%- endif -%}
 </div>
 {%- endif -%}
