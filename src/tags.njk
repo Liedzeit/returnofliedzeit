@@ -5,8 +5,9 @@ pagination:
   size: 1
   alias: tagPage
 permalink: "{{ tagPage.permalink }}"
+backgroundImage: "/assets/img/typewriter.png"
 eleventyComputed:
-  title: "Letzte {{ tagPage.tag }} Posts{% if tagPage.pageNumber > 1 %} (Seite {{ tagPage.pageNumber }} von {{ tagPage.totalPages }}){% endif %}"
+  title: "Letzte {{ tagPage.tag }} Levities{% if tagPage.pageNumber > 1 %} (Seite {{ tagPage.pageNumber }} von {{ tagPage.totalPages }}){% endif %}"
 motto: ""
 source: ""
 ---
