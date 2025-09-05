@@ -1,6 +1,6 @@
 ---
 title: "Vibe-Coding"
-date: "2025-08-05"
+date: "2025-09-05"
 tags: ["levity","code"]
 keywords: [""]
 ---
@@ -20,9 +20,9 @@ Und schließlich habe ich Cursor auf eleventy losgelassen, also der Software, di
 
 Vor ein paar Wochen habe ich den Versuch unternommen, die Tags (bzw. Kategorien, die jeder Eintrag hat, picpuzzle, cinema, havelock etc.) auf Klick reagieren zu lassen. Es sollte ein Liste mit den Blockeinträgen mit dieser Kategorie erzeugt werden. Ich bin soweit gekommen, dass die Tags einen Link enthalten gekommen. Dann hat mich der Mut verlassen. Das hätte mit Wiedereinarbeitung bestimmt zwei Wochen gedauert. So ebenfalls nur ein paar Sekunden. 
 
-Aber dann. Cursor schlug vor, pagination einzubauen, also nur jeweils x Beiträge auf einer Seite zu listen und Vorwärts- und Rückwärtsbuttons. Klar wollte ich das, und es sollte von der Gegenwart in die Vergangenheit gehen. Und das hat nun drei Stunden gedauert bis das funtioniert hat. Immer stimmte irgendwas nicht. Ich kam mir wie ein Idiot vor. Code von Cursor übernehmen, Projekt deployen, testen, Fehlermeldung kopieren, an Cursor weitergeben. Und nächste Runde. Das ist die Zukunft des Programmierens. Ein Elend. Zwischendurch war ich schon fast soweit, selbst nach dem Fehler zu suchen, aber das wollte ich auch nicht.
+Aber dann. Cursor schlug vor, pagination einzubauen, also nur jeweils x Beiträge auf einer Seite zu listen und Vorwärts- und Rückwärtsbuttons. Klar wollte ich das, und es sollte von der Gegenwart in die Vergangenheit gehen. Und das hat nun drei Stunden gedauert bis das funtioniert hat. Immer stimmte irgendwas nicht. Ich kam mir wie ein Idiot vor. Code von Cursor übernehmen, Projekt deployen, testen, Fehlermeldung kopieren, an Cursor weitergeben. Und nächste Runde. Das ist die Zukunft des Programmierens. Ein Elend. Zwischendurch war ich schon fast soweit, selbst nach dem Fehler zu suchen, aber das wollte ich auch nicht. Es gab ein paar Syntax-Probleme, z.B. funtioniert offenbar Chaining nicht in eleventy, aber im Wesentlichen stimmte leider die Logik nicht. Und wenn Cursor mich auffordert, ihn kurz mal lokal einen Server zum Testen aufsetzen zu lassen, ist das schon sehr spooky.
 
-Fazit: Wie alle neuen Tools ist das wunderbar, aber auch erschreckend. Und eigentlich bin ich froh, dass mich kein Arbeitgeben zwingen kann, damit zu „arbeiten“.
+Fazit: Wie alle neuen Tools ist das wunderbar, aber auch erschreckend. Und eigentlich bin ich froh, dass mich kein Arbeitgeben zwingen kann, damit zu „arbeiten“. Wenn ich früher bei Stack Overflow nach Hilfe suchte, kam mir das schon immer unsportlich vor. Aber das heute geht schon in Richtung entfremdete Arbeit.
 
-Aber für mich werde ich es nutzen. Mal so eine App from scratch als nächsten. Mal sehen, wo das hinführt.
+Aber für mich werde ich es nutzen. Eine App from scratch als nächstes. Mal sehen, wo das hinführt.
 
