@@ -16,3 +16,6 @@ Aber okay. Crime of the Century, Ain’t Nobody but Me, From Now On sind einige 
 Es war mir damals nicht ganz klar, ob ich Supertramp überhaupt mögen durfte. War das nicht eigentlich eher eine Mädchen-Gruppe? (Hide in you shell!) Musste man sich nicht eigentlich schämen, Dreamer toll zu finden. 
 
 Und kaum konnte ich mannhaft zu meiner Liebe zu der Gruppe stehen, brachten sie *Breakfast in America* heraus. Womit der künstlerische Ausverkauf begann. Danach habe ich sie mit Mißachtung bestraft. Aber just gestern habe ich mir dann auf dem Flohmarkt doch noch eine Platte von ihnen gekauft: *Famous Last Words*. Noch nicht gehört. Aber da ist das schreckliche *It’s raining again* drauf. Aber vielleicht gefällt mir die Platte ja doch. Vielleicht gerade eines der Davies-Stücke: *Waiting So Long*?
+
+
+-- Doch, doch. Herr von Dohnányi und Horst Krause werden hier nicht gewürdigt. Krause kannte ich nicht einmal, wenn ich nach der Tagesschau gehe, war er mindestens so bedeutend wie König Charles III. 
