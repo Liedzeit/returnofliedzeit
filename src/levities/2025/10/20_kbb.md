@@ -5,7 +5,7 @@ tags: ["levity", "concert"]
 keywords: ["Ludwig van Beethoven","Georges Bizet"]
 backgroundImage: "/assets/img/orchester.png"
 ---
-Und noch einmal Klarinetten. Zuerst gab es den Coriolan von Beethoven zur Einstimmung und am Ende Bizet (aber nicht Bolero) zur Belohnung. 
+Und noch einmal Klarinetten. Zuerst gab es den Coriolan von Beethoven zur Einstimmung und am Ende Bizet zur Belohnung. 
 
 Dazwischen die Endrunde eines Klarinettenwettbewerbs. Vier Klarinettenspieler hatten es in die Endrunde geschafft (und zwei Alt-Klarinettisten). Und die spielten nun die Soloparts von vier Stücken, irgendwas von Vivaldi, den Rest weiß ich nicht mehr, aber alles sehr schön.
 
