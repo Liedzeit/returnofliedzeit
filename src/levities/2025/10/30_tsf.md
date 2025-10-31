@@ -2,7 +2,7 @@
 title: "Die Sorglosschlafenden, die Frischaufgeblühten"
 date: "2025-10-30"
 tags: ["levity", "theater"]
-keywords: ["Christoph Marthaler","Alfons Yondraschek"]
+keywords: ["Christoph Marthaler","Alfons Yondraschek","Woody Allen"]
 ---
 In einer Ecke sehen wir einen Haufen kaputter Instrumente. Und sechs Menschen auf der Bühne. Die tun erstmal nichts. Dann murmeln sie irgendwelche Hölderlintexte, am besten hinter einem Tubakoffer, damit man sie nicht verstehen kann. Ab und zu bricht ein Möbelstück zusammen. 
 

@@ -2,7 +2,7 @@
 title: "Death Comes as the End"
 date: "2025-10-29"
 tags: ["levity", "obi"]
-keywords: ["Claudia Cardinale","John Searle,"Robert Redford"]
+keywords: ["Claudia Cardinale","John Searle","Robert Redford"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
 Kurz nach Urlaubsantritt starben prompt kurz hintereinander Robert Redford und Claudia Cardinale, die beide natürlich einen ausführlichen Nachruf verdient hätten. Pech gehabt. 
