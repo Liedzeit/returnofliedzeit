@@ -1,5 +1,5 @@
 ---
-title: "Death Comes as the End"
+title: "Death Comes at the End"
 date: "2025-10-29"
 tags: ["levity", "obi"]
 keywords: ["Claudia Cardinale","John Searle","Robert Redford"]
