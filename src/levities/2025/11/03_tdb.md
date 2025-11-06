@@ -2,14 +2,14 @@
 title: "Im Namen der Brise"
 date: "2025-11-03"
 tags: ["levity", "theater"]
-keywords: ["Christoph Marthaler","Fee Aviv Dubois"]
+keywords: ["Christoph Marthaler","Fee Aviv Dubois","Emily Dickinson"]
 ---
 Bei der letzten Theater-Besprechung vergaß ich zu erwähnen, dass es sich um den ersten Teil einer Trilologie handelte.
 Nun also der zweite Teil, bei dem es um Emily Dickinson gehen soll.
 
-Wieder sehen wir sechs Menschen auf der Bühne. Und sechs Papierkörbe. Fünf der Papierkörbe werden im Laufe der Vorstellung benutzt, Dinge werden reingeworfen, Schauspieler stellen ein Bein hinein, einer setzt sich rein. Ein Papierkorb bleibt unbenutzt. Was will uns Herr Marthaler damit sagen? 
+Wieder sehen wir sechs Menschen auf der Bühne. Und sechs Papierkörbe. Fünf der Papierkörbe werden im Laufe der Vorstellung benutzt, Dinge werden hineingelgt, Schauspieler stellen ein Bein hinein, einer setzt sich rein. Ein Papierkorb bleibt unbenutzt. Was will uns Herr Marthaler damit sagen? 
 
-Es werden Dickinson-Texte so vorgetragen, dass man sie, zumindest akustisch, versteht, was ich schon einmal prima fand. ZWei Bahnschaffner in hübscher Uniform tragen, vermutlich aus Kontrastgründen, technische Bahntexte vor, über Bremsvorgänge zum Beispiel. Klavier wird auch gespielt.
+Es werden Dickinson-Texte so vorgetragen, dass man sie, zumindest akustisch, versteht, was ich schon einmal prima fand. Zwei Bahnschaffner in hübscher Uniform tragen, vermutlich aus Kontrastgründen, technische Bahntexte vor, über Bremsvorgänge zum Beispiel. Klavier wird auch gespielt.
 
 Bevor das ganze losgeht sitzt eine der Protagoninstinnen schon an einem Synthesizer und spielt so ungefähr alle 60 Sekunden eine Note. Wirklich schön.
 
