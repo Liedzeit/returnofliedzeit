@@ -11,7 +11,7 @@ Wieder sehen wir sechs Menschen auf der Bühne. Und sechs Papierkörbe. Fünf de
 
 Es werden Dickinson-Texte so vorgetragen, dass man sie, zumindest akustisch, versteht, was ich schon einmal prima fand. Zwei Bahnschaffner in hübscher Uniform tragen, vermutlich aus Kontrastgründen, technische Bahntexte vor, über Bremsvorgänge zum Beispiel. Klavier wird auch gespielt.
 
-Bevor das ganze losgeht sitzt eine der Protagoninstinnen schon an einem Synthesizer und spielt so ungefähr alle 60 Sekunden eine Note. Wirklich schön.
+Bevor das ganze losgeht sitzt eine der Protagonistinnen schon an einem Synthesizer und spielt so ungefähr alle 60 Sekunden eine Note. Wirklich schön.
 
 Viel Text hat sie nicht, und wenn sie spricht, kommt mir das eher unprofesionell vor, aber dafür darf sie schließlich auch richtig spielen und dazu singen. Und das absolut beste Stück war *Without Love*. Das kam mir sehr bekannt vor, ein 80er Dance-Track? Wenn sie das in einer Fußgängerzone spielen würde, hätte sie hundert Zuschauer und selbst ich könnte nicht umhin, zwei Euro in den Hut zu legen. So toll war das. Der Name der Frau, den ich mir merken will: Fee Aviv Dubois.
 
