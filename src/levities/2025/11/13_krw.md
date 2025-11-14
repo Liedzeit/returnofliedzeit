@@ -7,7 +7,7 @@ backgroundImage: "/assets/img/orchester.png"
 ---
 Der gesamten „Ring”, aber ohne die lästigen Gesangseinlagen.  Lorin Maazel hat sich die Mühe gemacht, die Orchesterpassagen aus den Wagner-Opern herauszudestillieren. Das klingt doch eigentlich wie eine prima Idee. 
 
-Ist es aber nicht. Zumindest nicht so, wie Teodor Currentzis es macht. Über 150 Musiker, darunter allein sechs Harfenistinnen, bilden das Orchester. Das hat natürlich eine beeindruckende Wucht. Aber irgendwie zeigt das auch, dass Wagners Musik nicht so viel hergibt, zumindest nicht im Vergleich mit Bruckner, den Currentzis uns zuletzt nahebrachte.
+Ist es aber nicht. Zumindest nicht so, wie Teodor Currentzis es macht. Über 150 Musiker, darunter allein sechs Harfenistinnen, bilden das Orchester. Das hat natürlich eine beeindruckende Wucht. Aber es zeigt sich, dass Wagners Musik nicht so viel hergibt, zumindest nicht im Vergleich mit Bruckner, den Currentzis uns zuletzt nahebrachte.
 
 Zwischendurch ist man immer kurz verzückt, aber dann auch wieder gelangweilt. In dem Programmheft wird Rossini (glaube ich) zitiert, der gesagt hat, Wagner hätte viele schöne Momente, aber leider auch viele öde Viertelstunden. Und so ist es. 
 
