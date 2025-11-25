@@ -7,13 +7,16 @@ backgroundImage: "/assets/img/cinema.png"
 ---
 Wenn nicht gerade Udo Kier von uns gegangen wäre, hätte ich mir diesen Film vermutlich eher nicht angesehen. So bin ich zumindest mal weit vorne und kenne nun einen Kandidaten für den ausländischen Oscar. Und Cannes-Gewinner (Regie, Kleber Mendonça Filho). Und es war, wenn ich mich nicht sehr täusche, mein erster Film auf Portugiesisch.
 
+<br/>
+
+<img  src="/assets/img/art/images_film_the-secret-agent.webp" style="width: 50%; height: 50%" alt="Geheimagent">
+
+<br/>
+<br/>
+
+
 Am Anfang sehen wir einen Mann, der sich als Agent herausstellen wird, Wagner Moura,  mit einem hübschen Käfer (dem Auto) an eine Tankstelle fahren. Da liegt seit Tagen ein Mann tot unter einem Pappdeckel, hat er nicht anders verdient, da er was klauen wollte und drum erschossen wurde. Die Polizei komme erst am Aschermittwoch. Bis dahin gibt es wichtigere Dinge zu tun. Dann ist sie doch da, aber nur um unseren Mann zu durchsuchen, und an Kohle zu kommen. Der coole Mann rückt aber nur ein paar Zigaretten heraus.
 
-<br/>
-
-<img  src="/assets/img/art/images_film_the-secret-agent.webp" alt="Geheimagent">
-
-<br/>
 
 
 
