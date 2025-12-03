@@ -1,6 +1,6 @@
 ---
 title: "Sie war ein Star"
-date: "2025-12-30"
+date: "2025-12-01"
 tags: ["levity", "obi"]
 keywords: ["Ingrid van Bergen"]
 backgroundImage: "/assets/img/grave.jpg"
