@@ -2,7 +2,7 @@
 title: "Lusitanien"
 date: "2025-12-02"
 tags: ["levity", "misc"]
-keywords: ["Asterix"]
+keywords: ["Asterix","Goscinny"]
 ---
 Asterix und Obelix besuchen Portugal. Soweit so gut (und insgesamt auch eher unnötig). Auf dem Weg dorthin, wird, wie die Tradition verlangt, das Schiff der Piraten versenkt.
 
