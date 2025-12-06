@@ -1,6 +1,6 @@
 ---
 title: "Fame-o-meter"
-date: "2025-12-02"
+date: "2025-12-06"
 tags: ["levity", "misc"]
 keywords: ["Frank Gehry","Udo Kier"]
 ---
@@ -12,7 +12,7 @@ Ich gehöre natürlich zur dritten Fraktion. Was ist Ruhm? Wenn beim Initialenra
 
 Sie ist von allen Sängern die neunzehntberühmteste, von den Sängerinnen steht sie auf Platz neun! 
 
-Frank Gehry steht auf Platz 4025 der berühmtesten Personen der Welt, Udo Kier auf Platz 10967. Unter den Architekten ist Gehry auf Platz 26 (vor ihm Otto Wagner, hinter ihm Karl Friedrich Schinkel). Santiago Calatrava? Platz 31. Auf Platz eins? Antonini Gaudi.
+Frank Gehry steht auf Platz 4025 der berühmtesten Personen der Welt, Udo Kier auf Platz 10967. Unter den Architekten ist Gehry auf Platz 26 (vor ihm Otto Wagner, hinter ihm Karl Friedrich Schinkel). Santiago Calatrava? Platz 31. Auf Platz eins? Antonini Gaudi!
 Zaha Hadid, als berühmteste Architektin steht auf Platz 17, noch vor Gropius und Frank Lloyd. Udo Kier rangiert auf Platz 602 von 13.578 Schauspielern. (Vor ihm Winona Ryder und Hardy Krüger, hinter ihm John Belushi und Klaus Maria Brandauer). Der berühmteste Schauspieler? Vielleicht nicht so überrraschend: Charlie Chaplin. Aber Platz zwei? Al Pacino. Dann Sylvester Stalone, dann Clint Eastwood, dann Marilyn Monroe.
 
 Okay. Und wer behauptet das alles? [Pantheon.world](https://pantheon.world/explore/rankings?show=people&years=-3501,2025)!
