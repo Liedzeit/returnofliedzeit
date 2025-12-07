@@ -18,7 +18,7 @@ Zaha Hadid, als berühmteste Architektin steht auf Platz 17, noch vor Gropius un
 Okay. Und wer behauptet das alles? [Pantheon.world](https://pantheon.world/explore/rankings?show=people&years=-3501,2025)!
 
 Die Seite habe ich neulich zufällig gefunden und seitdem mehr Zeit darin verbracht, als ich sollte. Unendlich faszinierend. 
-Was machen die? Sie benutzen (aktuell) die Daten von über 120.000 Menchen „to expose patterns of human collective memory“.
+Was machen die? Sie benutzen (aktuell) die Daten von über 120.000 Menschen „to expose patterns of human collective memory“.
 Um die Menschen zu vergleichen nutzen sie den Historical Popularity Index (HPI). Dabei werden fünf Komponenten berücksichtigt.
 Das Alter, die Anzahl der Wikipedia Sprachversionen, die Konzentration der Seitenaufrufe, die eine Biografie in verschiedenen Sprachen erhält (was immer das genau bedeutet),  die Stabilität der Seitenaufrufe über die Zeit und die Anzahl der nicht-englischen Seitenaufrufe dieser Biografie. Der letzte Punkt ist natürlich der interessanteste. Damit soll der dem Englisch-Bias von Wikipedia entgegengewirkt werden. Die Kriterien sind, wie die Betreiber selbst sagen ad-hoc. Aber die Ergebnisse sind zumindest in den meisten Fällen nicht gänzlich absurd. Ich würde noch die Länge der Wikipedia-Artikel berücksichtigen. Und es gibt selbstverständlich andere Kriterien als Wikipedia. Anzahl der Follower auf X oder Instagram würde einem einfallen. Aber dann wären noch lebende Celebrities im Vorteil. 
 
