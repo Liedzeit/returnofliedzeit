@@ -9,11 +9,13 @@ Mein Nikolausgeschenk, eine geheimnisvolle Aufführung in Lübeck. Sollte um sie
 <br/>  
 <img  src="/assets/img/art/wagner.webp" alt="wagner">
 <br/>  
+<br/>  
+
 Zum Glück ist Lübeck klein und so erreichten wir gerade noch rechtzeitig das Theater Lübeck. Wo Klaus Florian Vogt Lieder von Wagner in Begleitung von Jobst Schneiderat zum Besten gab. Singen kann der. Und das allerletzte Stück und die Zugabe fand ich richtig gut. Mein lieber Schwan. Ganz kurz sang er auch Mozart, aber nur um zu beweisen, dass Wagner viel lyrischer sei. Aber was hat das mit meinem Nikolaus zu tun?
 
 Zwischendurch ließ er sich durch Harald Schmidt interviewen. Oder, muss man vermutlich richtiger sagen, ließ er sich von Schmidt die Stichworte sagen, die ihm erlaubten, Anekdoten aus seinem Leben zu erzählen. Sehr launig. Der hat früher Horn in Hamburg geblasen, und war als Sänger ein Spätberufener. Einmal musste er in Bayreuth kurzfristig einspringen. Er saß aber in Barcelona. Der Flug nach Nürnburg wurde 
 kurzfristig gecancelled, also stattdessen nach Frankfurt, wo er um 17h ankam. Die Vorstellung ging um 16h los. Mit Privatflugzeug nach Bayreuth, und dann ohne Probe natürlich rechtzeitig (mit sehr verlängerter Pause) zum zweiten Akt. Den ersten musste ein "Cover" singen. So ist das, wenn man Star ist. Lohengrien, Parzival, Siegfried, Siegmund und wie sie alle heißen. Meistens mit Schwert, aber auch schon mal mit Revolver. (Ganz am Anfang seiner Karriere durfte er im Zarewitsch spielen, und zufällig lag die Platte, von Robert Stolz dirigiert, zum Verschenken in einem Plattenladen neben unserem Hotel. Auch sehr schön.)
 
-Nach der Pause durfte Harald eine kleine Soloeinlage machen. Mir hat das gut gefallen. Narzistisch, aber gut narzistisch.
+Nach der Pause durfte Harald eine kleine Soloeinlage machen. Mir hat das gut gefallen. Narzistisch, aber gut narzistisch. (Beide.)
 
 Theater Lübeck
