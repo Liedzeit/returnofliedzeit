@@ -3,6 +3,7 @@ title: "Wagner zu Dritt"
 date: "2025-12-12"
 tags: ["levity","concert"]
 keywords: ["Klaus Florian Vogt","Harald Schmidt","Jobst Schneiderat"]
+backgroundImage: "/assets/img/orchester.png"
 ---
 Mein Nikolausgeschenk, eine geheimnisvolle Aufführung in Lübeck. Sollte um sieben losgehen, und so standen wir um halb sieben vor der Tür der Musik- und Kongresshalle Lübeck. Aber außer uns nur ein paar einzelne Gestalten, die auf Nachfrage sagten, sie warteten auf 84 Samurai, oder so ähnlich.
 
@@ -18,4 +19,4 @@ kurzfristig gecancelled, also stattdessen nach Frankfurt, wo er um 17h ankam. Di
 
 Nach der Pause durfte Harald eine kleine Soloeinlage machen. Mir hat das gut gefallen. Narzisstisch, aber gut narzisstisch. (Beide.)
 
-Theater Lübeck
+9/10 Theater Lübeck
