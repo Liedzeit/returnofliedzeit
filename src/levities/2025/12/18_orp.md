@@ -11,6 +11,6 @@ Aber vom Hörensagen kennt man natürlich doch einen. Bekanntlich setzt sich ja 
 
 Andererseits, wenn ich mir so seine Filmographie ansehe, *Tunten lügen nicht* klingt sehr vielversprechend.
 
-Das einzige, was ich von dem Mann wusste, ist, dass er den armen Harpe und und den armen Alfred *geoutet* hat. Eine zutiefst widerwärtige Aktion.
+Das einzige, was ich von dem Mann wusste, ist, dass er den armen Harpe und den armen Alfred *geoutet* hat. Eine zutiefst widerwärtige Aktion.
 
 Und mir missfiel immer sein Name. Einer Henriette von Praunheim hätte ich unbedingt eine Chance gegeben.
