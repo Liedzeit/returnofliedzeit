@@ -1,9 +1,8 @@
 ---
 title: "Der Garten der Lüste"
 date: "2024-01-26"
-tags: ["levity"]
+tags: ["theater"]
 keywords: ["Philippe Quesne" ]
-backgroundImage: "/assets/img/grave.jpg"
 ---
 Der Garten der Lüste. Theater auf Kampnagel. Philippe Quesne / Vivarium Studio
 
