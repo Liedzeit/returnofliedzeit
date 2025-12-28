@@ -2,7 +2,7 @@
 title: "Vampire’s Mountain"
 date: "2025-12-24"
 tags: ["levity", "theater"]
-keywords: ["Philippe Quesne"]
+keywords: ["Philippe Quesne","Thomas Nagel","Lord Byron"]
 ---
 Letztes Jahr war *Der Garten der Lüste* das Theater-Highlight, und das sollte jetzt *Vampire’s Mountain* sein. 
 
