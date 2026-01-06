@@ -50,8 +50,9 @@ Enttäuschung des Jahres: Richard H. Thaler, Cass R. Sunstein – Nudge: Improvi
 
 
 Und bestes Wiedergelesenes...
-**Isaac Asimov** – *Adding a dimension: Seventeen Essays on the History of Science * 
+**Isaac Asimov** – *Adding a dimension: Seventeen Essays on the History of Science* 
+<br>
 
-Wieder kein schlechtes Jahr, diesmal wäre ich beinahe an meinen Rekord aus dem Jahre 1979 herangekommen, was die Anzahl der gelesenen Bücher betrifft. Aber so richtig Umwerfendes war wieder nicht dabei. Das Alter?
+Wieder kein schlechtes Jahr. Diesmal wäre ich beinahe an meinen Rekord aus dem Jahre 1979 herangekommen, was die Anzahl der gelesenen Bücher betrifft. Aber so richtig Umwerfendes war wieder nicht dabei. Das Alter?
 
 177/44.707
