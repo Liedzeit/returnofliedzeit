@@ -9,7 +9,7 @@ Es gab eine Zeit, als ich jeden Tag einen Dilbert las, weil ein Kollege, der gro
 
 Ich habe mich immer mit dem alten Wally identifiziert. An einen erinnere ich mich, wo der sarkastaisch fragt, wie es wohl möglich sein könne, dass es etwas ohne Kabel eine Wirkung haben könne, Magie? Und man ihm erklärt, dass das Wi-Fi genannt würde. Stimmt, das ist so etwas, das es nicht geben *kann*.
 
-Der Chef fragt ihn, wann denn endlich die Software fertig ist und er antwortet: Nächste Woche. Das, sagt der Cheft, sagst du seit sechs Wochen. Was bringt dich dazu zu glauben, dass ich dir das jetzt abnehme, und er sagt: Die letzten sechs Wochen? So geht das zu.
+Der Chef fragt ihn, wann denn endlich die Software fertig ist, und er antwortet: Nächste Woche. Das, sagt der Cheft, sagst du seit sechs Wochen. Was bringt dich dazu zu glauben, dass ich dir das jetzt abnehme? Und er sagt: Die letzten sechs Wochen? So geht das zu in der IT.
 
 Auf dem Höhepunkt wurde Dilbert in 2000 Zeitungen veröffentlicht. Das ist Peanuts- und Garfield-Liga. Mehr geht nicht. Und ich habe sogar eines der Bücher von Scott Adams gelesen.
 
