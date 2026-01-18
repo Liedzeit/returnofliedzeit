@@ -458,7 +458,24 @@ const cracks = [
       "cracking": "Pull over, Fährmann über Bord! Das Boot ist eh' schon weg.",
       "cracker": "Schobert & Black",
       "language": "German"
+    },
+    {
+      "cracking": "We are born crying, live complaining, and die disappointed.",
+      "cracker": "Thomas Fuller",
+      "language": "English"
+    },
+    {
+      "cracking": "Das Schlimmste ist, wenn man sich Schurken gegenüber ins Unrecht setzt.",
+      "cracker": "Ernst Jünger",
+      "language": "German"
+    },
+    {
+      "cracking": "A little inaccuracy sometimes saves tons of explanation.",
+      "cracker": "Saki",
+      "language": "English"
     }
+    
+    
     
 
 
