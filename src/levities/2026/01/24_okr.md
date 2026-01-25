@@ -1,6 +1,6 @@
 ---
 title: "Zok roarr wumm"
-date: "2026-01-21"
+date: "2026-01-24"
 tags: ["levity", "obi"]
 keywords: ["Karl Riha","Andreas Platthaus"]
 backgroundImage: "/assets/img/grave.jpg"
