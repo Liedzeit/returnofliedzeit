@@ -2,7 +2,7 @@
 title: "Tomorrow"
 date: "2026-02-19"
 tags: ["levity", "obi"]
-keywords: ["Robert Duvall","Hitchcock"]
+keywords: ["Robert Duvall","Hitchcock","Olga Bellin","Sarah Palin","Al Pacino"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
 Der Mann ist ja schon vor ein paar Tagen gestorben, aber erst gestern bin ich dazu gekommen, mir einen seiner Filme anzusehen.
@@ -15,12 +15,14 @@ Sich den Paten anzusehen, hätte ich so schlecht nicht gefunden, aber die DVD be
 Zum Glück dann Tomorrow gefunden.
 
 Robert Duvall spielt einen Farmer, der zu Beginn als Gewschworener eine Jury hängen lässt. Man denkt, 12 Geschworene für Arme. Ist es aber nicht.
-Dann wird im Rückblick seine Geschichte erzählt, noch langsamer als in Open Range, aber angemessen und wunderbar langsam. Der hockt in seiner ärmlichen Hütte und hört Frauengewinsel. Da liegt eine Frau vor der Hütte. Er holt sie herrein. Sie, schwanger, will sich eine Minute ausruhen, bleibt aber. Sie unterhalten sich. Man versteht sie gut, ihn so gut wie nicht. Jedenfalls nicht, was er sagt, was er sagen will, umso besser. Wir sind in den Südstaaten. Eine William Faulkner-Geschicht
+Dann wird im Rückblick seine Geschichte erzählt, noch langsamer als in Open Range, aber angemessen und wunderbar langsam. Der hockt in seiner ärmlichen Hütte und hört Frauengewinsel. Da liegt eine Frau vor der Hütte. Er holt sie herrein. Sie, schwanger, will sich eine Minute ausruhen, bleibt aber. Sie unterhalten sich. Man versteht sie gut, ihn so gut wie nicht. Jedenfalls nicht, was er sagt, was er sagen will, umso besser. Wir sind in den Südstaaten. Eine William Faulkner-Geschichte.
 
 Sie bleibt also, und bringt ihr Kind zur Welt. Sie ist verheiratet, aber heiratet ihn dann doch, um zu sterben, noch bevor er ihr das Kind in den Arm legen kann. Robert großartig, aber wenn wir schon einmal beim Rühmen sind, sie, Olga Bellin, noch besser.
 
 Und was hat das jetzt mit der Eingangsszene zu tun?
 
 Solltet ihr euch ansehen. 
+
+Übrigens heißt die Frau Sarah. Und Duvall fand Sarah Palin toll. Vielleicht war er doch nicht so helle. Beim Paten III war er nicht dabei, weil er die Hälfte der Gage von Al Pacino haben wollte. Die Zeitungen stellen das so hin, als sei das ein Zeichen von Bescheidenheit gewesen. War er halb so gut wie Al Pacino? Natürlich nicht.
 
 YouTube 9/10
