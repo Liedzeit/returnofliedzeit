@@ -13,4 +13,4 @@ Danach wurde es zumindest bunter. Und es gab Trump-Klamauk, mit dem man offenkun
 
 In der Pause liefen die Zombies durch den Saal. Ein genialer Inszenierungseinfall von Tobias Kratzer.
 
-Hamburger Oper
+Staatsoper Hamburg
