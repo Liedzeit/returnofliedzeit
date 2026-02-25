@@ -4,7 +4,7 @@ date: "2026-02-25"
 tags: ["levity", "misc"]
 keywords: ["Peter Alexander","Franz Lehar","Pandora"]
 ---
-Gestern gab es wieder einmal ein Kneipenquiz, und mit dem bewährten Team konnten wir wieder den ersten Platz erreichen. War aber ein hartes Stück Arbeit. In einer Runde gab es 10 österreichische Lieder, die kurz angespielt wurden. Außer den Stücken von Peter Alexander und Falco hätten das für mich genausogut Stücke von Melmac, oder Pandora sein können. Aber das Team kannte ein paar der anderen Stücke doch. 
+Gestern gab es wieder einmal ein Kneipenquiz, und mit dem bewährten Team konnten wir wieder den ersten Platz erreichen. War aber ein hartes Stück Arbeit. In einer Runde gab es 10 österreichische Lieder, die kurz angespielt wurden. Außer den Stücken von Peter Alexander und Falco hätten das für mich genausogut Stücke von Melmac oder Pandora sein können. Aber das Team kannte ein paar der anderen Stücke doch. 
 
 Pandora war später einmal die richtige Antwort, hätte ich aktiv nicht gewusst, wenn ich nicht zufällig am Nachmittag in einem Reiseführer von Zhangjiajie gelesen hätte, das die Insparation zu dem Avatarplaneten war.
 
