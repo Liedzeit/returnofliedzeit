@@ -12,6 +12,8 @@ console.log("eleventy----")
 
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("src/files/HDWFO.pdf");
+
   let markdownIt = require("markdown-it");
   let markdownfootnote = require("markdown-it-footnote");
   let options = {
