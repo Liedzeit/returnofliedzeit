@@ -1,6 +1,6 @@
 ---
 title: "Dept. Strange Coincidences"
-date: "2024-02-26"
+date: "2026-02-26"
 tags: ["levity","misc"]
 keywords: ["Pandora"]
 ---
