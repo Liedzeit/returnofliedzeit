@@ -8,7 +8,7 @@ Und schon wieder Philippe Quesne. Diesmal treffen wir ein paar Menschen in einer
 
 Bei Monstern bin ich mir schon nicht mehr so sicher, denn in einer Ecke hocken ein paar Gestalten mit einer Decke über dem Körper. Denkt man zumindest. Und die ganze Zeit versuchte ich die bei einer Bewegung zu ertappen. War dann auch so, aber vielleicht auch nicht. Eine der Schauspielerinnen mischte sich unter sie. Und dann bewegten sie sich doch noch. Mechanische Gebilde?
 
-Es wurde Französisch gesprochen, und ich konnte sogar etwas verstehen. Vom Russischen nicht so. Und die Kunst? Dazu gehörte unter Linolium zu schlagen. Ganz begeistert war ich nicht, D. dagegen vollkommen, und darum nehme ich an, dass das eine gute Veranstaltung war.
+Es wurde Französisch gesprochen, und ich konnte sogar etwas verstehen. Vom Russischen nicht so. Und die Kunst? Dazu gehörte unter Linoleum zu schlafen. Ganz begeistert war ich nicht, D. dagegen vollkommen, und darum nehme ich an, dass das eine gute Veranstaltung war.
 
 Kampnagel
 
