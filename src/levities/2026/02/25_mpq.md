@@ -12,5 +12,5 @@ In einer Runde Allgemeinbildung hatten wir erstmals volle Punktzahl, war aber au
 
 Ein Runde Olympia war auch dabei, wobei es u.a. Francesca Lollobrigida zu erraten galt, was mit Verweis auf die Großtante machbar war. Aber wie hieß der erste Schweizer Gewinner? Oder welcher Mann von Adel war früher Bobfahrer? Zum Glück haben wir einen echten Sportcrack im Team. D. wusste, dass das Hermelin Maskottchen war. 
 
-In einer witzigen Runde sollten deutsche Lieder anhand der Texte erkannt werden, die allerdings über vier oder fünf Sprachen (eine obsuker als die nächste) hin und her übersetzt waren. Mensch war einfach, Über den Wolken auch, aber was mich besonders gefreut hat, war, dass mir in letzter Sekunde Auf der Reeperbahn nacht um halb eins einfiel. Treu bis zehn gab es da als Textfetzen, der mir bekannt vorkam.
+In einer witzigen Runde sollten deutsche Lieder anhand der Texte erkannt werden, die allerdings über vier oder fünf Sprachen (eine obsuker als die nächste) hin und her übersetzt waren. Mensch war einfach, Über den Wolken auch, aber was mich besonders gefreut hat, war, dass mir in letzter Sekunde Auf der Reeperbahn nachts um halb eins einfiel. Treu bis zehn gab es da als Textfetzen, der mir bekannt vorkam.
 
