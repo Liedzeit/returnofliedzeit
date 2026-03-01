@@ -22,6 +22,8 @@ backgroundImage: "/assets/img/grave.jpg"
 <li>Oh! Carol, I'm so in love with you</li>
 </ul>
 
+<br>
+<br>
 Das Lied handelt bekanntlich von Carol King, und die hat sich mit *Oh! Neil* revangiert. Und sonst? *Breaking up is hard to do* und mein Lieblingslied *The Immingrant*. 
 
 Guter Mann.
