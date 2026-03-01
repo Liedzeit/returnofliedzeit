@@ -24,7 +24,7 @@ backgroundImage: "/assets/img/grave.jpg"
 
 <br>
 <br>
-Das Lied handelt bekanntlich von Carol King, und die hat sich mit *Oh! Neil* revangiert. Und sonst? *Breaking up is hard to do* und mein Lieblingslied *The Immingrant*. 
+Das Lied handelt bekanntlich von Carol King, und die hat sich mit <i>Oh! Neil</i> revangiert. Und sonst? *Breaking up is hard to do* und mein Lieblingslied <i>The Immingrant</i>. 
 
 Guter Mann.
 
