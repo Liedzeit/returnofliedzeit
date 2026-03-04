@@ -15,4 +15,6 @@ Etwas viel. Und irgendwann dachte ich mir, wenn schon eine Katastrophe nach der 
 
 Als Dylan hätte er, Chalamet meine ich, den Oscar verdient gehabt. Hier war er gut, aber nicht gut genug.
 
+Der Film spielt also in den 50er Jahren und das bedeutet erfreulicherweise, dass wir nicht fortwährend dem f-Wort ausgesetzt sind. Dafür ist zwischendurch davon die Rede, dass was in der DNA ist. War mir peinlicherweise nicht aufgefallen. Aber das reicht schon, um bei den Oscars durchzufallen.
+
 8/10 Abaton
