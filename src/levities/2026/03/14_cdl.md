@@ -5,7 +5,7 @@ tags: ["levity", "cinema"]
 keywords: ["Senta Berger", "Simon Verhoeven","Bruno Alexander", "Joachim Meyerhoff","Michael Wittenborn","Tom Schilling"]
 backgroundImage: "/assets/img/cinema.png"
 ---
-Muss man das Buch von Joachim Meyerhoff verfilmen? Nicht undbedingt, aber wenn man es tut, dann so wie Simon Verhoeven hier. 
+Muss man das Buch von Joachim Meyerhoff verfilmen? Nicht unbedingt, aber wenn man es tut, dann so wie Simon Verhoeven hier. 
 Ein echtes Luxusproblem stellt sich, da ich nicht weiß, ob ich das Drehbuch und Regie oder die Darsteller mehr loben soll.
 
 Senta Berger als gurgelnde Oma ist schon einmal so gut wie nie. Den Enkel Lieberling zu nennen, ohne dass es albern klingt, macht ihr so schnell niemand nach. Aber der Opa, Michael Wittenborn, ist fast noch besser. In einer Szene, herrscht er Bruno/Joachim an, er solle nicht nur immer beobachten, sondern zuhören und verstehen und wirft ihn aus dem Krankenzimmer. 
