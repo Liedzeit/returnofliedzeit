@@ -2,10 +2,10 @@
 title: "Oscars 2026"
 date: "2025-03-16"
 tags: ["levity", "oscar"]
-keywords: ["Autumn Durald Arkapaw","Timothée Chalamet"]
+keywords: ["Autumn Durald Arkapaw","Timothée Chalamet","Conan o'Brien","Kimmel"]
 backgroundImage: "/assets/img/cinema.png"
 ---
-Kimmel war wieder dabei, durfte aber nur die Dokumentationen präsentieren. Und da wegen Müdigkeit im echten und im übertragenen Sinn ich diesmal nur die zweite Hälfte gesehen habe, kann ich nicht sagen wie der Eröffnungsmonolog von Conan o'Brien war. Da ich den aber nicht so gut leiden kann, ist schwer vorstellbar etwas verpasst zu haben.
+Kimmel war wieder dabei, durfte aber nur die Dokumentationen präsentieren. Und da wegen Müdigkeit im echten und im übertragenen Sinn ich diesmal nur die zweite Hälfte gesehen habe, kann ich nicht sagen, wie der Eröffnungsmonolog von Conan o'Brien war. Da ich den aber eh nicht so gut leiden kann, ist schwer vorstellbar, etwas verpasst zu haben.
 
 Dankenswerterweise werden die nominierten Lieder ja nicht mehr vorgetragen, bis auf den Gewinner und das war schlimm genug.
 
