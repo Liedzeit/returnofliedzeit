@@ -1,6 +1,6 @@
 ---
 title: "Oscars 2026"
-date: "2025-03-16"
+date: "2026-03-16"
 tags: ["levity", "oscar"]
 keywords: ["Autumn Durald Arkapaw","Timothée Chalamet","Conan o'Brien","Kimmel"]
 backgroundImage: "/assets/img/cinema.png"
