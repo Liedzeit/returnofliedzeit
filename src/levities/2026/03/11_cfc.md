@@ -5,7 +5,7 @@ tags: ["levity", "cinema"]
 keywords: ["Gene Hackman", "John Frankenheimer","Gwyneth Paltrow"]
 backgroundImage: "/assets/img/cinema.png"
 ---
-Fortsetzungen gelten gemeinhin als nicht so gut. Stimmt meistens. Auch in diesem Fall. Popyey Doyle soll in Marseilles einen Drogenmenschen fassen. Es gibt den erwartbaren Zoff mit der französischen Polizei.
+Fortsetzungen gelten gemeinhin als nicht so gut. Stimmt meistens. Auch in diesem Fall. Popeye Doyle soll in Marseilles einen Drogenmenschen fassen. Es gibt den erwartbaren Zoff mit der französischen Polizei.
 
 Dann wird er von den Gangstern geschnappt, drei Wochen festgehalten und in der Zeit heroinabhängig gemacht. Kaufen kann man den Mann natürlich nicht. Dann wird er freigelassen, und es folgt eine Cold Turkey-Szene, die nicht schlecht ist, aber auch nicht herausragend.
 
