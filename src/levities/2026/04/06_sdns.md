@@ -2,7 +2,7 @@
 title: "Schalke-DNS"
 date: "2026-04-06"
 tags: ["levity","misc"]
-keywords: ["Miron Muslić,"Edin Džeko","Nikola Katic","Kenan Karaman","Mertcan Ayhan","Ralf Ragnick","Raul"]
+keywords: ["Miron Muslić","Edin Džeko","Nikola Katic","Kenan Karaman","Mertcan Ayhan","Ralf Ragnick","Raul"]
 ---
 Džeko und Katic verletzt, Karaman gelbgesperrt, genau wie Mertcan Ayhan. Und was sagt der Trainer, Miron Muslić?
 
