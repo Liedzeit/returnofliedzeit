@@ -12,4 +12,4 @@ Mario Adorf in Kir Royal natürlich. Einer der großen Stars ist von uns gegange
 Gerade ihn zu ehren, Winnetou (7/10) endlich mal wieder gesehen. Und da muss ich leider sagen, Sky Dumont ist der ungleich bessere Schurke.
 Blechtrommel, Totenschiff, Schachnovelle. Die so beliebten Mehrteiler, Bellheim und so, kenne ich nicht.
 
-Aber er war ja auch gern gesehener Gast in Talkshows. Und da brachte er immerhin das Kunststück fertig, gleichzeitig als weltmännisch und bescheiden herüberzukommen.
+Aber er war ja auch gern gesehener Gast in Talkshows. Und da brachte er immerhin das Kunststück fertig, gleichzeitig als weltmännisch und bescheiden rüberzukommen.
