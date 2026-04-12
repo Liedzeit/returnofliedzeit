@@ -11,7 +11,7 @@ Wir sind Schalke. Wir jammern nicht!
 Da muss er wohl etwas falsch verstanden haben. Aber er ist ja auch nocht nicht lange dabei.
 
 Buhuhuuu, warum mussten Džeko und Katic gegen Italien spielen, warum mussten sie sich verletzen? Warum wurde Džeko rotgesperrt? Buhuuhu.
-Warum wurde so lange nachgespielt? Warum hat Karius den letzten Ball nicht gehalten? Warum sind wir seit siebzig Jahren nicht mehr Meister geworden? Warum musste Merk den Bayern den Freistoß geben? Warum musste Andersson treffen? Oje, oje. Buhuhu. Warum wurde Ragnick entlassen? Warum der Vertrag mit Raul nicht verlängert? Usw.
+Warum wurde so lange nachgespielt? Warum hat Karius den letzten Ball nicht gehalten? Warum sind wir seit siebzig Jahren nicht mehr Meister geworden? Warum musste Merk den Bayern den Freistoß geben? Warum musste Andersson treffen? Oje, oje. Buhuhu. Warum wurde Ragnick entlassen? Warum der Vertrag mit Raúl nicht verlängert? Usw.
 
 So geht das. Ist doch gar nicht so schwer.
 
