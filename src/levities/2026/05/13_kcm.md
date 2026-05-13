@@ -1,8 +1,8 @@
 ---
 title: "Dem Andenken eines Engels"
-date: "2026-04-01"
+date: "2026-05-13"
 tags: ["levity","concert"]
-keywords: ["Vilde Frang","Teodor Currentzis","Christoph Eschenbach","Leonard Bernstein"]
+keywords: ["Vilde Frang","Teodor Currentzis","Christoph Eschenbach","Leonard Bernstein","André Rieu"]
 backgroundImage: "/assets/img/orchester.png"
 ---
 Und schon wieder Teodor Currentzis. Diesmal präsentiert er das Vionlinkonzert <i>Dem Andenken eines Engels</i> mit Vilde Frang von Alban Berg und Mahlers erste Sinfonie.
