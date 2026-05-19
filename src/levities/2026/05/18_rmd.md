@@ -20,7 +20,7 @@ Meine Liste der besten Radio-Musikmoderatoren sieht so aus:
 </ul>
 
 <br>
-Wie ich gerade jetzt darauf komme? Weil ich gerade erst erfahren habe, dass ich ein Fan von Ad Visser war. Der nämlich war verantwortlich für eine der besten Radiosendungen überhaupt, nämlich *Superclean Dreammachine*, die auf Hilversum III lief. Nur wusste ich das nicht. In dieser Sendung, und das war das besondere wurden ganze LPs ohne Unterbrechung gespielt und eingeleitet und unterbrochen wurde das immer von Jingles mit spährischen Geräuschen und irgendwelchen holländischen Texten. Dabei tauchte auch immer ein Klang auf, der wie <i>Ad Visser</i> klang, nur wusste ich nicht, dass das ein Name war.
+Wie ich gerade jetzt darauf komme? Weil ich gerade erst erfahren habe, dass ich ein Fan von Ad Visser war. Der nämlich war verantwortlich für eine der besten Radiosendungen überhaupt, nämlich <i>Superclean Dreammachine</i>, die auf Hilversum III lief. Nur wusste ich das nicht. In dieser Sendung, und das war das besondere wurden ganze LPs ohne Unterbrechung gespielt und eingeleitet und unterbrochen wurde das immer von Jingles mit spährischen Geräuschen und irgendwelchen holländischen Texten. Dabei tauchte auch immer ein Klang auf, der wie <i>Ad Visser</i> klang, nur wusste ich nicht, dass das ein Name war.
 
 Und nun also entdecke ich diese famose <a href="http://www.scdm.nl/start" class="logo">Seite</a>. 
 
