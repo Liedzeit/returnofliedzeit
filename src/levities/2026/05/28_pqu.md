@@ -1,6 +1,6 @@
 ---
 title: "Dept. Pubquiz"
-date: "2025-05-28"
+date: "2026-05-28"
 tags: ["levity"]
 keywords: ["Paul Gerhardt","James Garner"]
 ---
