@@ -1,8 +1,8 @@
 ---
 title: "MuZero"
-date: "2026-12-06"
+date: "2026-06-12"
 tags: ["levity","misc"]
-keywords: ["Gert Scobel"]
+keywords: ["Gert Scobel","Lee Sedol"]
 ---
 Gert Scobel hat gerade ein <a href="https://www.youtube.com/watch?v=XU4W0NfauuM" class="logo">Thema</a> behandelt, das mir besonders am Herzen liegt: MuZero und was bedeutet das für unser Verständnis vom Verstehen.
 
