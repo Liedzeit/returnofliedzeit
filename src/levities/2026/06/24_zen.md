@@ -3,7 +3,7 @@ title: "Zensur"
 date: "2026-06-24"
 tags: ["levity", "misc"]
 ---
-Einen Teil meiner Freizeit, also der ganzen, verbringe ich damit, auf Goodreads Rezensionen zu den Bücher, die ich so lese, zu schreiben. Bisher über 2400.
+Einen Teil meiner Freizeit, also der ganzen, verbringe ich damit, auf Goodreads Rezensionen zu den Büchern, die ich so lese, zu schreiben. Bisher über 2400.
 
 Und nun geschah es, dass eine dieser Buchbesprechungen gelöscht wurde. Worin bestand mein Fehlverhalten? Nun, ich schrieb, dass in „my mind“ alle X Y seien. Fügte hinzu, dass es sich dabei um ein Voruteil handele. Half nichts. Weg damit.
 
