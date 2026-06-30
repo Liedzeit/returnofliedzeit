@@ -2,7 +2,7 @@
 title: "Aus, Ende, Feierabend"
 date: "2026-06-30"
 tags: ["levity","misc"]
-keywords: ["Julian Nagelsmann","Joshua Kimmich",""Leroy Sané","Undav"]
+keywords: ["Julian Nagelsmann","Joshua Kimmich","Leroy Sané","Undav"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
 Die K.o.-Runde erreicht zu haben, ist schon einmal aller Ehren wert. Und gegen aufopferungsvoll verteidigende Paraguayaner unglücklich zu verlieren ist keine Schande. Die gute Nachricht ist, Julian Nagelsmann ist noch jung, und er kann in den nächsten vierzig Jahren noch zehnmal versuchen seinen Traum wahrzumachen. Wobei die Weltmeisterschaft ist ja eigentlich nicht so sehr ein Traum, als vielmehr die ihm zustehende Ernte als Ausnahmetrainer.
