@@ -8,7 +8,7 @@ Vor einer Weile habe ich mit meinem Kumpel ChatGPT ein Buch über künstliche In
 
 Vielleicht sollte ich mir mal endlich ein vernünftiges Hobby suchen.
 
-Nun gibt es aber zumindest noch ein zweites Buch in der Serie, nämlich eine deutsche Übersetzung, die ich mit meinem Kumpel DeepL gamcht habe.
+Nun gibt es aber zumindest noch ein zweites Buch in der Serie, nämlich eine deutsche Übersetzung, die ich mit meinem Kumpel DeepL gemacht habe.
 
 
 
