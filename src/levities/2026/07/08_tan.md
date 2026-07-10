@@ -15,3 +15,5 @@ Das also das Drama, das dadurch verstärkt wird, dass der Verlobte Haimon (Harze
 Verstehen ist das Stichwort. Das ist nicht so einfach, Sophokles (dessen Schwert bekanntlich über uns allen schwebt) in der Übersetzung von Hölderlin. Da muss man schon sein ganzes Bildungsbürgertum zusammenkratzen und sich in einen Modus versetzen, der einem suggeriert, das nicht nur toll finden zu sollen, sondern es wirklich nach einer relativ kurzen Gewöhnungsphase, toll zu finden. Hauptsächlich Harzer. Die Illusion, die langen Monologe zu verstehen, ist beinahe perfekt. Das nenne ich Kunst. Was Kreon dagegen zu sagen hat, ist so verständlich, dass es beinahe schon suspekt ist. Kann der das meinen, respektive sie? Die Vögel sollen ihn fressen, er hat es nicht anders verdient. 
 
 Und nach diversen Selbstmorden steht er da, und hat Gelegenheit, möglicherweise, seinen Starrsinn zu bereuen.
+
+Berliner Ensemble
