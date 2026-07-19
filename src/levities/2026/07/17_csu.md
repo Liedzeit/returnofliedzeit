@@ -17,6 +17,6 @@ Janet Gaynor hat einen Oscar erhalten, der Film selbst einen für künstlerische
 
 In der Tat ist die Kamera sensationell. Ein sehr ungewöhnlicher und schöner Film.
 
-Das ganze wurde übrigens live von einer Gitarrencombo begleitet, die fand ich zuerst störend, gewöhnte mich aber. Die Musik war auch ganz und gar nicht schlecht. Aber warum die Jungs auf die Idee kamen, dass Hey Joe zu dem Thema passen würde, ist ein größeres Rätsel. 
+Das Ganze wurde übrigens live von einer Gitarrencombo begleitet, die fand ich zuerst störend, gewöhnte mich aber. Die Musik war auch ganz und gar nicht schlecht. Aber warum die Jungs auf die Idee kamen, dass Hey Joe zu dem Thema passen würde, ist ein größeres Rätsel. 
 
 Freilichtkino Ratzeburg. 8/10
