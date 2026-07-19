@@ -1,6 +1,6 @@
 ---
 title: "Skandal"
-date: "2026-07-17"
+date: "2026-07-16"
 tags: ["levity","misc"]
 keywords: ["Jens Spahn","Donald Trump","Gianni Infantino","Folarin Balogun"]
 ---
