@@ -1,7 +1,7 @@
 const { processEntry } = require("@staticman/netlify-functions");
 const queryString = require("querystring");
 
-exports.handler = (event, context, callback) => {
+exports.handler = async (event, context) => {
   const repo = process.env.REPO;
   const [username, repository] = repo.split("/");
   const bodyData = queryString.parse(event.body);
@@ -34,5 +34,13 @@ exports.handler = (event, context, callback) => {
     },
   };
 
-  return processEntry(event, context, callback, config);
+  return new Promise((resolve, reject) => {
+    processEntry(event, context, (err, result) => {
+      if (err) {
+        reject(err);
+      } else {
+        resolve(result);
+      }
+    }, config);
+  });
 };
