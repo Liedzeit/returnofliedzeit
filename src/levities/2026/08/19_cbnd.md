@@ -2,7 +2,7 @@
 title: "Spider-Man: Brand New Day"
 date: "2026-08-19"
 tags: ["levity", "cinema"]
-keywords: ["Tom Holland, "Zendaya, "Jacob Batalon","Mark Ruffalo","Florence Pugh"]
+keywords: ["Tom Holland", "Zendaya", "Jacob Batalon","Mark Ruffalo","Florence Pugh"]
 backgroundImage: "/assets/img/cinema.png"
 ---
 Den ersten Holland-Spider-Man fand ich grauenhaft, hauptsächlich wegen Zendaya (MJ) and Jacob Batalon (dem nerdigen Side-Kick Ned Leeds), so dass ich mir den zweiten Teil sparte. Den dritten Teil sah ich mir an, weil da Tobey mit dabei war. Außerdem, so schien es, wurde da aufgeräumt. Die beiden wurden, Dr. Strange sei Dank, ausgelöscht, bzw. er aus ihrem Gedächtnis entfernt.
