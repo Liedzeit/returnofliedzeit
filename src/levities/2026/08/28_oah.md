@@ -5,6 +5,6 @@ tags: ["levity","obi"]
 keywords: ["Andreas Hoppe"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
-Als überzeugter NurMünsterTatortGucker kenne ich die anderen Kommissare eigentlich. Den einen oder anderen durch Osmose natürlich doch. Und Frau Folkerts sah ich das eine oder andere Mal auch freiwillig. Aber nur solange Mario Kopper noch dabei war.
+Als überzeugter NurMünsterTatortGucker kenne ich die anderen Kommissare eigentlich nicht. Den einen oder anderen durch Osmose natürlich doch. Und Frau Folkerts sah ich das eine oder andere Mal auch freiwillig. Aber nur solange Mario Kopper noch dabei war.
 
 Und von uns gegangen sind noch ein König und eine Punktemalerin, ein Kriegsverbrecher und der Hauptdarsteller eines Kultfilms.
