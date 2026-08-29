@@ -12,3 +12,5 @@ Nun also ist Dolly Partion von uns gegangen, und Donald Trump ordnet eine Woche 
 Also habe ich mich heute durch (fast) die ganze Jolene-LP gehört. Sagen wir, ein Erlebnis, das ich nicht wiederholen muss.
 
 Natürlich hat sie auch noch andere Qualitäten gehabt. Nicht zuletzt wurde ein berühmtes Schaf nach ihr benannt.
+
+-- Kleiner Nachtrag. Dolly Parton bei Johnny Carson, und sie singt ein Lied darüber wie schön es wäre, mal bei Carson auftreten zu können. Ganz und gar nicht schlecht.
