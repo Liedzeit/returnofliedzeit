@@ -11,6 +11,6 @@ Auf dem Hamburger Filmfest gibt es einen Film mit Nina Hoss. Wie schlecht kann d
 
 Mariko Minoguchi, die auch das Drehbuch schrieb, versucht uns über die Bilder, und mit vielen Schnitten, die gewollt erscheinen sollen,  zu gewinnen. Aber das ist eher holprig. Und es hilft auch nicht, dass die auftretenen Schauspieler, außer Nina, nicht auch nur geringen Ansprüchen genügen. Das ändert sich erst als sie auf der Flucht nach Italien (auf der anderen Seite der Alpen) einer alten Frau, Barbara Petritsch, begegnet, da vergisst man kurzfristig, dass da Menschen sind, die nur so tun, als wären sie andere. Der überlässt sie ihr Gewehr, wird dafür von ihr gestreichelt. Good deal.
 
-Dann begegnet sie einer hochschwangeren schwarzen jungen Frau - Mariam Sanusi (auch nicht besonders talentiert, aber auch nicht so schlecht) und von da hat der Film zumindest etwas Zug. Jede Berührung führt (mutmaßlich)zum Tod, und darum kann Nina ihr bei der Geburt nur mit Rat, nicht mit Tat zur Seite stehen. Eine sehr gute Szene, die einen Stern ausmacht. Zwei für Nina, und so komme ich auf:
+Dann begegnet sie einer hochschwangeren schwarzen jungen Frau - Mariam Sanusi (auch nicht besonders talentiert, aber auch nicht so schlecht) und von da hat der Film zumindest etwas Zug. Jede Berührung führt (mutmaßlich) zum Tod (man sieht einen Hund, der sein Todesurteil unterschreibt, weil er sie ableckt), und darum kann Nina ihr bei der Geburt nur mit Rat, nicht mit Tat zur Seite stehen. Eine sehr gute Szene, die einen Stern ausmacht. Zwei für Nina, und so komme ich auf:
 
 6/10 Passage
