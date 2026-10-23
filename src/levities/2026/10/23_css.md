@@ -1,6 +1,6 @@
 ---
 title: "The Spiral Staircase"
-date: "2026-10-17"
+date: "2026-10-23"
 tags: ["levity", "cinema"]
 keywords: ["Dorothy McGuire", "George Brent","Robert Siodmak","Ethel Barrymore","Gordon Oliver","Elsa Lanchester"]
 backgroundImage: "/assets/img/cinema.png"
