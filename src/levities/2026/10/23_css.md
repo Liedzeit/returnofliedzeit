@@ -13,5 +13,7 @@ Leider habe ich mich früh daran erinnert, dass tatsächlich der Professor der T
 
 Es gibt auch noch die hervorragende Elsa Lanchaster, aber ich muss gestehen, der Film ist längst nicht so gut wie in der Erinnerung, und so sah ich mich genötigt, meine frühere IMdB-Bewertung nach untern zu korrigieren.
 
+Und damit endet die kleine Siodmak-Retrospektive.
+
 youTube 8/10 (IMdB: 7,2 - 13K)
 
