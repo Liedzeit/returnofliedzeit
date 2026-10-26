@@ -5,7 +5,7 @@ tags: ["levity","obi"]
 keywords: ["Walter Koenig","Celeste Yarnall"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
-Gestern hat mir der YouTube-Algorithmus ein kleines Interview mit Walter Koenig angeboten, wo er erzählte, dass er bei Start Trek 11.000$ verdient habe, nicht pro Woche, sondern pro Staffel. Wie er anschließend pleite war, bis er anfing kleine Sachen für Film und Fernsehen zu schreiben. Immerhin hat er sich durchschlagen können bis ins 90. Jahr.
+Gestern hat mir der YouTube-Algorithmus ein kleines Interview mit Walter Koenig angeboten, wo er erzählte, dass er bei Star Trek 11.000$ verdient habe, nicht pro Woche, sondern pro Staffel. Wie er anschließend pleite war, bis er anfing kleine Sachen für Film und Fernsehen zu schreiben. Immerhin hat er sich durchschlagen können bis ins 90. Jahr.
 
 Also unsterblich in jeder wichtigen Hinsicht als Pavel Andreievich Chekov, Fähnrich an Bord der Enterprise. Große Rollen hatte er da nicht, aber für etwas internationalen Flair sorgte er.
 
