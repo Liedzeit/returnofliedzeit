@@ -11,7 +11,7 @@ Also unsterblich in jeder wichtigen Hinsicht als Pavel Andreievich Chekov, Fähn
 
 Gerade eben habe ich mir willkürlich eine Folge Enterprise herausgesucht. Die Stunde der Erkenntnis, orig. The Apple. Folge fünf der zweiten Staffel, und eine Folge, die ich nicht kannte. Das ZDF hatte sie seinerzeit nicht ausgestrahlt, aus gutem Grunde, denn die Pappmarché-Geschichte ist selbst für Enterprise-Verhältnisse dürftig. Gleichzeitig natürlich auch brilliant.
 
-Die Enterprise landet auf einem Planeten, auf dem die Menschen keine Krankheiten haben und nicht altern. Und natürlich auch keinen Sex haben, weil das der Vaal verbietet. Der Vaal sorgt für Sonne und Regen und Speis und Trank. Den geht es so gut wie den Eloy, und sie werden nicht einmal aufgefressen. Natürlich sind Pille und Kirk der Meinung, dass ihr Leben dennoch geändert werden muss und sie zerstören Vaal. Nur Spock ist sich nicht so sicher, dass das die richtige Entscheidung war.
+Die Enterprise landet auf einem Planeten, auf dem die Menschen keine Krankheiten haben und nicht altern. Und natürlich auch keinen Sex haben, weil das der Vaal verbietet. Der Vaal sorgt für Sonne und Regen und Speis und Trank. Denen geht es so gut wie den Eloy, und sie werden nicht einmal aufgefressen. Natürlich sind Pille und Kirk der Meinung, dass ihr Leben dennoch geändert werden muss und sie zerstören Vaal. Nur Spock ist sich nicht so sicher, dass das die richtige Entscheidung war.
 
 Und Chekov? Der darf in dieser Folge Martha Landon (Celeste Yarnall) küssen, um den armen Eingeborenen ein leuchtendes Beispiel zu geben. 
 
