@@ -1,8 +1,8 @@
 ---
 title: "X"
-date: "2026-10-29"
+date: "2026-10-30"
 tags: ["levity","obi"]
-keywords: ["Patrick Stewart","Peter Sellers"]
+keywords: ["Patrick Stewart"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
 1987 war in in New York als die erste Folge der neuen Star Trek Serie im Fernsehen lief. Die Zeitungen waren seit Tagen voll mit Vorberichtserstattung. Ich sah das dann in einer Kneipe (ich hatte wahrscheinlich das einzige Hotelzimmer in NY ohne Fernseher). Ohne Ton. Dafür aber mit vielen Kommentaren der anderen Zuschauer. Am besten fanden wir alle das Auftauchen von McCoy.
