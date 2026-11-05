@@ -5,7 +5,7 @@ tags: ["levity","obi"]
 keywords: ["Joseph von Westphalen","Stephen Ellis"]
 backgroundImage: "/assets/img/grave.jpg"
 ---
-In der Zeitung lese ich heute vom Ableben des Joseph von Westphalen. Von ist mir vor nicht so langer Zeit das schöne Buch *Warum ich Monarchist geworden bin* in die Hände gefallen. Ich wusste, dass ich den kannte, aber nicht mehr, warum eigentlich. Das Buch jedenfalls enthält viele schöne kleine Glossen, oder Entrüstungen, wie er sagt. Sehr nonkonformistisch. Warum ich keine Turnschuhe mehr trage, oder war es Warum ich trotzdem Turnschuhe trage? Jedenfalls geht es um die nicht ganz weltbewegenden Themen. Sehr hübsch und nur so ein ganz kleines bisschen besserwisserisch.
+In der Zeitung lese ich heute vom Ableben des Joseph von Westphalen. Von ihm ist mir vor nicht so langer Zeit das schöne Buch *Warum ich Monarchist geworden bin* in die Hände gefallen. Ich wusste, dass ich den kannte, aber nicht mehr, warum eigentlich. Das Buch jedenfalls enthält viele schöne kleine Glossen, oder Entrüstungen, wie er sagt. Sehr nonkonformistisch. Warum ich keine Turnschuhe mehr trage, oder war es Warum ich trotzdem Turnschuhe trage? Jedenfalls geht es um die nicht ganz weltbewegenden Themen. Sehr hübsch und nur so ein ganz kleines bisschen besserwisserisch.
 
 Und nun klärt mich der Artikel auf, warum ich den kannte, weil er seinerzeit einen offenen Briefwechsel mit Monika Maron in der ZEIT hatte. (In der Zeit als wir alle noch die ZEIT lasen, also bevor es da so Seiten wie, Warum die Religion so toll ist, oder Warum ich meine Oma lieb habe gab.)
 
