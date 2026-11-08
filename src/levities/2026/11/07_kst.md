@@ -1,6 +1,6 @@
 ---
 title: "Da bin ich Fan von"
-date: "2026-10-07"
+date: "2026-11-07"
 tags: ["levity","concert"]
 keywords: ["Stoppok"]
 ---
@@ -12,6 +12,7 @@ Schmissige Rockmusik. Da bin ich Fan von. Launige Kommentare. „Wenn eine Seite
 
 <br/>  
 <img  src="/assets/img/concert/Stoppok.webp" alt="stoppok">
+<br/>  
 <br/>  
 Die Hamburger zum Mitsingen animieren. Da bin ich Fan von.
 
