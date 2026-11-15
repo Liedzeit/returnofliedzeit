@@ -3,6 +3,7 @@ title: "Tanzaggregat"
 date: "2026-11-14"
 tags: ["levity", "concerts"]
 keywords: ["Teodor Currentzis"]
+backgroundImage: "/assets/img/orchester.png"
 ---
 Schon wieder Teodor Currentzis in der Elbphilharmonie. Könnte ich langsam ein Dept. starten.
 
