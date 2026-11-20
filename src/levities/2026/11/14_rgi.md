@@ -12,7 +12,7 @@ Diesmal gab es Dmitri Schostakowitsch: Konzert für Violine und Orchester Nr. 1 
 und Igor Strawinsky: Le sacre du printemps / Bilder aus dem heidnischen Russland
 
 
-Solist der Schwede Daniel Lozakovich. Den fand ich jetzt nicht so begnadet, aber da hatte ich sicher eine Einzelmeinung. (Für alle anderen ist er mindestens ein Ausnahmetalent.) Allerdings bin aich ja auch der Meinung, dass wenn man schon Geige spielen muss, dann wie Jim Lea von Slade.
+Solist der Schwede Daniel Lozakovich. Den fand ich jetzt nicht so begnadet, aber da hatte ich sicher eine Einzelmeinung. (Für alle anderen ist er mindestens ein Ausnahmetalent.) Allerdings bin ich ja auch der Meinung, dass wenn man schon Geige spielen muss, dann wie Jim Lea von Slade.
 
 Der Schostakowitsch ging lahm los, steigerte sich aber, und wann immer Daniel sich nicht in den Vordergrund drängelte, fand ich das ganz prima. Der Solist wurde natürlich zu einer Zugabe ermuntert, die er bereitwillig gab. (Eugène Ysaÿe  „L’Aurore“ (Sonnenaufgang) aus der Sonate für Violine solo Nr. 5 G-Dur op. 27/5).
 

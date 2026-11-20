@@ -13,8 +13,8 @@ Sein Job bestand darin, die aktuelle Musik der playlist zu spielen, die seinerze
 
 Jingles liefen andauernd, so ein Dutzend. Meistens Werbung für den BFBS, aber es gab auch welche, die keinen richtigen Sinn machten so wie “Albatros“. 
 
-Ich fand das lustig, wenn auch vielleicht manchmal etwas bieder. Und ich hätte geschworen, dass der Mann mindestens Ende dreißig sein musste. Tatsächlich war er nur ein paar Jahre älter als ich. Ein paar Sekungden habe ich an der einen oder anderen Stelle auf alten Cassetten, aber die kann ich im Moment nicht suchen, weil der Rekorder es nicht mehr tut. 
+Ich fand das lustig, wenn auch vielleicht manchmal etwas bieder. Und ich hätte geschworen, dass der Mann mindestens Ende dreißig sein musste. Tatsächlich war er nur ein paar Jahre älter als ich. Ein paar Sekunden habe ich an der einen oder anderen Stelle auf alten Cassetten, aber die kann ich im Moment nicht suchen, weil der Rekorder es nicht mehr tut. 
 
-Der BFBS wurde übrigens für die 150.000 Briten in Deutschand gemacht, aber etwas 5 Millionen Deutsche hörten auch zu. Das durfte aber niemand zugeben, den sonst hätten sie Gema-Gebühren zahlen müssen.
+Der BFBS wurde übrigens für die 150.000 Briten in Deutschand gemacht, aber etwa 5 Millionen Deutsche hörten auch zu. Das durfte aber niemand zugeben, denn sonst hätten sie Gema-Gebühren zahlen müssen.
 
 Zusatzbemerkung: Weil das aktuelle Bilderrätsel so schwer ist, habe ich hier einen kleinen Tipp eingebaut.
